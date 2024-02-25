@@ -1,177 +1,181 @@
 {
-    "header": {
-        "heading": {
-            "text": "Get the training you need to land the",
-            "color": "rgb(229, 231, 235)",
-            "extra_text":"job of your dreams."
-        },
-        "content": {
-            "text": "Whether you're a beginner or have years of experience, we have courses to help you learn and be certified in software engineering, web development, mobile development, security, dev-ops, project management, Web3, AI, and more.",
-            "color": "rgb(229, 231, 235)"
-            
-        },
-        "bullets": [],
-        "background_image": "/images/landing-image.jpg",
-        "image": "",
-        "button_1": 
-            {
-                "button_text": "Get Started",
-                "button_link": "/",
-                "button_color": "#FACC15"
-            },
-        "button_2":
-            {
-                "button_text": "Find a Course",
-                "button_link": "/",
-                "button_color": "#E5E7EB"
-            }
+  "header": {
+    "heading": {
+      "text": "Get the training you need to land the",
+      "color": "rgb(229, 231, 235)",
+      "extra_text": "job of your dreams."
     },
-    "title_container": [
-        {
-            "heading": "Invest in Yourself",
-            "paragraph": "We believe that training is the best way to get ahead in life and in our careers. The best training helps accelerate your learning and lets you advance fast."
-        },
-        {
-            "heading": "Find Your Career Path",
-            "paragraph": "Choose the right training for your career. If you're not sure, schedule a call with an Admissions Advisor <a href='/contact' style='color: #0284c7;'> here </a> to find out which classes are right for you."
-        },
-        {
-            "heading": "Not sure where to start",
-            "paragraph": "If you're not sure which class is best for you, our <a href='/contact' style='color: #0284c7;'> admissions team </a> is ready to help."
-        }
-    ],
-    "carousel": [
-        {
-            "image": "/images/students.jpg",
-            "title": "Learn In-Demand Skills",
-            "content": "Our relationships with tech companies help us tailor our curriculum to teach you the skills software companies are hiring for."
-        },
-        {
-            "image": "/images/staff.jpg",
-            "title": "Learn from Experts",
-            "content": "Learn from senior-level professionals with successful careers in tech and real industry experience."
-        },
-        {
-            "image": "/images/comunify-app.jpg",
-            "title": "Work on Real Projects",
-            "content": "Solve real problems and graduate with real experience. You'll get to work on real projects so you're prepared to solve real-world problems."
-        }
-    ],
-    "pricing_info_variable": [
-        {
-            "heading": "Data Analytics and Python",
-            "paragraph": "Learn how to slice and dice our data in countless ways and learn a powerful language and tool set that gives us unlimited power to analyze and visualize our data.",
-            "bullets": [
-                "Evenings",
-                "Beginner-Friendly",
-                "Intro to Python",
-                "CRISP-DM",
-                "In-Person",
-                "Intro to Data Analytics",
-                "Machine Learning Algorithms"
-            ],
-            "finance_msg": "Finance for as little as 0% for 24 months"
-        },
-        {
-            "heading": "AR / VR and Game Development",
-            "paragraph": "Learn the valuable art of Game Development. Create a portfolio of games and learn the trade in our unique 3-week course.",
-            "bullets": [
-                "Evenings",
-                "Beginner-Friendly",
-                "Unity 3D",
-                "C# Basics",
-                "In-Person",
-                "Build and Program Games",
-                "Game Dev Principles",
-                "Mixed and Virtual Reality"
-            ],
-            "finance_msg": "Finance for as little as 0% for 24 months"
-        },
-        {
-            "heading": "Intro to Web Development",
-            "paragraph": "Learn Web Development from scratch. Create a portfolio of websites and learn the trade in our valuable 3-week course.",
-            "bullets": [
-                "Evenings",
-                "Beginner-Friendly",
-                "Learn from scratch",
-                "Tailwind, Bootstrap, and Flexbox",
-                "Online",
-                "Build and Deploy Websites",
-                "HTML, CSS, and JavaScript"
-            ],
-            "finance_msg": "Finance for as little as 0% for 24 months"
-        },
-        {
-            "heading": "Software Engineering Career Track",
-            "paragraph": "Learn to build web, mobile, and desktop apps, as well as backend, database, API, cloud, security, devOps, interview preparation, and project management.",
-            "bullets": [
-                "Full-Time",
-                "Beginner-Friendly",
-                "Programming Fundamentals",
-                "Frontend (Web and Mobile)",
-                "In-Person",
-                "10-Week Intensive",
-                "Backend (APIs and Databases)",
-                "Portfolio based"
-            ],
-            "finance_msg": "Finance for as little as 0% for 24 months"
-        },
-        {
-            "heading": "Intro to JavaScript and Node.js",
-            "paragraph": "Learn Backend Development and create REST APIs with JavaScript, Node.js, and Express in 3 weeks.",
-            "bullets": [
-                "Evenings",
-                "Beginner-Friendly",
-                "JavaScript and Node.js",
-                "API development",
-                "Online",
-                "Backend development",
-                "Express"
-            ],
-            "finance_msg": "Finance for as little as 0% for 3 months"
-        },
-        {
-            "heading": "React",
-            "paragraph": "Learn React in 3 weeks and build your first React apps! This part-time, project-based course will teach you the skills you need to build React applications. You'll learn the fundamentals of React, including components, state, and props, and you'll build a portfolio of projects to showcase your skills. Enroll today and start your journey to becoming a React developer!",
-            "bullets": [
-                "Evenings",
-                "Requires HTML, CSS, and JavaScript",
-                "State",
-                "Hooks",
-                "Online",
-                "Components",
-                "Props",
-                "Next.js"
-            ],
-            "finance_msg": "Finance for as little as 0% for 3 months"
-        }
-    ],
-    "two_columns": {
-        "left": {
-            "heading": {
-                "text": "Get the training you need to land the job of your dreams",
-                "color": "rgb(24, 24, 27)",
-                "font_size": "30px"
-            },
-            "content": {
-                "text": "Whether you're a beginner or have years of experience, we have courses to help you learn and be certified in software engineering, web development, mobile development, security, dev-ops, project management, Web3, AI, and more.",
-                "color": "rgb(113, 113, 122)",
-                "font_size": "16px",
-                "font_weight": "400",
-                "line_height": "24px"
-            },
-            "buttons": [
-                {
-                    "button_text": "Schedule a Call",
-                    "button_link": "/",
-                    "button_color": "rgb(225, 29, 72)",
-                    "button_textcolor": "rgb(250, 250, 250)",
-                    "button_fontsize": "16px"
-                }
-            ]
-        },
-        "right": {
-            "image": "/images/graduation.jpg"
-        }
+    "content": {
+      "text": "Whether you're a beginner or have years of experience, we have courses to help you learn and be certified in software engineering, web development, mobile development, security, dev-ops, project management, Web3, AI, and more.",
+      "color": "rgb(229, 231, 235)"
+    },
+    "bullets": [],
+    "background_image": "/images/landing-image.jpg",
+    "image": "",
+    "button_1": {
+      "button_text": "Get Started",
+      "button_link": "/",
+      "button_color": "#FACC15"
+    },
+    "button_2": {
+      "button_text": "Find a Course",
+      "button_link": "/",
+      "button_color": "#E5E7EB"
     }
+  },
+  "title_container": [
+    {
+      "heading": "Invest in Yourself",
+      "paragraph": "We believe that training is the best way to get ahead in life and in our careers. The best training helps accelerate your learning and lets you advance fast."
+    },
+    {
+      "heading": "Find Your Career Path",
+      "paragraph": "Choose the right training for your career. If you're not sure, schedule a call with an Admissions Advisor <a href='/contact' style='color: #0284c7;'> here </a> to find out which classes are right for you."
+    },
+    {
+      "heading": "Not sure where to start",
+      "paragraph": "If you're not sure which class is best for you, our <a href='/contact' style='color: #0284c7;'> admissions team </a> is ready to help."
+    }
+  ],
+  "carousel": [
+    {
+      "image": "/images/students.jpg",
+      "title": "Learn In-Demand Skills",
+      "content": "Our relationships with tech companies help us tailor our curriculum to teach you the skills software companies are hiring for."
+    },
+    {
+      "image": "/images/staff.jpg",
+      "title": "Learn from Experts",
+      "content": "Learn from senior-level professionals with successful careers in tech and real industry experience."
+    },
+    {
+      "image": "/images/comunify-app.jpg",
+      "title": "Work on Real Projects",
+      "content": "Solve real problems and graduate with real experience. You'll get to work on real projects so you're prepared to solve real-world problems."
+    }
+  ],
+  "pricing_info_variable": [
+    {
+      "heading": "Data Analytics and Python",
+      "active": false,
+      "paragraph": "Learn how to slice and dice our data in countless ways and learn a powerful language and tool set that gives us unlimited power to analyze and visualize our data.",
+      "bullets": [
+        "Evenings",
+        "Beginner-Friendly",
+        "Intro to Python",
+        "CRISP-DM",
+        "In-Person",
+        "Intro to Data Analytics",
+        "Machine Learning Algorithms"
+      ],
+      "finance_msg": "Finance for as little as 0% for 24 months"
+    },
+    {
+      "heading": "AR / VR and Game Development",
+      "active": false,
+      "paragraph": "Learn the valuable art of Game Development. Create a portfolio of games and learn the trade in our unique 3-week course.",
+      "bullets": [
+        "Evenings",
+        "Beginner-Friendly",
+        "Unity 3D",
+        "C# Basics",
+        "In-Person",
+        "Build and Program Games",
+        "Game Dev Principles",
+        "Mixed and Virtual Reality"
+      ],
+      "finance_msg": "Finance for as little as 0% for 24 months"
+    },
+    {
+      "heading": "Intro to Web Development",
+      "active": false,
+      "paragraph": "Learn Web Development from scratch. Create a portfolio of websites and learn the trade in our valuable 3-week course.",
+      "bullets": [
+        "Evenings",
+        "Beginner-Friendly",
+        "Learn from scratch",
+        "Tailwind, Bootstrap, and Flexbox",
+        "Online",
+        "Build and Deploy Websites",
+        "HTML, CSS, and JavaScript"
+      ],
+      "finance_msg": "Finance for as little as 0% for 24 months"
+    },
+    {
+      "heading": "Software Engineering Career Track",
+      "active": true,
+      "paragraph": "Learn to build web, mobile, and desktop apps, as well as backend, database, API, cloud, security, devOps, interview preparation, and project management.",
+      "bullets": [
+        "Full-Time",
+        "Beginner-Friendly",
+        "Programming Fundamentals",
+        "Frontend (Web and Mobile)",
+        "In-Person",
+        "10-Week Intensive",
+        "Backend (APIs and Databases)",
+        "Portfolio based"
+      ],
+      "finance_msg": "Finance for as little as 0% for 24 months",
+      "button_link": "/courses/career/software-engineering"
+    },
+    {
+      "heading": "Intro to JavaScript and Node.js",
+      "active": false,
+      "paragraph": "Learn Backend Development and create REST APIs with JavaScript, Node.js, and Express in 3 weeks.",
+      "bullets": [
+        "Evenings",
+        "Beginner-Friendly",
+        "JavaScript and Node.js",
+        "API development",
+        "Online",
+        "Backend development",
+        "Express"
+      ],
+      "finance_msg": "Finance for as little as 0% for 3 months"
+    },
+    {
+      "heading": "React",
+      "active": false,
+      "paragraph": "Learn React in 3 weeks and build your first React apps! This part-time, project-based course will teach you the skills you need to build React applications. You'll learn the fundamentals of React, including components, state, and props, and you'll build a portfolio of projects to showcase your skills. Enroll today and start your journey to becoming a React developer!",
+      "bullets": [
+        "Evenings",
+        "Requires HTML, CSS, and JavaScript",
+        "State",
+        "Hooks",
+        "Online",
+        "Components",
+        "Props",
+        "Next.js"
+      ],
+      "finance_msg": "Finance for as little as 0% for 3 months"
+    }
+  ],
+  "two_columns": {
+    "left": {
+      "heading": {
+        "text": "Get the training you need to land the job of your dreams",
+        "color": "rgb(24, 24, 27)",
+        "font_size": "30px"
+      },
+      "content": {
+        "text": "Whether you're a beginner or have years of experience, we have courses to help you learn and be certified in software engineering, web development, mobile development, security, dev-ops, project management, Web3, AI, and more.",
+        "color": "rgb(113, 113, 122)",
+        "font_size": "16px",
+        "font_weight": "400",
+        "line_height": "24px"
+      },
+      "buttons": [
+        {
+          "button_text": "Schedule a Call",
+          "button_link": "/",
+          "button_color": "rgb(225, 29, 72)",
+          "button_textcolor": "rgb(250, 250, 250)",
+          "button_fontsize": "16px"
+        }
+      ]
+    },
+    "right": {
+      "image": "/images/graduation.jpg"
+    }
+  }
 }
