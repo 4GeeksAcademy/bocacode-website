@@ -22,7 +22,7 @@ td {
   border-top: 1px solid #e5e7eb;
 }
 
-.overflow-x-auto{
+.overflow-x-auto {
   overflow-x: scroll;
   color-scheme: white;
 }
@@ -43,7 +43,7 @@ td {
   flex-direction: column;
 }
 
-.no-border{
+.no-border {
   border: none;
 }
 
@@ -51,14 +51,14 @@ td {
   cursor: pointer;
 
   &:hover {
-      filter: brightness(1.1);
+    filter: brightness(1.1);
   }
 }
 
 .image-grayscale {
   cursor: pointer;
   &:hover {
-      filter: grayscale(60%);
+    filter: grayscale(60%);
   }
 }
 
@@ -71,12 +71,12 @@ td {
   overflow-y: auto !important;
 }
 
-.rotate-180{
+.rotate-180 {
   transform: rotate(180deg);
 }
 
 /*BACKGROUNDS*/
-.transparent{
+.transparent {
   background-color: transparent;
 }
 
@@ -89,11 +89,11 @@ td {
 }
 
 .bg-gray {
-  background-color: #E4E4E7;
+  background-color: #e4e4e7;
 }
 
 .bg-light-gray {
-  background-color: #F4F4F5;
+  background-color: #f4f4f5;
 }
 
 .bg-royalblue {
@@ -105,7 +105,7 @@ td {
 }
 
 .bg-lila {
-  background-color: #E0E7FF;
+  background-color: #e0e7ff;
 }
 
 /*WIDTH && HEIGHT*/
@@ -191,8 +191,6 @@ td {
   flex-wrap: wrap;
 }
 
-
-
 .justify-center {
   justify-content: center;
 }
@@ -233,16 +231,18 @@ td {
 
 /*SHADOWS $ BORDERS*/
 .box-shadow-v1 {
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, .1), 0 4px 6px -4px rgba(0, 0, 0, .1);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -4px rgba(0, 0, 0, 0.1);
 }
 
 .box-shadow-v3 {
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, .1), 0 4px 6px -4px rgba(0, 0, 0, .1);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -4px rgba(0, 0, 0, 0.1);
 }
 
 .box-shadow-v2 {
-  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px;
-  ;
+  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px,
+    rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px;
 }
 
 .rounded-16 {
@@ -285,15 +285,13 @@ td {
   border: 1px solid #3f3f46;
 }
 
-.border-rose{
-  border: 1px solid #F43F5E;
+.border-rose {
+  border: 1px solid #f43f5e;
 }
 
 .border-v4 {
   border: 2px solid rgba(49, 46, 129);
-  ;
 }
-
 
 /*LIST*/
 .list-style-none {
@@ -324,7 +322,6 @@ td {
   padding: 12px 16px;
   text-decoration: none;
   display: block;
-
 }
 
 /* Change color of dropdown links on hover */
@@ -338,15 +335,14 @@ td {
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropdown-btn {}
-
+.dropdown:hover .dropdown-btn {
+}
 
 .columns-2 {
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
 }
-
 
 /*HEADING*/
 .fs-48 {
@@ -438,12 +434,12 @@ td {
 }
 
 /*TEXT COLORS*/
-.color-white-v2{
+.color-white-v2 {
   color: #f4f4f5;
 }
 
-.color-yellow{
-  color: #FACC15;
+.color-yellow {
+  color: #facc15;
 }
 
 .color-royalblue {
@@ -454,7 +450,8 @@ td {
   color: rgb(99, 102, 241);
 }
 
-.color-darkblue {}
+.color-darkblue {
+}
 
 .color-grisnoble {
   color: #52525b;
@@ -464,8 +461,8 @@ td {
   color: #a1a1aa;
 }
 
-.color-rose{
-  color: #F43F5E;
+.color-rose {
+  color: #f43f5e;
 }
 
 .color-gray {
@@ -473,7 +470,7 @@ td {
 }
 
 .color-gray-v2 {
-  color: #3f3f46
+  color: #3f3f46;
 }
 
 .color-lightgray-v2 {
@@ -487,7 +484,6 @@ td {
 .color-black {
   color: black;
 }
-
 
 /* PADDING & MARGIN & GAP */
 .p-12 {
@@ -570,11 +566,11 @@ td {
   margin: 0 auto;
 }
 
-.mt-16{
-  margin: 16px 0 0 0;
+.mt-16 {
+  margin-top: 16px;
 }
-.mt-32{
-  margin: 32px 0 0 0;
+.mt-32 {
+  margin-top: 32px;
 }
 
 .gap-80 {
@@ -605,7 +601,6 @@ td {
   gap: 4px;
 }
 
-
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
@@ -620,14 +615,14 @@ td {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, .5);
+  background-color: rgba(0, 0, 0, 0.5);
   z-index: 1000000;
   cursor: pointer;
   opacity: 1;
   animation-timing-function: ease-out;
   animation-duration: 0.3s;
   animation-name: modal-video;
-  transition: opacity .3s ease-out;
+  transition: opacity 0.3s ease-out;
 }
 
 .modal {
@@ -646,9 +641,8 @@ td {
   height: 100%;
 }
 
-
 .button-red {
-  background: #E11D48;
+  background: #e11d48;
   color: #e5e7eb;
   border-radius: 6px;
   display: flex;
@@ -673,43 +667,37 @@ textarea {
   font-family: arial, verdana, ms sans serif;
 }
 
-.contact-form {}
+.contact-form {
+}
 
 .form-input {
-  border: 1px solid #E4E4E7;
+  border: 1px solid #e4e4e7;
   appearance: none;
 }
 
 .form-input:focus {
-  border: 1px solid #2563EB !important;
+  border: 1px solid #2563eb !important;
 }
 
 .container {
-  padding: 0px 0px;
+  padding-inline: 40px;
+  margin-inline: auto;
 }
 
 /* MEDIA QUERIES */
 
-@media screen and (width <=1366px) {
-  .container {
-    padding: 40px;
-  }
-}
-
-@media screen and (width <=1024px) {
+@media (max-width: 1024px) {
   .box {
     width: 99%;
   }
-
-  
 }
 
-@media screen and (width <=750px) {
-  .column-tablet{
+@media (max-width: 750px) {
+  .column-tablet {
     display: flex;
     flex-direction: column;
   }
-  .w-100-tablet{
+  .w-100-tablet {
     width: 100%;
   }
 
@@ -717,26 +705,25 @@ textarea {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .fs-tablet-30{
+  .fs-tablet-30 {
     font-size: 30px;
   }
 
-  .fs-tablet-16{
+  .fs-tablet-16 {
     font-size: 16px;
   }
 
-  .lh-tablet-36{
+  .lh-tablet-36 {
     line-height: 36px;
   }
-
 }
 
-@media screen and (width <=450px) {
+@media (max-width: 450px) {
   .container {
-    padding: 40px 20px;
+    padding-inline: 20px;
   }
 
-  .column-sm{
+  .column-sm {
     display: flex;
     flex-direction: column;
   }
@@ -757,31 +744,31 @@ textarea {
     margin: none;
   }
 
-  .justify-center-sm{
+  .justify-center-sm {
     justify-content: center;
   }
-  
+
   .justify-beetwen-sm {
     justify-content: space-between;
   }
-  
+
   .justify-end-sm {
     justify-content: end;
   }
-  
+
   .justify-start-sm {
     justify-content: start;
   }
-  
+
   .justify-around-sm {
     justify-content: space-around;
   }
-  
+
   .align-start-sm {
     align-items: flex-start;
   }
 
-  .gap-16-sm{
+  .gap-16-sm {
     gap: 16px;
   }
 
@@ -852,8 +839,6 @@ textarea {
   .lh-40 {
     line-height: 40px;
   }
-
-  
 
   .lh-28 {
     line-height: 28px;
