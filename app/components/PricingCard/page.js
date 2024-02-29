@@ -1,22 +1,23 @@
-"use client";
-import Icon from "../Icon/set/check";
-import "../../styles/pricingcard.css";
-import Link from "next/link";
+'use client';
+import Icon from '../Icon/set/check';
+import '../../styles/pricingcard.css';
+import Link from 'next/link';
 
 const data_static = {
-  about: "ABOUT THE CLASS",
-  icon: "check",
-  just: "Just",
-  price: "$500 down",
+  about: 'ABOUT THE CLASS',
+  icon: 'check',
+  just: 'Just',
+  price: '$500 down',
   button: {
-    button_text: "Learn More",
-    button_link: "/",
-    button_color: "#312E81",
-    button_textcolor: "#e5e7eb",
+    button_text: 'Learn More',
+    button_link: '/',
+    button_color: '#312E81',
+    button_textcolor: '#e5e7eb',
   },
 };
 
 const PricingCard = ({ data }) => {
+  console.log('data', data);
   return (
     <>
       <div className="rounded-8 box-shadow-v2 m-auto flex border-v1 w-100 pricing-card">
@@ -37,7 +38,7 @@ const PricingCard = ({ data }) => {
                     <Icon
                       icon={data_static?.icon}
                       width="24"
-                      style={{ margin: "0 15px 0 0" }}
+                      style={{ margin: '0 15px 0 0' }}
                     />
                     {bullet}
                   </li>

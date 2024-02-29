@@ -1,15 +1,15 @@
-"use client";
-import { React, useEffect, useState } from "react";
-import Image from "next/image";
-import styles from "./page.module.css";
-import PageHeader from "./components/PageHeader/page";
-import TitleContainer from "./components/TitleContainer/page";
-import Carousel from "./components/Carousel/page";
-import PricingCard from "./components/PricingCard/page";
-import Credentials from "./components/Credentials/page";
-import Paths from "./components/Paths/page";
-import TwoColumns from "./components/TwoColumns/page";
-import data from "./data/home.json";
+'use client';
+import { React, useEffect, useState } from 'react';
+import Image from 'next/image';
+import styles from './page.module.css';
+import PageHeader from './components/PageHeader/page';
+import TitleContainer from './components/TitleContainer/page';
+import Carousel from './components/Carousel/page';
+import PricingCard from './components/PricingCard/page';
+import Credentials from './components/Credentials/page';
+import Paths from './components/Paths/page';
+import TwoColumns from './components/TwoColumns/page';
+import data from './data/home.json';
 
 export default function Home() {
   console.log(data?.pricing_info_variable);
