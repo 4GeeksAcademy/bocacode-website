@@ -68,7 +68,8 @@
         "Intro to Data Analytics",
         "Machine Learning Algorithms"
       ],
-      "finance_msg": "Finance for as little as 0% for 24 months"
+      "finance_msg": "Finance for as little as 0% for 24 months",
+      "button_link": "/"
     },
     {
       "heading": "AR / VR and Game Development",
@@ -84,7 +85,8 @@
         "Game Dev Principles",
         "Mixed and Virtual Reality"
       ],
-      "finance_msg": "Finance for as little as 0% for 24 months"
+      "finance_msg": "Finance for as little as 0% for 24 months",
+      "button_link": "/"
     },
     {
       "heading": "Intro to Web Development",
@@ -99,7 +101,8 @@
         "Build and Deploy Websites",
         "HTML, CSS, and JavaScript"
       ],
-      "finance_msg": "Finance for as little as 0% for 24 months"
+      "finance_msg": "Finance for as little as 0% for 24 months",
+      "button_link": "/"
     },
     {
       "heading": "Software Engineering Career Track",
@@ -131,7 +134,8 @@
         "Backend development",
         "Express"
       ],
-      "finance_msg": "Finance for as little as 0% for 3 months"
+      "finance_msg": "Finance for as little as 0% for 3 months",
+      "button_link": "/"
     },
     {
       "heading": "React",
@@ -147,7 +151,8 @@
         "Props",
         "Next.js"
       ],
-      "finance_msg": "Finance for as little as 0% for 3 months"
+      "finance_msg": "Finance for as little as 0% for 3 months",
+      "button_link": "/"
     }
   ],
   "two_columns": {

@@ -17,7 +17,6 @@ const data_static = {
 };
 
 const PricingCard = ({ data }) => {
-  let button_link = data.button_link;
   return (
     <>
       <div className="rounded-8 box-shadow-v2 m-auto flex border-v1 w-100 pricing-card">
