@@ -14,12 +14,12 @@
     "image": "",
     "button_1": {
       "button_text": "Get Started",
-      "button_link": "/",
+      "button_link": "/contact",
       "button_color": "#FACC15"
     },
     "button_2": {
       "button_text": "Find a Course",
-      "button_link": "/",
+      "button_link": "/courses/career/software-engineering",
       "button_color": "#E5E7EB"
     }
   },
