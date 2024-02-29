@@ -12,8 +12,6 @@ import TwoColumns from './components/TwoColumns/page';
 import data from './data/home.json';
 
 export default function Home() {
-  console.log(data?.pricing_info_variable);
-
   return (
     <main className={styles.main}>
       <PageHeader data={data?.header} />

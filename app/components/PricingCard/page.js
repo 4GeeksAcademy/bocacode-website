@@ -51,7 +51,7 @@ const PricingCard = ({ data }) => {
           <span className="fs-18 fw-700 lh-24">{data_static?.just}</span>
           <h1 className="fs-48 fw-800 lh-48">{data_static?.price}</h1>
           <p className="fs-14 fs-500 lh-24">{data?.finance_msg}</p>
-          <Link href={data?.button_link}>
+          <Link href={data?.link}>
             <div className="button fs-16 fw-600 lh-24 rounded-4">
               {data_static?.button.button_text}
             </div>
