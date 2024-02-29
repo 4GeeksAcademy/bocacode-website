@@ -17,7 +17,7 @@ const data_static = {
 };
 
 const PricingCard = ({ data }) => {
-  console.log('data', data);
+  let button_link = data.button_link;
   return (
     <>
       <div className="rounded-8 box-shadow-v2 m-auto flex border-v1 w-100 pricing-card">
@@ -53,11 +53,7 @@ const PricingCard = ({ data }) => {
           <h1 className="fs-48 fw-800 lh-48">{data_static?.price}</h1>
           <p className="fs-14 fs-500 lh-24">{data?.finance_msg}</p>
           <Link
-            href={
-              data.button_link
-                ? data.button_link
-                : data_static.button.button_link
-            }
+            href={button_link ? button_link : data_static.button.button_link}
           >
             <div className="button fs-16 fw-600 lh-24 rounded-4">
               {data_static?.button.button_text}
