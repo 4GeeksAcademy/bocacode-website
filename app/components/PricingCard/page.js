@@ -10,7 +10,7 @@ const data_static = {
   price: '$500 down',
   button: {
     button_text: 'Learn More',
-    button_link: '/',
+    button_link: '/courses/career/software-engineering',
     button_color: '#312E81',
     button_textcolor: '#e5e7eb',
   },
