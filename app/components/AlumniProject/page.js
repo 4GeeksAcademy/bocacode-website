@@ -7,9 +7,9 @@ import Link from 'next/link';
 
 const AlumniProject = ({ data }) => {
   return (
-    <section className="bg-lila py-30 ">
+    <section className="bg-lila py-60">
       <div className="flex align-items-center gap-45 maxwidth-1366 m-auto row px-40 p-sm-20 column-tablet">
-        <div className="flex justify-start">
+        <div className="flex justify-start w-30 w-100-tablet">
           <div>
             <Image
               className="object-cover aspect-square rounded-8"
@@ -29,7 +29,7 @@ const AlumniProject = ({ data }) => {
               {data?.final_project_tittle}
             </span>
           </h2>
-          <p className="mt-16 fs-16 fw-400 lh-24 color-gray">
+          <p className="mt-16 fs-16 fw-500 lh-24">
             {data?.final_project_description}
           </p>
           <div className="row mt-32 justify-center-sm">
