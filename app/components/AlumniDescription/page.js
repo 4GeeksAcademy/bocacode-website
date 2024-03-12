@@ -7,10 +7,12 @@ import Link from 'next/link';
 
 const AlumniDescription = ({ data }) => {
   return (
-    <div className="maxwidth-1366 flex align-items-center m-auto row column-tablet">
-      <div className="p-48 text-center-sm">
-        <h1>{data?.title}</h1>
-        <p className="mt-16">{data?.description}</p>
+    <div className="flex align-items-center gap-45 maxwidth-1366 m-auto row px-40 p-sm-20 column-tablet">
+      <div className="text-center-sm w-80 w-sm-100">
+        <h1 className="fs-30 fw-700 lh-36">{data?.title}</h1>
+        <p className="mt-16 fs-16 fw-400 lh-24 color-gray">
+          {data?.description}
+        </p>
         <div className="row mt-32 justify-center-sm">
           <Link
             href={data?.github}
@@ -38,12 +40,18 @@ const AlumniDescription = ({ data }) => {
           </Link>
         </div>
       </div>
-      <Image
-        src={data?.profileImage}
-        width={450}
-        height={450}
-        alt={data?.title}
-      />
+      <div className="flex justify-end">
+        <div>
+          <Image
+            loading="lazy"
+            src={data?.profileImage}
+            width={1000}
+            height={1000}
+            alt={data?.title}
+            style={{ color: 'transparent', width: '100%', height: '100%' }}
+          />
+        </div>
+      </div>
     </div>
   );
 };
