@@ -35,837 +35,3477 @@
       "content": "Camlann Games",
       "slug": "maxespinosa",
       "description": "Max spent two years studying Culinary Arts. At school, she was in robotics, IT, and STEM classes, fueling her love for technology and problem-solving. She loves CSS, crafting visually appealing web designs. Besides coding, she finds pleasure in helping those around me and animals in need.",
-      "github": "https://github.com/maxespinosa19",
-      "linkedin": "https://www.linkedin.com/in/max-espinosa/",
-      "resume": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FEspinosa_Max_resume.pdf?alt=media"
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/maxespinosa19" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/max-espinosa/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FEspinosa_Max_resume.pdf?alt=media"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-maxespinosa.png",
+      "final_project_tittle": "Whisker Watch",
+      "final_project_description": "Discover and track animals. Share info, and reunite lost pets with their owners while supporting adorable strays.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=3Xqd8xCs7tk&feature=youtu.be"
+        },
+        { "icone": "chain", "link": "https://whisker-watch-web.web.app/" }
+      ]
     },
     {
       "profileImage": "/images/alumni/john-therlonge.jpg",
       "title": "John Cadet Therlonge",
       "content": "Former Retail Supervisor",
-      "slug": "johncadettherlonge"
+      "slug": "johncadettherlonge",
+      "description": "John is a mix of tech and gaming enthusiast, alongside exceptional cooking abilities. His strong desire to help others and passion for learning are striking. With nine years of experience in inventory management, John has a solid track record of improving complex logistical processes. This diverse skill set makes him well-suited for roles that combine his tech know-how, culinary talent, people-friendly nature, and operational expertise.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/john32y" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/john-therlonge/"
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/andrew-wilborn.jpg",
       "title": "Andrew Wilborn",
       "content": "UCF Computer Science Grad",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/daniel-lancheros.jpg",
       "title": "Daniel Lancheros",
       "content": "Former Sales and Logistics Analyst",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/kevin-fernandez.jpg",
       "title": "Kevin Fernandez",
       "content": "Camlann Games",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/lorenzo-mokwa.jpg",
       "title": "Lorenzo Mokwa",
       "content": "Camlann Games",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/yaslin-carmona.jpg",
       "title": "Yaslin Carmona",
       "content": "Software Engineer",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/jeniffer-giraldo.jpg",
       "title": "Jeniffer Giraldo",
       "content": "Educator and Software Engineer",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/kevin-dietmeyer.jpg",
       "title": "Kevin Dietmeyer",
       "content": "Former Software Account Manager",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/ariana-diaz.jpg",
       "title": "Ariana Diaz",
       "content": "Current Highschool Student",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/veronica-de-felice.jpg",
       "title": "Veronica de Felice",
       "content": "Manit",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/brian-pinney.jpg",
       "title": "Brian Pinney",
       "content": "Former Truck Driver",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/veronie-cazeau.jpg",
       "title": "Véronie Cazeau",
       "content": "Former Massage Therapist",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/nick-morgan.jpg",
       "title": "Nicholas Morgan",
       "content": "Former Student Athlete",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/sarah-kuss.jpg",
       "title": "Sarah Kuss",
       "content": "Giraffe Media",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/jonathan-sabunco.jpg",
       "title": "Jonathan Sabunco",
       "content": "Former Computer Science Major",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/barbara-laurince.jpg",
       "title": "Barbara Laurince",
       "content": "Former Mortgage Broker",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/jose-torres.jpg",
       "title": "Jose Torres",
       "content": "Software Engineer",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/lizanne-cerami.jpg",
       "title": "Lizanne Cerami",
       "content": "Former Billing Specialist",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/ilan-vaks.jpg",
       "title": "Ilan Vaks",
       "content": "GA Telesis",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/jasmine-henry.jpg",
       "title": "Jasmine Henry",
       "content": "Former Nuclear Engineer",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/david-radjai.jpg",
       "title": "David Radjai",
       "content": "Former Mortgage Broker",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/maria-camila-sandoval.jpg",
       "title": "Maria Camila Sandoval",
       "content": "Former Biomedical Engineer",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/bryan-vargas.jpg",
       "title": "Bryan Vargas",
       "content": "Former Computer Science Major",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/brianna-escobar.jpg",
       "title": "Brianna Escobar",
       "content": "Previously in Food Service",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/kaniel-tapper.jpg",
       "title": "Kaniel Tapper",
       "content": "Former Retail Manager",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/meghann-stamper.jpg",
       "title": "Meghann Stamper",
       "content": "Palm Beach County Schools",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/aaron-agosto.jpg",
       "title": "Aaron Agosto",
       "content": "GA Telesis",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/miguel-camilo.jpg",
       "title": "Miguel Camilo",
       "content": "Manit",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/idan-fischer.jpg",
       "title": "Idan Fischer",
       "content": "Camlann Games",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Edilma-Riano.jpg",
       "title": "Edilma Riano",
       "content": "NumberCruncher",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Varlince-Meran.jpg",
       "title": "Varlince Meran ",
       "content": "DebtHelper",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Gisselle-Pombar.jpg",
       "title": "Gisselle Pombar ",
       "content": "Bambino Sitters",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Alliette-Dortelus.jpg",
       "title": "Alliette Dortelus ",
       "content": "NEBA",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Daniel-Barba.jpg",
       "title": "Daniel Barba ",
       "content": "Allterco Robotics",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Anthony-Murphy.jpg",
       "title": "Anthony Murphy ",
       "content": "Camlann Games",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Beatriz-Recari.jpg",
       "title": "Beatriz Recari ",
       "content": "Former 3-time LPGA champion",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Andy-Linnell.jpg",
       "title": "Andy Linnell ",
       "content": "Recent Property and Asset Manager",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Joseph-Graffeo.jpg",
       "title": "Joseph Graffeo ",
       "content": "BanyaJosephn Hill",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Gisele-Abzalov.jpg",
       "title": "Gisele Abzalov ",
       "content": "Former Finance Expert and Entrepreneur",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Anttoinette-Henry.jpg",
       "title": "Anttoinette Henry ",
       "content": "Stylist and Entrepreneur",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Gianna-Davila.jpg",
       "title": "Gianna Davila ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Edgar-Davila.jpg",
       "title": "Edgar Davila ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Mido-Khalil.jpg",
       "title": "Mido Khalil ",
       "content": "Camlann Games",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Gerly-Kaytukov.jpg",
       "title": "Gerly Kaytukov ",
       "content": "Bosch",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Eddie-Espinosa.jpg",
       "title": "Eddie Espinosa ",
       "content": "Camlann Games",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Adi-Fischer.jpg",
       "title": "Adi Fischer ",
       "content": "Raiseslug",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Ainis-Taranda.jpg",
       "title": "Ainis Taranda ",
       "content": "Goat Foods",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Corwin-Hiatt.jpg",
       "title": "Corwin Hiatt ",
       "content": "John Deere",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Emily-LaBelle.jpg",
       "title": "Emily LaBelle ",
       "content": "Microbe Formulas",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Tyler-Jefferson.jpg",
       "title": "Tyler Jefferson ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Jacques-Laguerre.jpg",
       "title": "Jacques Laguerre ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Cari-Licor.jpg",
       "title": "Cari Licor ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Nick-Jackson.jpg",
       "title": "Nick Jackson ",
       "content": "MailResponse",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Fanessa-Hilaire.jpg",
       "title": "Fanessa Hilaire ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Elle-Swift.jpg",
       "title": "Elle Swift ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Natallia-Pahosava.jpg",
       "title": "Natallia Pahosava ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Ethan-Ochoa.jpg",
       "title": "Ethan Ochoa ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Rafael-Reyes.jpg",
       "title": "Rafael Reyes ",
       "content": "Verizon",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Justin-Hessler.jpg",
       "title": "Justin Hessler ",
       "content": "Banyan Hil",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Stephanie-Sadowski.jpg",
       "title": "Stephanie Sadowski ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Jonathan-Vegas.jpg",
       "title": "Jonathan Vegas ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Javier-Vargas.jpg",
       "title": "Javier Vargas ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Renzo-Silva.jpg",
       "title": "Renzo Silva ",
       "content": "Banyan Hill",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Hugo-Salles.jpg",
       "title": "Hugo Salles ",
       "content": "Mean Guppy",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Mateo-Rey.jpg",
       "title": "Mateo Rey ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Maria-Carson.jpg",
       "title": "Maria (Redman) Carson ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Sebastien-Placide.jpg",
       "title": "Ralph Sébastien Placide ",
       "content": "JetBlue",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Carla-Pico.jpg",
       "title": "Carla Pico ",
       "content": "Strategio",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Alex-Pelta.jpg",
       "title": "Alex Pelta ",
       "content": "Central Reach",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Pam-Pandey.jpg",
       "title": "Pam Pandey ",
       "content": "Allterco Robotics",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Derek-Olsen.jpg",
       "title": "Derek Olsen ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Alicia-Myrie.jpg",
       "title": "Alicia Myrie ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Max-Morgenbesser.jpg",
       "title": "Max Morgenbesser ",
       "content": "MyFavor",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Logan-McCalley.jpg",
       "title": "Logan McCalley ",
       "content": "Mean Guppy",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Rondolph-stmartin.jpg",
       "title": "Rondolph St.Martin ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Mason-Madaras.jpg",
       "title": "Mason Madaras ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Bridgette-Lemus.jpg",
       "title": "Bridgette Lemus ",
       "content": "Boca Code",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Khali-Gopaul.jpg",
       "title": "Khali Gopaul ",
       "content": "SHVO",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Roderick-Fayson.jpg",
       "title": "Roderick “Rod” Fayson ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/James-Etchberger.jpg",
       "title": "James Etchberger ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Cassandra-Curcio.jpg",
       "title": "Cassandra Curcio",
       "content": "Boca Code Labs",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Gavin-Anderson.jpg",
       "title": "Gavin Anderson ",
       "content": "Angi",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Wade-Booth.jpg",
       "title": "Wade Booth ",
       "content": "GRUBBRR",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Ludwigson-Morisseau.jpg",
       "title": "Ludwigson Morisseau ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/chole-Axel.jpg",
       "title": "Nichole “Chole” Axel ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Miguel-Gomez.jpg",
       "title": "Miguel Gomez ",
       "content": "GRUBBRR",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Alex-Hall.jpg",
       "title": "Alex Hall ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Josh-Philip.jpg",
       "title": "Josh Philip ",
       "content": "Revelex",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Aner-Fidalgo.jpg",
       "title": "Aner Fidalgo ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Cherie-Allen.jpg",
       "title": "Cherie Allen ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Nerissa-Dorlus.jpg",
       "title": "Nerissa Dorlus ",
       "content": "Boca Code",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Brahm-Kelly.jpg",
       "title": "Brahm Kelly",
       "content": "Boca Code Labs",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Ann-Starovoitov.jpg",
       "title": "Ann Starovoitov ",
       "content": "Sirius XM",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Neil-Bennett.jpg",
       "title": "Neil Bennett ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Stephanie-Sanchez.jpg",
       "title": "Stephanie Sanchez ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Sebastian-Tolomeo.jpg",
       "title": "Sebastian Tolomeo ",
       "content": "City Furniture",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Maria-Bruno.jpg",
       "title": "Maria Bruno ",
       "content": "Health Karma",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Rodrigo-Henriques.jpg",
       "title": "Rodrigo Henriques ",
       "content": "Allterco Robotics",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Carlie-Duperval-Dorlus.jpg",
       "title": "Carlie Duperval-Dorlus ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Arthur-Silva.jpg",
       "title": "Arthur Silva ",
       "content": "Boca Code",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Ronny-Victor.jpg",
       "title": "Ronny Victor ",
       "content": "Moving Minds",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Emil-Dzhebrailov.jpg",
       "title": "Emil Dzhebrailov ",
       "content": "Robert Half",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Sara-Cormican.jpg",
       "title": "Sara Cormican ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Keith-Richard.jpg",
       "title": "Keith Richard ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Christian-Klein.jpg",
       "title": "Christian Klein ",
       "content": "Playwire",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Malibu-Charles.jpg",
       "title": "Malibu Charles ",
       "content": "Target",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Jeremiah-Newman.jpg",
       "title": "Jeremiah Newman ",
       "content": "Levatas",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Zhuopu-Zhou.jpg",
       "title": "Zhuopu Zhou ",
       "content": "City Furniture",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Danielle-Kom.jpg",
       "title": "Danielle Kom ",
       "content": "Flossy",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Peter-Lewandowski.jpg",
       "title": "Peter Lewandowski ",
       "content": "Boca Code Labs",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Farrukh-Karimov.jpg",
       "title": "Farrukh Karimov ",
       "content": "SMArtX",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Megan-Martel.jpg",
       "title": "Megan Martel ",
       "content": "Glades Talent",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Brian-Serein.jpg",
       "title": "Brian Serein ",
       "content": "Telepreformance",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Ashley-Dennis.jpg",
       "title": "Ashley Dennis ",
       "content": "Health Karma",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/alex-Martinez.jpg",
       "title": "J Alexander Martinez ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Aurelie-Gedeon.jpg",
       "title": "Aurelie Gedeon ",
       "content": "Two Fish",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Deyvin-Cano.jpg",
       "title": "Deyvin Cano ",
       "content": "Banyan Air Service",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Diana-Marcelin.jpg",
       "title": "Diana Marcelin ",
       "content": "Health Karma",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Jonah-Allen.jpg",
       "title": "Jonah Allen ",
       "content": "Best Buy",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Zach-Larson.jpg",
       "title": "Zachary Larson ",
       "content": "Talentify",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Val-Leserra.jpg",
       "title": "Valerie Leserra ",
       "content": "Learn More",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Luiz-Silva.jpg",
       "title": "Luiz Silva ",
       "content": "Sales",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Dan-Boudet.jpg",
       "title": "Dan Boudet ",
       "content": "SMArtX",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Chris-DeLeon.jpg",
       "title": "Chris De Leon ",
       "content": "UpRecruit",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Emily-Morgenbesser.jpg",
       "title": "Emily Morgenbesser ",
       "content": "SMArtX",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Matthew-McKney.jpg",
       "title": "Matthew McKney ",
       "content": "Dariel Mera",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Juan-Yepes.jpg",
       "title": "Juan Yepes ",
       "content": "City Furniture",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Sebas-Anty.jpg",
       "title": "Sebastien “Sebas” Anty ",
       "content": "Boca Code",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Diana-Tineo.jpg",
       "title": "Diana Tineo ",
       "content": "Playwire",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Manny-Toribio.jpg",
       "title": "Manny Toribio ",
       "content": "SMArtX",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Alina-Maliuk.jpg",
       "title": "Alina Maliuk ",
       "content": "SMArtX",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Adrian-Perdomo.jpg",
       "title": "Adrian Perdomo ",
       "content": "City Furniture",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/nikki-Allen.jpg",
       "title": "Nicole Allen ",
       "content": "SMArtX",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Jarue-Johnson.jpg",
       "title": "Jarue Johnson ",
       "content": "Torticity",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Vitoria-Roas.jpg",
       "title": "Vitoria Roas ",
       "content": "JM Family",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Bobby-Langley.jpg",
       "title": "Bobby Langley ",
       "content": "GRUBBRR",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Clinton-Bellingar.jpg",
       "title": "Clinton “Skar” Bellingar ",
       "content": "GRUBBRR",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     },
     {
       "profileImage": "/images/alumni/Dennis-Shea.jpg",
       "title": "Dennis G. Shea, Ph.D. ",
       "content": "IBM Research Alum",
-      "slug": "/"
+      "slug": "/",
+      "description": "",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/",
+      "final_project_tittle": "",
+      "final_project_description": "",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "" }
+      ]
     }
   ]
 }

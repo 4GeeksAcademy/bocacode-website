@@ -296,6 +296,14 @@ td {
 .border-v4 {
   border: 2px solid rgba(49, 46, 129);
 }
+/* Scale images */
+.object-cover {
+  object-fit: cover;
+}
+
+.aspect-square {
+  aspect-ratio: 1 / 1 !important;
+}
 
 /*LIST*/
 .list-style-none {
@@ -455,6 +463,7 @@ td {
 }
 
 .color-darkblue {
+  color: rgb(49, 46, 129);
 }
 
 .color-grisnoble {
@@ -548,31 +557,35 @@ td {
 }
 
 .py-30 {
-  padding: 30px 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .py-16 {
-  padding: 16px 0;
+  padding-top: 16px;
+  padding-bottom: 16px;
 }
 
 .py-10 {
-  padding: 10px 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .py-8 {
-  padding: 8px 0;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 .pt-8 {
-  padding: 8px 0 0 0;
+  padding-top: 8px;
 }
 
 .pt-32 {
-  padding: 32px 0 0 0;
+  padding-top: 32px;
 }
 
 .pb-16 {
-  padding: 0 0 16px 0;
+  padding-bottom: 16px;
 }
 
 .m-auto {
