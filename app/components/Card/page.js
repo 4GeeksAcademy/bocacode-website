@@ -45,6 +45,7 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                 }`,
                 width: '100%',
               }}
+              alt={data?.title}
             />
           </div>
         )}
@@ -74,6 +75,7 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                     style={{
                       width: '100%',
                     }}
+                    alt={data?.title}
                   />
                   <Image
                     src={'/images/play-button.png'}
@@ -83,6 +85,7 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                     style={{
                       width: '100%',
                     }}
+                    alt="play button"
                   />
                 </div>
               </>
@@ -101,6 +104,7 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                   style={{
                     width: '100%',
                   }}
+                  alt={data?.title}
                 />
                 <Image
                   src={'/images/play-button.png'}
@@ -110,6 +114,7 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                   style={{
                     width: '100%',
                   }}
+                  alt="play button"
                 />
               </div>
             )}
@@ -177,10 +182,10 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
               )}
             </div>
             <div className="">
-              {data?.link && data?.profile && (
-                <Link href={data?.link} className="">
+              {data?.slug && data?.profileImage && (
+                <Link href={`/alumni/${data?.slug}`} className="">
                   <h4 className="fs-16 fw-600 color-royalblue py-8">
-                    {data?.link_text}
+                    {link_text}
                   </h4>
                 </Link>
               )}
