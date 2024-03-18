@@ -31,8 +31,6 @@ const VideoModal = ({ videoLink, play }) => {
     setIsModalOpen(false);
   };
 
-  console.log(isModalOpen);
-
   return (
     isModalOpen && (
       <div className="modal-video">

@@ -1,5 +1,5 @@
 'use client';
-import React from 'react';
+import React, { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import '../../styles/navbar.css';
@@ -21,6 +21,12 @@ const MiniBar = () => {
 };
 
 const Navbar = () => {
+  const [activeItem, setActiveItem] = useState('');
+
+  const handleItemClick = (item) => {
+    setActiveItem(item);
+  };
+
   return (
     <>
       <header>
@@ -41,15 +47,23 @@ const Navbar = () => {
             </Link>
 
             <ul className="navbar-list list-none">
-              <li className="navbar-item dropdown">
+              <li
+                className="navbar-item dropdown"
+                onClick={() => handleItemClick('courses')}
+              >
                 <Link
                   href="/courses/career/software-engineering"
-                  className="navbar-link dropdown-btn"
+                  className={`navbar-link dropdown-btn ${
+                    activeItem === 'courses' ? 'active' : ''
+                  }`}
                 >
                   Courses
                 </Link>
 
-                <div className="list-style-none bg-zinc dropdown-content rounded-4">
+                <div
+                  className="list-style-none bg-zinc dropdown-content rounded-4"
+                  onClick={() => handleItemClick('courses')}
+                >
                   <Link
                     href="/courses/career/software-engineering"
                     className="dropdown-item rounded-4"
@@ -61,10 +75,16 @@ const Navbar = () => {
 
               {listLinks.map((item, index) => {
                 return (
-                  <li className="navbar-item" key={index}>
+                  <li
+                    className="navbar-item"
+                    key={index}
+                    onClick={() => handleItemClick(item)}
+                  >
                     <Link
                       style={{ padding: '0 0 8px 0' }}
-                      className="navbar-link"
+                      className={`navbar-link ${
+                        activeItem === item ? 'active' : ''
+                      }`}
                       href={'/' + item.toLowerCase()}
                     >
                       {item}
