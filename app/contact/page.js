@@ -14,8 +14,8 @@ const Contact = () => {
     form,
   } = data;
   return (
-    <main className={styles.main}>
-      <div className="maxwidth-1366 container mt-32 flex gap-24 column-tablet">
+    <main style={{ marginTop: '122px' }}>
+      <div className="maxwidth-1366 container my-32 flex gap-24 column-tablet">
         <div className="w-50 w-100-tablet gap-16 column">
           <div className="column">
             <h2 className="fs-18 fw-700 lh-28 color-royalblue">
