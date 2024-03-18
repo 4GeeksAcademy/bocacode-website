@@ -36,12 +36,13 @@ const Navbar = () => {
               <Image
                 src="/images/bocacode.png"
                 width={124}
-                height={40}
+                height={0}
                 alt="bocacode"
                 style={{
                   display: 'flex',
                   verticalAlign: 'center',
                   maxWidth: '100%',
+                  height: 'auto',
                 }}
               />
             </Link>
