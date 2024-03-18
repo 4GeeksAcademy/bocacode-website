@@ -1,436 +1,429 @@
 {
-    "header": {
-        "heading": {
-            "text": "Learn to build full-stack web, mobile, and cloud-based applications in 10 weeks.",
-            "color": "rgb(255, 255, 255)",
-            "font_size": "48px",
-            "font_weight": "700",
-            "line_height": "48px"
-        },
-        "content": {
-            "text": "You will learn the fundamentals of software development, including HTML, CSS, JavaScript, React, Node, Express, SQL, Mongo, and more. You will also learn how to deploy your applications to AWS and Google cloud and graduate with a portfolio of projects.",
-            "color": "rgb(229, 231, 235)",
-            "font_size": "18px",
-            "font_weight": "400",
-            "line_height": "29px"
-        },
-        "bullets": [],
-        "background_image": "/images/veronie-wide.jpg",
-        "image": "",
-        "button_1": 
-            {
-                "button_text": "Find a Course",
-                "button_link": "/",
-                "button_color": "#E11D48",
-                "button_textcolor": "white"
-            }
+  "header": {
+    "heading": {
+      "text": "Learn to build full-stack web, mobile, and cloud-based applications in 10 weeks.",
+      "color": "rgb(255, 255, 255)",
+      "font_size": "48px",
+      "font_weight": "700",
+      "line_height": "48px"
     },
-    "upcoming_dates": {
-        "title_container":{
-            "heading":"Upcoming Courses",
-            "paragraph": ""
-        },
-        "fields": [
-            "COURSE",
-            "START DATE",
-            "GRADUATION",
-            "APPLY"
-        ],
-        "date_info": [
-            {
-                "course":{
-                    "title":"Software Engineering Career Track",
-                    "modality":"in-person" 
-                },
-                "start_date":{
-                    "date":"Jan. 22"
-                },
-                "graduation":{
-                    "date":"Mar. 29"
-                },
-                "apply":{
-                    "text":"Apply",
-                    "link":"/"
-                }
-            }
-        ]
+    "content": {
+      "text": "You will learn the fundamentals of software development, including HTML, CSS, JavaScript, React, Node, Express, SQL, Mongo, and more. You will also learn how to deploy your applications to AWS and Google cloud and graduate with a portfolio of projects.",
+      "color": "rgb(229, 231, 235)",
+      "font_size": "18px",
+      "font_weight": "400",
+      "line_height": "29px"
     },
-    "band":{
-        "heading":"Enroll by Friday, Dec. 31st",
-        "paragraph":"Early Admissions — Save $4000",
-        "button":{
-            "button_text": "Apply now",
-            "button_link": "/",
-            "button_color": "rgb(225, 29, 72)",
-            "button_textcolor": "rgb(250, 250, 250)",
-            "button_fontsize": "14px"
-        }
-    },
-    "two_columns": {
-        "left": {
-            "heading": {
-                "text": "Get the training you need to land the job of your dreams",
-                "color": "rgb(24, 24, 27)",
-                "font_size": "36px"
-            },
-            "content": {
-                "text": "Whether you're a beginner or have years of experience, we have courses to help you learn and be certified in software engineering, web development, mobile development, security, dev-ops, project management, Web3, AI, and more.",
-                "color": "rgb(113, 113, 122)",
-                "font_size": "16px",
-                "font_weight": "400",
-                "line_height": "24px"
-            },
-            "buttons": [
-                {
-                    "button_text": "Apply Today",
-                    "button_link": "/",
-                    "button_color": "rgb(225, 29, 72)",
-                    "button_textcolor": "rgb(250, 250, 250)",
-                    "button_fontsize": "16px"
-                }
-            ]
-        },
-        "right": {
-            "boxes": [
-                {
-                    "heading":"Rigorous Curriculum",
-                    "paragraph":"Boca Code's full-time Software Engineering Career Track is a rigorous and fast-paced coding bootcamp. We combine theory and hands-on, project-based learning with a unique spiral curriculum to best prepare students for a career in Software Engineering."
-                },
-                {
-                    "heading":"Latest Skills",
-                    "paragraph":"The curriculum is intensive, challenging, comprehensive, and constantly updated to assure you are learning the most in-demand skills. You learn from industry professionals that have the experience to teach, mentor, and guide your learning experience."
-                },
-                {
-                    "heading":"A Portfolio of Projects",
-                    "paragraph":"By the end of the program, you will have a portfolio of completed projects including Full-stack React web applications, mobile applications, and a final project of your design."
-                },
-                {
-                    "heading":"Supportive Network",
-                    "paragraph":"When you join Boca Code, you become part of an amazing network of local peers and colleagues that will help you succeed in your career and tap in to the latest technologies and opportunities."
-                }
-            ]
-        }
-    },
-    "message": {
-        "image":"/images/nikki-allen.jpg",
-        "paragraph" : "Not only do they teach you how to be the best Software Engineer you can be, they teach you life skills that will help you in the job market. You don't just graduate as a Software Engineer, they turn you into a better person.",
-        "name": "NIKKI ALLEN",
-        "job": "SMARTX ADVISORY SOLUTIONS."
-    },
-    "what_learn":{
-        "sub_title": "COURSE OVERVIEW",
-        "title":"What you'll learn",
-        "text":"In this course, you'll learn everything you need to learn to hit the ground running in your new career or to level up your existing career. Whether you're a beginner or a seasoned developer, this course provides you all you need to launch a successful career in software engineering.",
-        "icon":"check-v2",
-        "items":[
-            "Fundamentals",
-            "Backend Engineering",
-            "Frontend Engineering",
-            "Full-Stack Engineering",
-            "Cloud Engineering",
-            "DevOps",
-            "Agile and Scrum",
-            "Soft Skills",
-            "Clean Coding",
-            "Version Control",
-            "Debugging",
-            "Testing",
-            "Deployment",
-            "Security",
-            "Data Structures",
-            "Algorithms",
-            "Problem Solving",
-            "Databases",
-            "REST APIs",
-            "Package Management",
-            "Command Line",
-            "VS Code",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Node.js",
-            "React",
-            "React Native",
-            "Tailwind CSS",
-            "Next.JS",
-            "TypeScript",
-            "MongoDB",
-            "MySQL",
-            "Firebase",
-            "Firestore",
-            "Postman",
-            "Express",
-            "AWS",
-            "Google Cloud",
-            "Git and GitHub",
-            "Python",
-            "Accessibility",
-            "Docker",
-            "Electron",
-            "SASS",
-            "C#",
-            "Resume prep",
-            "Interview prep",
-            "Negotiating",
-            "Networking",
-            "Presentation skills"
-        ]
-    },
-    "two_columns_2": {
-        "left": {
-            "heading": {
-                "text": "Final Project",
-                "color": "rgb(24, 24, 27)",
-                "font_size": "36px",
-                "font_weight": "800"
-            },
-            "content": {
-                "text": "Your final project is a full-stack app deployed to an enterprise-level cloud with full database and API integration.",
-                "color": "rgb(113, 113, 122)",
-                "font_size": "16px",
-                "font_weight": "400",
-                "line_height": "24px"
-            }
-        },
-        "right": {
-            "image": "/images/final-project.png"
-        }
-    },
-    "title_container_3": {
-        "heading": "Creativity",
-        "paragraph": "Software Engineering is a surprisingly creative field. Building and designing apps requires a balance between logic and creativity using both hemispheres of our brains."
-    },
-    "qualities":[
-        {
-            "image": "/images/software-engineering/zen-path.png",
-            
-            "title": "Inventive Project Ideas",
-            "content": "Coming up with new projects to build can be like an artist deciding what to paint, only with fewer limitations.",
-            "link": "/"
-        },
-        {
-            "image": "/images/software-engineering/Sarah-Kuss.png",
-            
-            "title": "Problem Solving",
-            "content": "Elegant and efficient solutions to complex problems require creative thinking and innovation.",
-            "link": "/"
-        },
-        {
-            "image": "/images/software-engineering/Brian-Pinney.png",
-            
-            "title": "Styling & Designing Sites",
-            "content": "We encourage students to get creative and have fun and pour themselves in styling their sites.",
-            "link": "/"
-        },
-        {
-            "image": "/images/software-engineering/Liz-Cerami.png",
-            
-            "title": "User Experience (UX) Design",
-            "content": "Many enjoy focusing on creating intuitive and enjoyable user interfaces that are aesthetically pleasing, easy to use, and efficient.",
-            "link": "/"
-        },
-        {
-            "image": "/images/software-engineering/echo.webp",
-            
-            "title": "Algorithm Design",
-            "content": "Designing algorithms that solve problems optimally often requires creative thinking. We come up with novel approaches to turn inventive processes into code.",
-            "link": "/"
-        },
-        {
-            "image": "/images/software-engineering/jonathans.jpg",
-            
-            "title": "Innovation & Research",
-            "content": "Software engineers need to stay up to date with the latest developments, explore new ideas, and conduct research to innovate and improve existing systems.",
-            "link": "/"
-        },
-        {
-            "image": "/images/software-engineering/camila.jpg",
-            
-            "title": "Experimenting with Generative AI",
-            "content": "New technologies are constantly emerging. We need to stay on top of the latest advancements and utilize the best tools to optimize our work.",
-            "link": "/"
-        },
-        {
-            "image": "/images/software-engineering/hallify.png",
-            
-            "title": "Architectural Design",
-            "content": "Designing software involves making decisions about how different components will interact, how data will flow, and how the system will be structured.",
-            "link": "/"
-        },
-        {
-            "image": "/images/software-engineering/scholarship-winners.jpg",
-            
-            "title": "Collaboration & Teamwork",
-            "content": "Creative problem-solving and brainstorming are common in teams, where individuals contribute diverse perspectives and ideas to find the best solutions.",
-            "link": "/"
-        }
-        
-    ],
-    "two_columns_3": {
-        "left": {
-            "heading": {
-                "text": "Payment Plans",
-                "color": "rgb(24, 24, 27)",
-                "font_size": "36px"
-            },
-            "content": {
-                "text": "We offer several payment plan options to make a career in Software Engineering accessible to all. From low monthly installments to an Income Share Agreement, we want everyone to be able.",
-                "color": "rgb(113, 113, 122)",
-                "font_size": "16px",
-                "font_weight": "400",
-                "line_height": "32px"
-            },
-            "buttons": [
-                {
-                    "button_text": "Schedule a Call",
-                    "button_link": "/",
-                    "button_color": "rgb(225, 29, 72)",
-                    "button_textcolor": "rgb(250, 250, 250)",
-                    "button_fontsize": "16px"
-                }
-            ]
-        },
-        "right": {
-            "steps": [
-                {
-                    "heading": {
-                        "text": "<span style=' color:rgb(225, 29, 72); '> NEW </span> in-house  0%-interest loans",
-                        "color": "rgb(24, 24, 27)",
-                        "font_size": "20px"
-                    },
-                    "content": {
-                        "text": "Boca Code offers 6, 12, and 24 month loans with 0% interest. Our loans are managed through our partner Mia-Share. <a href='/' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here </a> to see if you qualify.",
-                        "color": "rgb(113, 113, 122)",
-                        "font_size": "16px",
-                        "font_weight": "400",
-                        "line_height": "32px"
-                    },
-                    "background": "rgb(224, 231, 255)"
-                },
-                {
-                    "heading": {
-                        "text": "Loans up to 60 months",
-                        "color": "rgb(24, 24, 27)",
-                        "font_size": "20px"
-                    },
-                    "content": {
-                        "text": "Meritize offers loans up to 60 months with no payments for 6 months for as low as 5%. <a href='/' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here. </a> Climb offers similar terms up to 60 months with no payments for 6 months. <a href='/' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here. </a>",
-                        "color": "rgb(113, 113, 122)",
-                        "font_size": "16px",
-                        "font_weight": "400",
-                        "line_height": "32px"
-                    },
-                    "background": ""
-                },
-                {
-                    "heading": {
-                        "text": "Income Share Agreements",
-                        "color": "rgb(24, 24, 27)",
-                        "font_size": "20px"
-                    },
-                    "content": {
-                        "text": "Our partner, Mia-Share, offers the best-in-class ISA terms. You put $500 down and pay nothing until you get a job making at least $36,000. Then you pay 8% of your salary for a maximum of 68 months.  <a href='/' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here. </a>",
-                        "color": "rgb(113, 113, 122)",
-                        "font_size": "16px",
-                        "font_weight": "400",
-                        "line_height": "32px"
-                    },
-                    "background": ""
-                }
-            ]
-        }
-    },
-    "two_columns_4": {
-        "left": {
-            "heading": {
-                "text": "Scholarship Options",
-                "color": "rgb(24, 24, 27)",
-                "font_size": "24px"
-            },
-            "content": {
-                "text": "Boca Code offers scholarship options for individuals looking to transform their careers. Find out more by booking a call with an Admissions Advisor.",
-                "color": "rgb(113, 113, 122)",
-                "font_size": "18px",
-                "font_weight": "400",
-                "line_height": "28px"
-            },
-            "complement": {
-                "text": "87% of all Boca Code students have received scholarships!",
-                "color": "rgb(67, 56, 202)",
-                "font_size": "20px",
-                "font_weight": "700",
-                "line_height": "28px"
-            },
-            "bullets": [
-                {
-                    "icon": {
-                        "name": "pencil",
-                        "background": "rgb(99, 102, 241)"
-                    },
-                    "heading": {
-                        "text": "Diversity in Tech",
-                        "color": "rgb(24, 24, 27)",
-                        "font_size": "18px"
-                    },
-                    "content": {
-                        "text": "Awarded to students that are under-represented in the South Florida Tech community, namely Women, Black, African American, Latino, and Hispanic students.",
-                        "color": "rgb(113, 113, 122)",
-                        "font_size": "16px",
-                        "font_weight": "400",
-                        "line_height": "24px"
-                    }
-                },
-                {
-                    "icon": {
-                        "name": "pencil",
-                        "background": "rgb(99, 102, 241)"
-                    },
-                    "heading": {
-                        "text": "Engineer the Change",
-                        "color": "rgb(24, 24, 27)",
-                        "font_size": "18px"
-                    },
-                    "content": {
-                        "text": "Our community partner, TechStrong, provide $10,000 to one student each Spring and Fall. To learn more or apply, visit <a href='https://techstronggroup.com/engineer-the-change.' style='color:rgb(79, 70, 229);'>techstronggroup.com/engineer-the-change.</a>",
-                        "color": "rgb(113, 113, 122)",
-                        "font_size": "16px",
-                        "font_weight": "400",
-                        "line_height": "24px"
-                    }
-                }
-            ]
-        },
-        "right": {
-            "image": "/images/scholarship-winners.jpg"
-        }
-    },
-    "two_columns_5": {
-        "right": {
-            "heading": {
-                "text": "Ready to Enroll?",
-                "color": "rgb(24, 24, 27)",
-                "font_size": "30px"
-            },
-            "content": {
-                "text": "Only 24 seats each session. <br> Enroll now to assure your seat.",
-                "color": "rgb(113, 113, 122)",
-                "font_size": "16px",
-                "font_weight": "400",
-                "line_height": "24px"
-            },
-            "buttons": [
-                {
-                    "button_text": "Talk to an Advisor",
-                    "button_link": "/",
-                    "button_color": "rgb(225, 29, 72)",
-                    "button_textcolor": "rgb(250, 250, 250)",
-                    "button_fontsize": "16px"
-                }
-            ]
-        },
-        "left": {
-            "image": "/images/laptop.jpg",
-            "side":"left"
-        }
+    "bullets": [],
+    "background_image": "/images/veronie-wide.jpg",
+    "image": "",
+    "button_1": {
+      "button_text": "Find a Course",
+      "button_link": "/contact",
+      "button_color": "#E11D48",
+      "button_textcolor": "white"
     }
+  },
+  "upcoming_dates": {
+    "title_container": {
+      "heading": "Upcoming Courses",
+      "paragraph": ""
+    },
+    "fields": ["COURSE", "START DATE", "GRADUATION", "APPLY"],
+    "date_info": [
+      {
+        "course": {
+          "title": "Software Engineering Career Track",
+          "modality": "in-person"
+        },
+        "start_date": {
+          "date": "Jan. 22"
+        },
+        "graduation": {
+          "date": "Mar. 29"
+        },
+        "apply": {
+          "text": "Apply",
+          "link": "/contact"
+        }
+      }
+    ]
+  },
+  "band": {
+    "heading": "Enroll by Friday, Dec. 31st",
+    "paragraph": "Early Admissions — Save $4000",
+    "button": {
+      "button_text": "Apply now",
+      "button_link": "/contact",
+      "button_color": "rgb(225, 29, 72)",
+      "button_textcolor": "rgb(250, 250, 250)",
+      "button_fontsize": "14px"
+    }
+  },
+  "two_columns": {
+    "left": {
+      "heading": {
+        "text": "Get the training you need to land the job of your dreams",
+        "color": "rgb(24, 24, 27)",
+        "font_size": "36px"
+      },
+      "content": {
+        "text": "Whether you're a beginner or have years of experience, we have courses to help you learn and be certified in software engineering, web development, mobile development, security, dev-ops, project management, Web3, AI, and more.",
+        "color": "rgb(113, 113, 122)",
+        "font_size": "16px",
+        "font_weight": "400",
+        "line_height": "24px"
+      },
+      "buttons": [
+        {
+          "button_text": "Apply Today",
+          "button_link": "/contact",
+          "button_color": "rgb(225, 29, 72)",
+          "button_textcolor": "rgb(250, 250, 250)",
+          "button_fontsize": "16px"
+        }
+      ]
+    },
+    "right": {
+      "boxes": [
+        {
+          "heading": "Rigorous Curriculum",
+          "paragraph": "Boca Code's full-time Software Engineering Career Track is a rigorous and fast-paced coding bootcamp. We combine theory and hands-on, project-based learning with a unique spiral curriculum to best prepare students for a career in Software Engineering."
+        },
+        {
+          "heading": "Latest Skills",
+          "paragraph": "The curriculum is intensive, challenging, comprehensive, and constantly updated to assure you are learning the most in-demand skills. You learn from industry professionals that have the experience to teach, mentor, and guide your learning experience."
+        },
+        {
+          "heading": "A Portfolio of Projects",
+          "paragraph": "By the end of the program, you will have a portfolio of completed projects including Full-stack React web applications, mobile applications, and a final project of your design."
+        },
+        {
+          "heading": "Supportive Network",
+          "paragraph": "When you join Boca Code, you become part of an amazing network of local peers and colleagues that will help you succeed in your career and tap in to the latest technologies and opportunities."
+        }
+      ]
+    }
+  },
+  "message": {
+    "image": "/images/nikki-allen.jpg",
+    "paragraph": "Not only do they teach you how to be the best Software Engineer you can be, they teach you life skills that will help you in the job market. You don't just graduate as a Software Engineer, they turn you into a better person.",
+    "name": "NIKKI ALLEN",
+    "job": "SMARTX ADVISORY SOLUTIONS."
+  },
+  "what_learn": {
+    "sub_title": "COURSE OVERVIEW",
+    "title": "What you'll learn",
+    "text": "In this course, you'll learn everything you need to learn to hit the ground running in your new career or to level up your existing career. Whether you're a beginner or a seasoned developer, this course provides you all you need to launch a successful career in software engineering.",
+    "icon": "check-v2",
+    "items": [
+      "Fundamentals",
+      "Backend Engineering",
+      "Frontend Engineering",
+      "Full-Stack Engineering",
+      "Cloud Engineering",
+      "DevOps",
+      "Agile and Scrum",
+      "Soft Skills",
+      "Clean Coding",
+      "Version Control",
+      "Debugging",
+      "Testing",
+      "Deployment",
+      "Security",
+      "Data Structures",
+      "Algorithms",
+      "Problem Solving",
+      "Databases",
+      "REST APIs",
+      "Package Management",
+      "Command Line",
+      "VS Code",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node.js",
+      "React",
+      "React Native",
+      "Tailwind CSS",
+      "Next.JS",
+      "TypeScript",
+      "MongoDB",
+      "MySQL",
+      "Firebase",
+      "Firestore",
+      "Postman",
+      "Express",
+      "AWS",
+      "Google Cloud",
+      "Git and GitHub",
+      "Python",
+      "Accessibility",
+      "Docker",
+      "Electron",
+      "SASS",
+      "C#",
+      "Resume prep",
+      "Interview prep",
+      "Negotiating",
+      "Networking",
+      "Presentation skills"
+    ]
+  },
+  "two_columns_2": {
+    "left": {
+      "heading": {
+        "text": "Final Project",
+        "color": "rgb(24, 24, 27)",
+        "font_size": "36px",
+        "font_weight": "800"
+      },
+      "content": {
+        "text": "Your final project is a full-stack app deployed to an enterprise-level cloud with full database and API integration.",
+        "color": "rgb(113, 113, 122)",
+        "font_size": "16px",
+        "font_weight": "400",
+        "line_height": "24px"
+      }
+    },
+    "right": {
+      "image": "/images/final-project.png"
+    }
+  },
+  "title_container_3": {
+    "heading": "Creativity",
+    "paragraph": "Software Engineering is a surprisingly creative field. Building and designing apps requires a balance between logic and creativity using both hemispheres of our brains."
+  },
+  "qualities": [
+    {
+      "image": "/images/software-engineering/zen-path.png",
+
+      "title": "Inventive Project Ideas",
+      "content": "Coming up with new projects to build can be like an artist deciding what to paint, only with fewer limitations.",
+      "link": "/"
+    },
+    {
+      "image": "/images/software-engineering/Sarah-Kuss.png",
+
+      "title": "Problem Solving",
+      "content": "Elegant and efficient solutions to complex problems require creative thinking and innovation.",
+      "link": "/"
+    },
+    {
+      "image": "/images/software-engineering/Brian-Pinney.png",
+
+      "title": "Styling & Designing Sites",
+      "content": "We encourage students to get creative and have fun and pour themselves in styling their sites.",
+      "link": "/"
+    },
+    {
+      "image": "/images/software-engineering/Liz-Cerami.png",
+
+      "title": "User Experience (UX) Design",
+      "content": "Many enjoy focusing on creating intuitive and enjoyable user interfaces that are aesthetically pleasing, easy to use, and efficient.",
+      "link": "/"
+    },
+    {
+      "image": "/images/software-engineering/echo.webp",
+
+      "title": "Algorithm Design",
+      "content": "Designing algorithms that solve problems optimally often requires creative thinking. We come up with novel approaches to turn inventive processes into code.",
+      "link": "/"
+    },
+    {
+      "image": "/images/software-engineering/jonathans.jpg",
+
+      "title": "Innovation & Research",
+      "content": "Software engineers need to stay up to date with the latest developments, explore new ideas, and conduct research to innovate and improve existing systems.",
+      "link": "/"
+    },
+    {
+      "image": "/images/software-engineering/camila.jpg",
+
+      "title": "Experimenting with Generative AI",
+      "content": "New technologies are constantly emerging. We need to stay on top of the latest advancements and utilize the best tools to optimize our work.",
+      "link": "/"
+    },
+    {
+      "image": "/images/software-engineering/hallify.png",
+
+      "title": "Architectural Design",
+      "content": "Designing software involves making decisions about how different components will interact, how data will flow, and how the system will be structured.",
+      "link": "/"
+    },
+    {
+      "image": "/images/software-engineering/scholarship-winners.jpg",
+
+      "title": "Collaboration & Teamwork",
+      "content": "Creative problem-solving and brainstorming are common in teams, where individuals contribute diverse perspectives and ideas to find the best solutions.",
+      "link": "/"
+    }
+  ],
+  "two_columns_3": {
+    "left": {
+      "heading": {
+        "text": "Payment Plans",
+        "color": "rgb(24, 24, 27)",
+        "font_size": "36px"
+      },
+      "content": {
+        "text": "We offer several payment plan options to make a career in Software Engineering accessible to all. From low monthly installments to an Income Share Agreement, we want everyone to be able.",
+        "color": "rgb(113, 113, 122)",
+        "font_size": "16px",
+        "font_weight": "400",
+        "line_height": "32px"
+      },
+      "buttons": [
+        {
+          "button_text": "Schedule a Call",
+          "button_link": "/contact",
+          "button_color": "rgb(225, 29, 72)",
+          "button_textcolor": "rgb(250, 250, 250)",
+          "button_fontsize": "16px"
+        }
+      ]
+    },
+    "right": {
+      "steps": [
+        {
+          "heading": {
+            "text": "<span style=' color:rgb(225, 29, 72); '> NEW </span> in-house  0%-interest loans",
+            "color": "rgb(24, 24, 27)",
+            "font_size": "20px"
+          },
+          "content": {
+            "text": "Boca Code offers 6, 12, and 24 month loans with 0% interest. Our loans are managed through our partner Mia-Share. <a href='/contact' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here </a> to see if you qualify.",
+            "color": "rgb(113, 113, 122)",
+            "font_size": "16px",
+            "font_weight": "400",
+            "line_height": "32px"
+          },
+          "background": "rgb(224, 231, 255)"
+        },
+        {
+          "heading": {
+            "text": "Loans up to 60 months",
+            "color": "rgb(24, 24, 27)",
+            "font_size": "20px"
+          },
+          "content": {
+            "text": "Meritize offers loans up to 60 months with no payments for 6 months for as low as 5%. <a href='/contact' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here. </a> Climb offers similar terms up to 60 months with no payments for 6 months. <a href='/' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here. </a>",
+            "color": "rgb(113, 113, 122)",
+            "font_size": "16px",
+            "font_weight": "400",
+            "line_height": "32px"
+          },
+          "background": ""
+        },
+        {
+          "heading": {
+            "text": "Income Share Agreements",
+            "color": "rgb(24, 24, 27)",
+            "font_size": "20px"
+          },
+          "content": {
+            "text": "Our partner, Mia-Share, offers the best-in-class ISA terms. You put $500 down and pay nothing until you get a job making at least $36,000. Then you pay 8% of your salary for a maximum of 68 months.  <a href='/contact' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here. </a>",
+            "color": "rgb(113, 113, 122)",
+            "font_size": "16px",
+            "font_weight": "400",
+            "line_height": "32px"
+          },
+          "background": ""
+        }
+      ]
+    }
+  },
+  "two_columns_4": {
+    "left": {
+      "heading": {
+        "text": "Scholarship Options",
+        "color": "rgb(24, 24, 27)",
+        "font_size": "24px"
+      },
+      "content": {
+        "text": "Boca Code offers scholarship options for individuals looking to transform their careers. Find out more by booking a call with an Admissions Advisor.",
+        "color": "rgb(113, 113, 122)",
+        "font_size": "18px",
+        "font_weight": "400",
+        "line_height": "28px"
+      },
+      "complement": {
+        "text": "87% of all Boca Code students have received scholarships!",
+        "color": "rgb(67, 56, 202)",
+        "font_size": "20px",
+        "font_weight": "700",
+        "line_height": "28px"
+      },
+      "bullets": [
+        {
+          "icon": {
+            "name": "pencil",
+            "background": "rgb(99, 102, 241)"
+          },
+          "heading": {
+            "text": "Diversity in Tech",
+            "color": "rgb(24, 24, 27)",
+            "font_size": "18px"
+          },
+          "content": {
+            "text": "Awarded to students that are under-represented in the South Florida Tech community, namely Women, Black, African American, Latino, and Hispanic students.",
+            "color": "rgb(113, 113, 122)",
+            "font_size": "16px",
+            "font_weight": "400",
+            "line_height": "24px"
+          }
+        },
+        {
+          "icon": {
+            "name": "pencil",
+            "background": "rgb(99, 102, 241)"
+          },
+          "heading": {
+            "text": "Engineer the Change",
+            "color": "rgb(24, 24, 27)",
+            "font_size": "18px"
+          },
+          "content": {
+            "text": "Our community partner, TechStrong, provide $10,000 to one student each Spring and Fall. To learn more or apply, visit <a href='https://techstronggroup.com/engineer-the-change.' style='color:rgb(79, 70, 229);'>techstronggroup.com/engineer-the-change.</a>",
+            "color": "rgb(113, 113, 122)",
+            "font_size": "16px",
+            "font_weight": "400",
+            "line_height": "24px"
+          }
+        }
+      ]
+    },
+    "right": {
+      "image": "/images/scholarship-winners.jpg"
+    }
+  },
+  "two_columns_5": {
+    "right": {
+      "heading": {
+        "text": "Ready to Enroll?",
+        "color": "rgb(24, 24, 27)",
+        "font_size": "30px"
+      },
+      "content": {
+        "text": "Only 24 seats each session. <br> Enroll now to assure your seat.",
+        "color": "rgb(113, 113, 122)",
+        "font_size": "16px",
+        "font_weight": "400",
+        "line_height": "24px"
+      },
+      "buttons": [
+        {
+          "button_text": "Talk to an Advisor",
+          "button_link": "/contact",
+          "button_color": "rgb(225, 29, 72)",
+          "button_textcolor": "rgb(250, 250, 250)",
+          "button_fontsize": "16px"
+        }
+      ]
+    },
+    "left": {
+      "image": "/images/laptop.jpg",
+      "side": "left"
+    }
+  }
 }
