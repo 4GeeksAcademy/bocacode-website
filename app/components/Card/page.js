@@ -7,7 +7,7 @@ import VideoModal from '../VideoModal/page.js';
 import '../../styles/card.css';
 
 const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
-  // const { video, image, profileImage, title, content, link } = data;
+  const { video, image, profileImage, title, slug, content, link } = data;
 
   const [play, setPlay] = useState(false);
 
@@ -49,7 +49,7 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
   return (
     <>
       <div className={cardClass}>
-        {data?.image && !data?.video && (
+        {image && !video && (
           <div
             className=""
             style={{
@@ -57,7 +57,7 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
             }}
           >
             <Image
-              src={data?.image}
+              src={image}
               className={carousel ? 'image-brightness' : ''}
               width={profile ? 284 : course ? 320 : 384}
               height={profile ? 112 : course ? 160 : 224}
@@ -68,11 +68,11 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                 }`,
                 width: '100%',
               }}
-              alt={data?.title}
+              alt={title}
             />
           </div>
         )}
-        {data?.video && (
+        {video && (
           <div
             className=""
             style={{
@@ -81,7 +81,7 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
           >
             {play ? (
               <>
-                <VideoModal videoLink={data?.video} play />
+                <VideoModal videoLink={video} play />
                 <div
                   className="relative"
                   onClick={() => {
@@ -89,14 +89,14 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                   }}
                 >
                   <Image
-                    src={data?.image}
+                    src={image}
                     className=""
                     width={videoImageWith}
                     height={videoImageHeight}
                     style={{
                       width: '100%',
                     }}
-                    alt={data?.title}
+                    alt={title}
                   />
                   <Image
                     src={'/images/play-button.png'}
@@ -118,14 +118,14 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                 }}
               >
                 <Image
-                  src={data?.image}
+                  src={image}
                   className=""
                   width={videoImageWith}
                   height={videoImageHeight}
                   style={{
                     width: '100%',
                   }}
-                  alt={data?.title}
+                  alt={title}
                 />
                 <Image
                   src={'/images/play-button.png'}
@@ -141,15 +141,15 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
             )}
           </div>
         )}
-        {data?.profileImage && (
+        {profileImage && (
           <div
             className={
               profile ? 'absolute centerer' : 'flex justify-content-center'
             }
           >
-            <Link href={`/alumni/${data?.slug}`} className="">
+            <Link href={`/alumni/${slug}`} className="">
               <Image
-                src={data?.profileImage}
+                src={profileImage}
                 className="border-royalblue round"
                 width={profile ? 108 : 80}
                 height={profile ? 108 : 80}
@@ -158,19 +158,19 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
             </Link>
           </div>
         )}
-        {(data?.title || data?.content) && (
+        {(title || content) && (
           <div className={cardBodyClass}>
             <div className="column gap-8">
-              {data?.title && <h3 className={cardTitleClass}>{data?.title}</h3>}
-              {data?.content && (
+              {title && <h3 className={cardTitleClass}>{title}</h3>}
+              {content && (
                 <div>
-                  <p className={cardContentClass}>{data?.content}</p>
+                  <p className={cardContentClass}>{content}</p>
                 </div>
               )}
             </div>
             <div className="">
-              {data?.slug && data?.profileImage && (
-                <Link href={`/alumni/${data?.slug}`} className="">
+              {slug && profileImage && (
+                <Link href={`/alumni/${slug}`} className="">
                   <h4 className="fs-16 fw-600 color-royalblue py-8">
                     {link_text}
                   </h4>
