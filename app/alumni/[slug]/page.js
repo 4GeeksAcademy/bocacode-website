@@ -13,8 +13,10 @@ const Students = ({ params }) => {
   return (
     <main>
       <AlumniDescription data={student}></AlumniDescription>
-      <AlumniProject data={student}></AlumniProject>
-      <QuestionAndAnswers data={student}></QuestionAndAnswers>
+      {student?.final_project_tittle && (
+        <AlumniProject data={student}></AlumniProject>
+      )}
+      {student?.qa && <QuestionAndAnswers data={student}></QuestionAndAnswers>}
     </main>
   );
 };
