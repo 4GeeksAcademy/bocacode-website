@@ -46,73 +46,43 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
   const videoImageWith = profile ? 284 : 384;
   const videoImageHeight = profile ? 112 : 224;
 
-  return (
-    data && (
-      <div className={cardClass}>
-        {image && !video && (
-          <div
-            className=""
+  return data ? (
+    <div className={cardClass}>
+      {image && !video && (
+        <div
+          className=""
+          style={{
+            boxShadow: `${boxShadowStyle}`,
+          }}
+        >
+          <Image
+            src={image}
+            className={carousel ? 'image-brightness' : ''}
+            width={profile ? 284 : course ? 320 : 384}
+            height={profile ? 112 : course ? 160 : 224}
             style={{
-              boxShadow: `${boxShadowStyle}`,
+              objectFit: 'cover',
+              borderRadius: `${
+                profile ? '16px 16px 0 0' : course ? '8px 8px 0 0' : '12px'
+              }`,
+              width: '100%',
             }}
-          >
-            <Image
-              src={image}
-              className={carousel ? 'image-brightness' : ''}
-              width={profile ? 284 : course ? 320 : 384}
-              height={profile ? 112 : course ? 160 : 224}
-              style={{
-                objectFit: 'cover',
-                borderRadius: `${
-                  profile ? '16px 16px 0 0' : course ? '8px 8px 0 0' : '12px'
-                }`,
-                width: '100%',
-              }}
-              alt={title}
-            />
-          </div>
-        )}
-        {video && (
-          <div
-            className=""
-            style={{
-              boxShadow: `${boxShadowStyle}`,
-            }}
-          >
-            {play ? (
-              <>
-                <VideoModal videoLink={video} play />
-                <div
-                  className="relative"
-                  onClick={() => {
-                    setPlay(true);
-                  }}
-                >
-                  <Image
-                    src={image}
-                    className=""
-                    width={videoImageWith}
-                    height={videoImageHeight}
-                    style={{
-                      width: '100%',
-                    }}
-                    alt={title}
-                  />
-                  <Image
-                    src={'/images/play-button.png'}
-                    className="absolute right-0"
-                    width={videoImageWith}
-                    height={videoImageHeight}
-                    style={{
-                      width: '100%',
-                    }}
-                    alt="play button"
-                  />
-                </div>
-              </>
-            ) : (
+            alt={title}
+          />
+        </div>
+      )}
+      {video && (
+        <div
+          className=""
+          style={{
+            boxShadow: `${boxShadowStyle}`,
+          }}
+        >
+          {play ? (
+            <>
+              <VideoModal videoLink={video} play />
               <div
-                className="relative image-grayscale"
+                className="relative"
                 onClick={() => {
                   setPlay(true);
                 }}
@@ -138,49 +108,79 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                   alt="play button"
                 />
               </div>
+            </>
+          ) : (
+            <div
+              className="relative image-grayscale"
+              onClick={() => {
+                setPlay(true);
+              }}
+            >
+              <Image
+                src={image}
+                className=""
+                width={videoImageWith}
+                height={videoImageHeight}
+                style={{
+                  width: '100%',
+                }}
+                alt={title}
+              />
+              <Image
+                src={'/images/play-button.png'}
+                className="absolute right-0"
+                width={videoImageWith}
+                height={videoImageHeight}
+                style={{
+                  width: '100%',
+                }}
+                alt="play button"
+              />
+            </div>
+          )}
+        </div>
+      )}
+      {profileImage && (
+        <div
+          className={
+            profile ? 'absolute centerer' : 'flex justify-content-center'
+          }
+        >
+          <Link href={`/alumni/${slug}`} className="">
+            <Image
+              src={profileImage}
+              className="border-royalblue round"
+              width={profile ? 108 : 80}
+              height={profile ? 108 : 80}
+              alt="profile"
+            />
+          </Link>
+        </div>
+      )}
+      {(title || content) && (
+        <div className={cardBodyClass}>
+          <div className="column gap-8">
+            {title && <h3 className={cardTitleClass}>{title}</h3>}
+            {content && (
+              <div>
+                <p className={cardContentClass}>{content}</p>
+              </div>
             )}
           </div>
-        )}
-        {profileImage && (
-          <div
-            className={
-              profile ? 'absolute centerer' : 'flex justify-content-center'
-            }
-          >
-            <Link href={`/alumni/${slug}`} className="">
-              <Image
-                src={profileImage}
-                className="border-royalblue round"
-                width={profile ? 108 : 80}
-                height={profile ? 108 : 80}
-                alt="profile"
-              />
-            </Link>
+          <div className="">
+            {slug && profileImage && (
+              <Link href={`/alumni/${slug}`} className="">
+                <h4 className="fs-16 fw-600 color-royalblue py-8">
+                  {link_text}
+                </h4>
+              </Link>
+            )}
           </div>
-        )}
-        {(title || content) && (
-          <div className={cardBodyClass}>
-            <div className="column gap-8">
-              {title && <h3 className={cardTitleClass}>{title}</h3>}
-              {content && (
-                <div>
-                  <p className={cardContentClass}>{content}</p>
-                </div>
-              )}
-            </div>
-            <div className="">
-              {slug && profileImage && (
-                <Link href={`/alumni/${slug}`} className="">
-                  <h4 className="fs-16 fw-600 color-royalblue py-8">
-                    {link_text}
-                  </h4>
-                </Link>
-              )}
-            </div>
-          </div>
-        )}
-      </div>
-    )
+        </div>
+      )}
+    </div>
+  ) : (
+    <></>
   );
 };
 export default Card;
