@@ -47,7 +47,7 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
   const videoImageHeight = profile ? 112 : 224;
 
   return (
-    <>
+    data && (
       <div className={cardClass}>
         {image && !video && (
           <div
@@ -180,7 +180,7 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
           </div>
         )}
       </div>
-    </>
+    )
   );
 };
 export default Card;
