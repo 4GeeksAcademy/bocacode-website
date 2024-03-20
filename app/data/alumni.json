@@ -2488,24 +2488,6 @@
           "icone": "portfolio",
           "link": ""
         }
-      ],
-      "final_project_image": "/images/final-project/.png",
-      "final_project_tittle": "",
-      "final_project_description": "",
-      "links_in_final_project": [
-        { "icone": "youtube", "link": "" },
-        { "icone": "chain", "link": "" }
-      ],
-      "qa": [
-        { "title": "Why Boca Code?", "answer": "" },
-        {
-          "title": "What are some of the important skills for success in your field?",
-          "answer": ""
-        },
-        {
-          "title": "What inspired you to pursue your current career path?",
-          "answer": ""
-        }
       ]
     },
     {
