@@ -11,26 +11,49 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
 
   const [play, setPlay] = useState(false);
 
+  const cardClass = profile
+    ? 'card-profile-body box-shadow-v1 rounded-16 column relative'
+    : alumni
+    ? 'card-alumni-body column align-center'
+    : course
+    ? 'card-course-body'
+    : 'card-container';
+
+  const cardBodyClass = profile
+    ? 'card-profile-content height-100 justify-beetwen column align-items-center text-center'
+    : alumni
+    ? 'text-center pt-8'
+    : course
+    ? 'p-16 bg-white rounded-8 box-shadow-v3'
+    : 'p-16 column';
+
+  const cardTitleClass = profile
+    ? 'fs-20 fw-500 lh-28'
+    : alumni
+    ? 'fs-18 fw-500 lh-28'
+    : course
+    ? 'fs-20 fw-500 lh-28'
+    : 'fs-18 fw-500 lh-28';
+
+  const cardContentClass = carousel
+    ? 'fs-14 fw-400 lh-24 color-gray'
+    : course
+    ? 'fs-16 fw-300 lh-24 color-lightgray'
+    : 'fs-12 fw-400 color-lightgray';
+  const boxShadowStyle =
+    carousel && 'box-shadow: 0px 10px 25px -12px rgba(0,0,0,0.67)';
+
+  const videoImageWith = profile ? 284 : 384;
+  const videoImageHeight = profile ? 112 : 224;
+
   return (
     <>
-      <div
-        className={
-          profile
-            ? 'card-profile-body box-shadow-v1 rounded-16 column relative'
-            : alumni
-            ? 'card-alumni-body column align-center'
-            : course
-            ? 'card-course-body'
-            : 'card-container'
-        }
-      >
+      <div className={cardClass}>
         {data?.image && !data?.video && (
           <div
             className=""
             style={{
-              boxShadow: `${
-                carousel && 'box-shadow: 0px 10px 25px -12px rgba(0,0,0,0.67)'
-              }`,
+              boxShadow: `${boxShadowStyle}`,
             }}
           >
             <Image
@@ -53,9 +76,7 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
           <div
             className=""
             style={{
-              boxShadow: `${
-                carousel && 'box-shadow: 0px 10px 25px -12px rgba(0,0,0,0.67)'
-              }`,
+              boxShadow: `${boxShadowStyle}`,
             }}
           >
             {play ? (
@@ -70,8 +91,8 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                   <Image
                     src={data?.image}
                     className=""
-                    width={profile ? 284 : 384}
-                    height={profile ? 112 : 224}
+                    width={videoImageWith}
+                    height={videoImageHeight}
                     style={{
                       width: '100%',
                     }}
@@ -80,8 +101,8 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                   <Image
                     src={'/images/play-button.png'}
                     className="absolute right-0"
-                    width={profile ? 284 : 384}
-                    height={profile ? 112 : 224}
+                    width={videoImageWith}
+                    height={videoImageHeight}
                     style={{
                       width: '100%',
                     }}
@@ -99,8 +120,8 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                 <Image
                   src={data?.image}
                   className=""
-                  width={profile ? 284 : 384}
-                  height={profile ? 112 : 224}
+                  width={videoImageWith}
+                  height={videoImageHeight}
                   style={{
                     width: '100%',
                   }}
@@ -109,8 +130,8 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
                 <Image
                   src={'/images/play-button.png'}
                   className="absolute right-0"
-                  width={profile ? 284 : 384}
-                  height={profile ? 112 : 224}
+                  width={videoImageWith}
+                  height={videoImageHeight}
                   style={{
                     width: '100%',
                   }}
@@ -138,46 +159,12 @@ const Card = ({ data, carousel, link_text, profile, alumni, course }) => {
           </div>
         )}
         {(data?.title || data?.content) && (
-          <div
-            className={
-              profile
-                ? 'card-profile-content height-100 justify-beetwen column align-items-center text-center'
-                : alumni
-                ? 'text-center pt-8'
-                : course
-                ? 'p-16 bg-white rounded-8 box-shadow-v3'
-                : 'p-16 column'
-            }
-          >
+          <div className={cardBodyClass}>
             <div className="column gap-8">
-              {data?.title && (
-                <h3
-                  className={
-                    profile
-                      ? 'fs-20 fw-500 lh-28'
-                      : alumni
-                      ? 'fs-18 fw-500 lh-28'
-                      : course
-                      ? 'fs-20 fw-500 lh-28'
-                      : 'fs-18 fw-500 lh-28'
-                  }
-                >
-                  {data?.title}
-                </h3>
-              )}
+              {data?.title && <h3 className={cardTitleClass}>{data?.title}</h3>}
               {data?.content && (
                 <div>
-                  <p
-                    className={
-                      carousel
-                        ? 'fs-14 fw-400 lh-24 color-gray'
-                        : course
-                        ? 'fs-16 fw-300 lh-24 color-lightgray'
-                        : 'fs-12 fw-400 color-lightgray'
-                    }
-                  >
-                    {data?.content}
-                  </p>
+                  <p className={cardContentClass}>{data?.content}</p>
                 </div>
               )}
             </div>
