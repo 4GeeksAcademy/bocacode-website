@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from '../page.module.css';
 import data from '../data/contact.json';
+import '../styles/contact.css';
 
 const Contact = () => {
   const {
@@ -14,7 +15,7 @@ const Contact = () => {
     form,
   } = data;
   return (
-    <main style={{ marginTop: '122px' }}>
+    <main className="contact-container">
       <div className="maxwidth-1366 container my-32 flex gap-24 column-tablet">
         <div className="w-50 w-100-tablet gap-16 column">
           <div className="column">

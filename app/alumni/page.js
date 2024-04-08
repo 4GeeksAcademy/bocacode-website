@@ -1,17 +1,14 @@
 'use client';
-import { React, useEffect, useState } from 'react'
-import Image from 'next/image'
-import styles from '../page.module.css'
+import { React, useEffect, useState } from 'react';
+import styles from '../page.module.css';
 import TitleContainer from '../components/TitleContainer/page';
 import Carousel from '../components/Carousel/page';
 import Card from '../components/Card/page';
-import data from '../data/alumni.json'
-
+import data from '../data/alumni.json';
 
 const Alumni = () => {
   return (
     <main className={styles.main}>
-
       <TitleContainer
         data={data?.title_container}
         classContainer="text-center py-30 m-auto"
@@ -29,22 +26,14 @@ const Alumni = () => {
       />
 
       {data?.alumni && (
-        <div className='row gap-80 wrap p-30-20 justify-center maxwidth-1366 m-auto '>
-
+        <div className="row gap-80 wrap p-30-20 justify-center maxwidth-1366 m-auto ">
           {data?.alumni?.map((card, index) => {
             return (
-              <Card
-                key={index}
-                data={card}
-                link_text={card?.link}
-                alumni
-              />
-            )
+              <Card key={index} data={card} link_text={card?.link} alumni />
+            );
           })}
-
         </div>
       )}
-
     </main>
   );
 };
