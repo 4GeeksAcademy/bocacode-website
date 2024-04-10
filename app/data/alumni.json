@@ -1,867 +1,2494 @@
 {
-    "title_container": {
-        "heading": "Success Stories",
-        "paragraph": "Hear from some of our graduates and the managers that hired them in the videos below."
+  "title_container": {
+    "heading": "Success Stories",
+    "paragraph": "Hear from some of our graduates and the managers that hired them in the videos below."
+  },
+  "title_container_1": {
+    "heading": "Software Engineering Talent",
+    "paragraph": "Look no further for top-trained and vetted talent to hire"
+  },
+  "carousel": [
+    {
+      "image": "/images/jarue-johnson-video-2.png",
+      "video": "https://www.youtube.com/watch?v=kNA3DkBa3AY",
+      "title": "Jarue Johnson",
+      "content": "From hardware repair to Platform Engineer at Watsco"
     },
-    "title_container_1": {
-        "heading": "Software Engineering Talent",
-        "paragraph": "Look no further for top-trained and vetted talent to hire"
+    {
+      "image": "/images/clinton-bellingar-video-2.png",
+      "video": "https://www.youtube.com/watch?v=lZmRv4LBNuw&t=2s",
+      "title": "Skarzold Bellingar",
+      "content": "From shift manager at Pizza Hut to Senior Team Lead at GRUBBRR"
     },
-    "carousel": [
+    {
+      "image": "/images/adrian-perdomo-video-2.png",
+      "video": "https://youtu.be/7w9KERJtz54",
+      "title": "Adrian Perdomo",
+      "content": "From waiter to Mobile Developer at RockVal"
+    }
+  ],
+  "link_text": "See profile >",
+  "alumni": [
+    {
+      "profileImage": "/images/candidates/joelle-johnson.jpg",
+      "title": "Joelle Johnson",
+      "content": "Former Retail Manager and CS Major",
+      "slug": "joelle-johnson",
+      "description": "Having led in management for three years, Joelle's pivot to real estate led her to a fascination with data analytics. It was this intrigue that nudged her towards pursuing computer programming. Her forte lies in full stack development, particularly backend technologies, data manipulation, and security. An outgoing and team-driven individual, Joelle thrives on conquering new challenges. Outside of coding, Joelle is passionate about nature, family, and community outreach.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/JoelleCJohnson" },
         {
-            "image": "/images/jarue-johnson-video-2.png",
-            "video": "https://www.youtube.com/watch?v=kNA3DkBa3AY", 
-            "title": "Jarue Johnson",
-            "content": "From hardware repair to Platform Engineer at Watsco"
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/joelle-c-johnson/"
         },
         {
-            "image": "/images/clinton-bellingar-video-2.png",
-            "video": "https://www.youtube.com/watch?v=lZmRv4LBNuw&t=2s",
-            "title": "Skarzold Bellingar",
-            "content": "From shift manager at Pizza Hut to Senior Team Lead at GRUBBRR"
-        },
-        {
-            "image": "/images/adrian-perdomo-video-2.png",
-            "video": "https://youtu.be/7w9KERJtz54",
-            "title": "Adrian Perdomo",
-            "content": "From waiter to Mobile Developer at RockVal"
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FJoelleCJohnson-Resume-Dec-2023.pdf?alt=media"
         }
-    ],
-    "link_text": "See profile >",
-    "alumni": [
+      ],
+      "final_project_image": "/images/candidates/projects/wish-lily.png",
+      "final_project_tittle": "WishLily",
+      "final_project_description": "Don't know what to get your loved ones for that special occasion? Check out their wishlist on WishLily!",
+      "links_in_final_project": [
         {
-            "profileImage": "/images/alumni/max-espinosa.jpg",
-            "title": "Max Espinosa",
-            "content": "Camlann Games",
-            "link": "/"
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=wu8OlalFl48"
         },
+        { "icone": "chain", "link": "https://final-project-630f3.web.app/" }
+      ],
+      "qa": [
         {
-            "profileImage": "/images/alumni/john-therlonge.jpg",
-            "title": "John Cadet Therlonge",
-            "content": "Former Retail Supervisor",
-            "link": "/"
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code because I love coding. I felt that I was not learning at a satisfactory pace in college. I was able to code, but unable to engineer. I had no portfolio to showcase, and I wanted to be employable, quickly. I was hungry to learn how to make functioning full-stack apps, and Boca Code was a great way for me to hone my skills and become employable. I felt confident that Boca Code could fill in the gaps of information and leave me with a strong resume, portfolio, and network."
         },
         {
-            "profileImage": "/images/alumni/andrew-wilborn.jpg",
-            "title": "Andrew Wilborn",
-            "content": "UCF Computer Science Grad",
-            "link": "/"
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Knowing how to network, manage time, and problem solve."
         },
         {
-            "profileImage": "/images/alumni/daniel-lancheros.jpg",
-            "title": "Daniel Lancheros",
-            "content": "Former Sales and Logistics Analyst",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/kevin-fernandez.jpg",
-            "title": "Kevin Fernandez",
-            "content": "Camlann Games",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/lorenzo-mokwa.jpg",
-            "title": "Lorenzo Mokwa",
-            "content": "Camlann Games",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/yaslin-carmona.jpg",
-            "title": "Yaslin Carmona",
-            "content": "Software Engineer",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/jeniffer-giraldo.jpg",
-            "title": "Jeniffer Giraldo",
-            "content": "Educator and Software Engineer",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/kevin-dietmeyer.jpg",
-            "title": "Kevin Dietmeyer",
-            "content": "Former Software Account Manager",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/ariana-diaz.jpg",
-            "title": "Ariana Diaz",
-            "content": "Current Highschool Student",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/veronica-de-felice.jpg",
-            "title": "Veronica de Felice",
-            "content": "Manit",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/brian-pinney.jpg",
-            "title": "Brian Pinney",
-            "content": "Former Truck Driver",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/veronie-cazeau.jpg",
-            "title": "Véronie Cazeau",
-            "content": "Former Massage Therapist",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/nick-morgan.jpg",
-            "title": "Nicholas Morgan",
-            "content": "Former Student Athlete",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/sarah-kuss.jpg",
-            "title": "Sarah Kuss",
-            "content": "Giraffe Media",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/jonathan-sabunco.jpg",
-            "title": "Jonathan Sabunco",
-            "content": "Former Computer Science Major",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/barbara-laurince.jpg",
-            "title": "Barbara Laurince",
-            "content": "Former Mortgage Broker",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/jose-torres.jpg",
-            "title": "Jose Torres",
-            "content": "Software Engineer",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/lizanne-cerami.jpg",
-            "title": "Lizanne Cerami",
-            "content": "Former Billing Specialist",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/ilan-vaks.jpg",
-            "title": "Ilan Vaks",
-            "content": "GA Telesis",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/jasmine-henry.jpg",
-            "title": "Jasmine Henry",
-            "content": "Former Nuclear Engineer",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/david-radjai.jpg",
-            "title": "David Radjai",
-            "content": "Former Mortgage Broker",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/maria-camila-sandoval.jpg",
-            "title": "Maria Camila Sandoval",
-            "content": "Former Biomedical Engineer",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/bryan-vargas.jpg",
-            "title": "Bryan Vargas",
-            "content": "Former Computer Science Major",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/brianna-escobar.jpg",
-            "title": "Brianna Escobar",
-            "content": "Previously in Food Service",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/kaniel-tapper.jpg",
-            "title": "Kaniel Tapper",
-            "content": "Former Retail Manager",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/meghann-stamper.jpg",
-            "title": "Meghann Stamper",
-            "content": "Palm Beach County Schools",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/aaron-agosto.jpg",
-            "title": "Aaron Agosto",
-            "content": "GA Telesis",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/miguel-camilo.jpg",
-            "title": "Miguel Camilo",
-            "content": "Manit",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/idan-fischer.jpg",
-            "title": "Idan Fischer",
-            "content": "Camlann Games",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Edilma-Riano.jpg",
-            "title": "Edilma Riano",
-            "content": "NumberCruncher",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Varlince-Meran.jpg",
-            "title": "Varlince Meran ",
-            "content": "DebtHelper",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Gisselle-Pombar.jpg",
-            "title": "Gisselle Pombar ",
-            "content": "Bambino Sitters",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Alliette-Dortelus.jpg",
-            "title": "Alliette Dortelus ",
-            "content": "NEBA",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Daniel-Barba.jpg",
-            "title": "Daniel Barba ",
-            "content": "Allterco Robotics",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Anthony-Murphy.jpg",
-            "title": "Anthony Murphy ",
-            "content": "Camlann Games",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Beatriz-Recari.jpg",
-            "title": "Beatriz Recari ",
-            "content": "Former 3-time LPGA champion",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Andy-Linnell.jpg",
-            "title": "Andy Linnell ",
-            "content": "Recent Property and Asset Manager",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Joseph-Graffeo.jpg",
-            "title": "Joseph Graffeo ",
-            "content": "BanyaJosephn Hill",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Gisele-Abzalov.jpg",
-            "title": "Gisele Abzalov ",
-            "content": "Former Finance Expert and Entrepreneur",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Anttoinette-Henry.jpg",
-            "title": "Anttoinette Henry ",
-            "content": "Stylist and Entrepreneur",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Gianna-Davila.jpg",
-            "title": "Gianna Davila ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Edgar-Davila.jpg",
-            "title": "Edgar Davila ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Mido-Khalil.jpg",
-            "title": "Mido Khalil ",
-            "content": "Camlann Games",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Gerly-Kaytukov.jpg",
-            "title": "Gerly Kaytukov ",
-            "content": "Bosch",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Eddie-Espinosa.jpg",
-            "title": "Eddie Espinosa ",
-            "content": "Camlann Games",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Adi-Fischer.jpg",
-            "title": "Adi Fischer ",
-            "content": "RaiseLink",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Ainis-Taranda.jpg",
-            "title": "Ainis Taranda ",
-            "content": "Goat Foods",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Corwin-Hiatt.jpg",
-            "title": "Corwin Hiatt ",
-            "content": "John Deere",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Emily-LaBelle.jpg",
-            "title": "Emily LaBelle ",
-            "content": "Microbe Formulas",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Tyler-Jefferson.jpg",
-            "title": "Tyler Jefferson ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Jacques-Laguerre.jpg",
-            "title": "Jacques Laguerre ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Cari-Licor.jpg",
-            "title": "Cari Licor ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Nick-Jackson.jpg",
-            "title": "Nick Jackson ",
-            "content": "MailResponse",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Fanessa-Hilaire.jpg",
-            "title": "Fanessa Hilaire ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Elle-Swift.jpg",
-            "title": "Elle Swift ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Natallia-Pahosava.jpg",
-            "title": "Natallia Pahosava ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Ethan-Ochoa.jpg",
-            "title": "Ethan Ochoa ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Rafael-Reyes.jpg",
-            "title": "Rafael Reyes ",
-            "content": "Verizon",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Justin-Hessler.jpg",
-            "title": "Justin Hessler ",
-            "content": "Banyan Hil",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Stephanie-Sadowski.jpg",
-            "title": "Stephanie Sadowski ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Jonathan-Vegas.jpg",
-            "title": "Jonathan Vegas ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Javier-Vargas.jpg",
-            "title": "Javier Vargas ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Renzo-Silva.jpg",
-            "title": "Renzo Silva ",
-            "content": "Banyan Hill",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Hugo-Salles.jpg",
-            "title": "Hugo Salles ",
-            "content": "Mean Guppy",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Mateo-Rey.jpg",
-            "title": "Mateo Rey ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Maria-Carson.jpg",
-            "title": "Maria (Redman) Carson ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Sebastien-Placide.jpg",
-            "title": "Ralph Sébastien Placide ",
-            "content": "JetBlue",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Carla-Pico.jpg",
-            "title": "Carla Pico ",
-            "content": "Strategio",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Alex-Pelta.jpg",
-            "title": "Alex Pelta ",
-            "content": "Central Reach",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Pam-Pandey.jpg",
-            "title": "Pam Pandey ",
-            "content": "Allterco Robotics",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Derek-Olsen.jpg",
-            "title": "Derek Olsen ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Alicia-Myrie.jpg",
-            "title": "Alicia Myrie ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Max-Morgenbesser.jpg",
-            "title": "Max Morgenbesser ",
-            "content": "MyFavor",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Logan-McCalley.jpg",
-            "title": "Logan McCalley ",
-            "content": "Mean Guppy",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Rondolph-stmartin.jpg",
-            "title": "Rondolph St.Martin ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Mason-Madaras.jpg",
-            "title": "Mason Madaras ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Bridgette-Lemus.jpg",
-            "title": "Bridgette Lemus ",
-            "content": "Boca Code",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Khali-Gopaul.jpg",
-            "title": "Khali Gopaul ",
-            "content": "SHVO",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Roderick-Fayson.jpg",
-            "title": "Roderick “Rod” Fayson ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/James-Etchberger.jpg",
-            "title": "James Etchberger ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Cassandra-Curcio.jpg",
-            "title": "Cassandra Curcio",
-            "content": "Boca Code Labs",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Gavin-Anderson.jpg",
-            "title": "Gavin Anderson ",
-            "content": "Angi",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Wade-Booth.jpg",
-            "title": "Wade Booth ",
-            "content": "GRUBBRR",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Ludwigson-Morisseau.jpg",
-            "title": "Ludwigson Morisseau ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/chole-Axel.jpg",
-            "title": "Nichole “Chole” Axel ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Miguel-Gomez.jpg",
-            "title": "Miguel Gomez ",
-            "content": "GRUBBRR",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Alex-Hall.jpg",
-            "title": "Alex Hall ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Josh-Philip.jpg",
-            "title": "Josh Philip ",
-            "content": "Revelex",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Aner-Fidalgo.jpg",
-            "title": "Aner Fidalgo ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Cherie-Allen.jpg",
-            "title": "Cherie Allen ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Nerissa-Dorlus.jpg",
-            "title": "Nerissa Dorlus ",
-            "content": "Boca Code",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Brahm-Kelly.jpg",
-            "title": "Brahm Kelly",
-            "content": "Boca Code Labs",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Ann-Starovoitov.jpg",
-            "title": "Ann Starovoitov ",
-            "content": "Sirius XM",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Neil-Bennett.jpg",
-            "title": "Neil Bennett ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Stephanie-Sanchez.jpg",
-            "title": "Stephanie Sanchez ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Sebastian-Tolomeo.jpg",
-            "title": "Sebastian Tolomeo ",
-            "content": "City Furniture",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Maria-Bruno.jpg",
-            "title": "Maria Bruno ",
-            "content": "Health Karma",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Rodrigo-Henriques.jpg",
-            "title": "Rodrigo Henriques ",
-            "content": "Allterco Robotics",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Carlie-Duperval-Dorlus.jpg",
-            "title": "Carlie Duperval-Dorlus ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Arthur-Silva.jpg",
-            "title": "Arthur Silva ",
-            "content": "Boca Code",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Ronny-Victor.jpg",
-            "title": "Ronny Victor ",
-            "content": "Moving Minds",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Emil-Dzhebrailov.jpg",
-            "title": "Emil Dzhebrailov ",
-            "content": "Robert Half",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Sara-Cormican.jpg",
-            "title": "Sara Cormican ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Keith-Richard.jpg",
-            "title": "Keith Richard ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Christian-Klein.jpg",
-            "title": "Christian Klein ",
-            "content": "Playwire",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Malibu-Charles.jpg",
-            "title": "Malibu Charles ",
-            "content": "Target",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Jeremiah-Newman.jpg",
-            "title": "Jeremiah Newman ",
-            "content": "Levatas",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Zhuopu-Zhou.jpg",
-            "title": "Zhuopu Zhou ",
-            "content": "City Furniture",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Danielle-Kom.jpg",
-            "title": "Danielle Kom ",
-            "content": "Flossy",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Peter-Lewandowski.jpg",
-            "title": "Peter Lewandowski ",
-            "content": "Boca Code Labs",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Farrukh-Karimov.jpg",
-            "title": "Farrukh Karimov ",
-            "content": "SMArtX",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Megan-Martel.jpg",
-            "title": "Megan Martel ",
-            "content": "Glades Talent",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Brian-Serein.jpg",
-            "title": "Brian Serein ",
-            "content": "Telepreformance",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Ashley-Dennis.jpg",
-            "title": "Ashley Dennis ",
-            "content": "Health Karma",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/alex-Martinez.jpg",
-            "title": "J Alexander Martinez ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Aurelie-Gedeon.jpg",
-            "title": "Aurelie Gedeon ",
-            "content": "Two Fish",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Deyvin-Cano.jpg",
-            "title": "Deyvin Cano ",
-            "content": "Banyan Air Service",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Diana-Marcelin.jpg",
-            "title": "Diana Marcelin ",
-            "content": "Health Karma",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Jonah-Allen.jpg",
-            "title": "Jonah Allen ",
-            "content": "Best Buy",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Zach-Larson.jpg",
-            "title": "Zachary Larson ",
-            "content": "Talentify",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Val-Leserra.jpg",
-            "title": "Valerie Leserra ",
-            "content": "Learn More",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Luiz-Silva.jpg",
-            "title": "Luiz Silva ",
-            "content": "Sales",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Dan-Boudet.jpg",
-            "title": "Dan Boudet ",
-            "content": "SMArtX",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Chris-DeLeon.jpg",
-            "title": "Chris De Leon ",
-            "content": "UpRecruit",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Emily-Morgenbesser.jpg",
-            "title": "Emily Morgenbesser ",
-            "content": "SMArtX",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Matthew-McKney.jpg",
-            "title": "Matthew McKney ",
-            "content": "Dariel Mera",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Juan-Yepes.jpg",
-            "title": "Juan Yepes ",
-            "content": "City Furniture",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Sebas-Anty.jpg",
-            "title": "Sebastien “Sebas” Anty ",
-            "content": "Boca Code",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Diana-Tineo.jpg",
-            "title": "Diana Tineo ",
-            "content": "Playwire",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Manny-Toribio.jpg",
-            "title": "Manny Toribio ",
-            "content": "SMArtX",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Alina-Maliuk.jpg",
-            "title": "Alina Maliuk ",
-            "content": "SMArtX",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Adrian-Perdomo.jpg",
-            "title": "Adrian Perdomo ",
-            "content": "City Furniture",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/nikki-Allen.jpg",
-            "title": "Nicole Allen ",
-            "content": "SMArtX",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Jarue-Johnson.jpg",
-            "title": "Jarue Johnson ",
-            "content": "Torticity",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Vitoria-Roas.jpg",
-            "title": "Vitoria Roas ",
-            "content": "JM Family",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Bobby-Langley.jpg",
-            "title": "Bobby Langley ",
-            "content": "GRUBBRR",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Clinton-Bellingar.jpg",
-            "title": "Clinton “Skar” Bellingar ",
-            "content": "GRUBBRR",
-            "link": "/"
-        },
-        {
-            "profileImage": "/images/alumni/Dennis-Shea.jpg",
-            "title": "Dennis G. Shea, Ph.D. ",
-            "content": "IBM Research Alum",
-            "link": "/"
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "A friend of mine was a young web developer, and he was financially independent and had a great work-life balance. I took the plunge, tried coding on my own at home, fell in love with it and pursued a degree in computer programming."
         }
-    ]
+      ]
+    },
+    {
+      "profileImage": "/images/candidates/andy-arias.jpg",
+      "title": "Andy Arias",
+      "content": "Recent Highschool Graduate",
+      "slug": "andy-arias",
+      "description": "I'm a 20-year-old Cuban, very enthusiastic and charismatic. I love learning new things and I'm passionate about programming. I have a keen interest in most technology fields. I'm known for being a very sociable and helpful person with many friends. I enjoy meeting new people and assisting others. I love working in a team and appreciate an organized work environment.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/andyarias30" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/andy-arias-betancourt"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FAndy_Arias_Resume_2023.pdf?alt=media"
+        }
+      ],
+      "final_project_image": "/images/candidates/projects/andy-arias.png",
+      "final_project_tittle": "Sugar Smart",
+      "final_project_description": "Sugar Smart is an app developed to help people with diabetes accurately store and track their blood-sugar levels.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=QF1XmvPBuSc"
+        },
+        {
+          "icone": "chain",
+          "link": "https://master.d2xsu4ut86x8gj.amplifyapp.com/"
+        }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "Boca Code was the best option in Coral Springs, even while being in Boca Raton, then when i met the crew I felt like I was with family."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Being persistent and responsible is the key to achieving what you set out to do."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "My desire to improve my lifestyle and passion for technology."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/candidates/evelybenson-chatelain.jpg",
+      "title": "Evelybenson Chatelain",
+      "content": "Former Civil Engineer and Artist",
+      "slug": "evelybenson-chatelain",
+      "description": "I'm Evelybenson Chatelain. I am 23 years old and currently studying software engineering at Boca Code. Before that, I lived in Haiti (5 months ago), where I was a civil engineer, a graphic designer, a musician, a passionate creative, and love to combine art and code.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/benson-optimiste1" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/evelybensonchatelain/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FEvelybenson_Chatelain_Resume_2023.pdf?alt=media"
+        }
+      ],
+      "final_project_image": "/images/candidates/projects/Evelybenson-Chatelain.png",
+      "final_project_tittle": "IMCONA",
+      "final_project_description": "IMCONA = Immigrant Connect App / It's an immigration app that simplifies your experience by helping you locate service offices such as Social Security, driver's license, and immigration services in the United States. Plan your visits easily and manage your schedules with our user-friendly tool.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=MyMEknQAcN4&feature=youtu.be"
+        },
+        { "icone": "chain", "link": "https://fir-auth-ceb.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code because I received a lot of positive feedback about the school and because I want to become a real software engineer. I think it's the best place to learn to code."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "I think you must have: Programming Language Proficiency / Understanding of Fundamental Concepts / Problem-Solving Skills / Development Tool Mastery / Curiosity and Continuous Learning / Effective Communication / Teamwork / Testing and Debugging /"
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "In reality I am always in search of knowledge... when I arrived in the United States I wanted to learn some really exciting things because I am passionate about art and creation and I chose coding because I love it."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/candidates/tremayne-johnson.jpg",
+      "title": "Tremayne L. Johnson",
+      "content": "Former Truck Driver",
+      "slug": "tremayne-l-johnson",
+      "description": "Strong Work Ethic - Grounded Character - Very Resilient To Defeatist Mentality",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/Tre50" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/Tremayne-Johnson/"
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/candidates/projects/Tremayne-Johnson.png",
+      "final_project_tittle": "The Mayne Course Recipe Builder and Events Calendar",
+      "final_project_description": "I built an Events Calendar where users can plan out any kind of event (weddings-birthdays-holidays) and either connect with catering vendors or use and find recipes on their own. The user will be able to search and build full course meals as well as create and share their own recipes.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=y6ARcWU3JoE"
+        },
+        { "icone": "chain", "link": "https://mayne-course.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I choose Boca Code because after my initial research into the school, not only did I find out they were the Platinum Standard in Florida Coding Boot Camps, their success rate is also very high. They have turned many regular people into awesome Engineers."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Diligence - Constant Education - Trail & Error"
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I needed a Industry that would allow me to learn and keep learning without a ceiling. Also a trucking accident has left me not being able to drive trucks anymore. Also the pay compares and exceeds what I was earning in trucking."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/candidates/john-savin.jpg",
+      "title": "John Savin",
+      "content": "Former Financial Advisor",
+      "slug": "john-savin",
+      "description": "I am a servant leader to an amazing wife and 3 young boys who together have pushed me to evolve personally and professionally. Over the past 3 decades, I dedicated my career to working across three industries with play a major role in our lives - health, home and wealth. In 2022, my desire to pivot into tech grew seeing how influential it is in our lives. Being able to positively shape the way people use tech motivated me to take the plunge.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/johnhsavin" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/johnsavin/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FJohn_Savin_Resume_2024.pdf?alt=media"
+        }
+      ],
+      "final_project_image": "/images/candidates/projects/john-savin-pro.png",
+      "final_project_tittle": "The Dino Hunters",
+      "final_project_description": "A fun and interactive adventure as 3 young Dino Hunters learn about dinosaurs of the past and discover new imaginative species of the future.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=WI2pG2Ita3A"
+        },
+        {
+          "icone": "chain",
+          "link": "https://main.d3gakb9wnpb9k0.amplifyapp.com/"
+        }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "After 18 months deciding to pivot my career into tech, I decided to attend Boca Code because it provided a much needed structure and an in-depth, well-rounded curriculum. Being new to software engineering, I became overwhelmed navigating which skills to learn and programs to study. Boca Code focused my efforts with the tools and mentoring needed to break into this industry."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "In wealth management, it is vital to be a highly communicative problem solver and figure of strength with your clients and team. Our solutions must be tailored to client needs and nimble to evolve as personal circumstances or market environments change."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Over my 30 plus year career I have chosen industries that have a direct impact on people - their health, home, and in 2001 personal finance. Upon seeing my parents struggle financially I dedicated the next two decades as a wealth manager so I can assist my family and others sharing similar challenges."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/candidates/alex-artemov.jpg",
+      "title": "Alex Artemov",
+      "content": "Hemp Temps",
+      "slug": "alex-artemov",
+      "description": "Alex, a multilingual software engineer with a journalism and scriptwriting background, holds advanced Advertising and PR degrees. His expertise in media monitoring, content production, and strategic communication, combined with a passion for technology, drives him to constantly explore programming languages and digital tools.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/alexartemov7" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/alexartemovfl/"
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/candidates/projects/alex-artemov-pro.png",
+      "final_project_tittle": "Tale Together",
+      "final_project_description": "Tale Together is a collaborative story-writing platform designed to develop original stories and bring joy to aspiring writers.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=ceE5KNtP7q0"
+        },
+        {
+          "icone": "chain",
+          "link": "http://taletogetherai.com.s3-website-us-east-1.amazonaws.com/"
+        }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "Boca Code's 10-week course offers a fast and practical approach to break into the tech sector and kickstart your career."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Curiosity and perseverance."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Vast opportunities to impact lives and shape a better future."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/candidates/micado-pierre.jpg",
+      "title": "Micado Pierre",
+      "content": "Realtor and Software Engineer",
+      "slug": "micado-pierre",
+      "description": "Born and raised in the vibrant Broward County, Florida, Micado embodies a unique blend of passions and expertise. A seasoned realtor with an eye for detail and a knack for understanding clients' needs, Micado has cultivated a reputation for integrity, dedication, and unparalleled service in the ever-evolving real estate landscape of South Florida. Beyond the world of property and negotiations, Micado leads a parallel life as a software engineer, navigating the intricate realm of coding, innovation, and technological advancements. With a penchant for problem-solving and a creative mind, Micado thrives in crafting elegant solutions to complex digital challenges. Even while excelling in the dynamic realms of real estate and technology, Micado has set their sights on a different horizon medicine. Currently pursuing a pre-medical education, Micado is fueled by a passion for understanding the human body and a desire to contribute to healthcare in meaningful ways. Juggling the worlds of business, technology, and medicine, Micado embraces the challenge with the same enthusiasm that defines their work ethic. In the moments between demanding schedules, you'll often find Micado on the basketball court, where the love for the game is nurtured. A dedicated player and a team enthusiast, basketball serves as a sanctuary, a place to unwind, strategize, and connect with others beyond the professional realms. With a multifaceted background and an unwavering commitment to growth and learning, Micado epitomizes the spirit of versatility and determination, showcasing the endless possibilities that arise from embracing diverse passions and pursuing multiple paths in life.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/Cado001" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/micadopierre/"
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/candidates/projects/CadoP.png",
+      "final_project_tittle": "ZBSPORTS",
+      "final_project_description": "Never Miss A Stat: Introducing the Ultimate NBA Statistics App. Elevate your basketball fandom to a whole new level with the ZBSPORTS app your one-stop shop for all things NBA stats!",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=_VD28qRAYWM"
+        },
+        {
+          "icone": "chain",
+          "link": "https://black-beach-07f6b4f10.4.azurestaticapps.net/"
+        }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I choose Boca Code to become a great Software Engineer."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "The most important skill is to be persistent and always be learning."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "The thing that inspired me to pursue the current career path is because that I have a love of amazing and beautiful homes."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/candidates/michael-fisher.jpg",
+      "title": "Michael Fisher",
+      "content": "Former Hairstylist and Educator",
+      "slug": "michael-fisher",
+      "description": "After 15 years as a hairstylist and platform educator for a world-renowned company, Michael's insatiable curiosity propelled him into the cutting-edge realms of Web3, Blockchain, and Artificial Intelligence. Now, as a full-stack developer, he leverages his meticulous attention to detail, unwavering dedication, and relentless pursuit of knowledge to craft innovative solutions that bridge the gap between art and technology. Infusing his unique blend of artistic sensitivity and passion for innovation, he fuels his vision to shape the future of technology, scale businesses and brands, and empower others through groundbreaking advancements.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/mafish88" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/michaelfishercodes/"
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/candidates/projects/sow-tropical.png",
+      "final_project_tittle": "Sow Tropical",
+      "final_project_description": "Full-stack app for tracking things like watering schedule, fertilization, and adding new tropical plants.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=jXCm-vKxJBM"
+        },
+        { "icone": "chain", "link": "https://sow-tropical.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "Because of its full-time in person course, great reviews, and senior level developers."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Having the ability to build full-stack applications, drive for knowledge, staying ahead of the trends, and understanding of how to scale businesses and brands."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "For my love of blockchain, web3 and the thirst for knowledge."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/candidates/gino-guerra.jpg",
+      "title": "Gino Guerra",
+      "content": "Budding Game Developer",
+      "slug": "gino-guerra",
+      "description": "I'm a very passionate videogame dev that loves creating.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/Gino-Guerra" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/gino-guerra-4153b5294/"
+        }
+      ],
+      "final_project_image": "/images/candidates/projects/whats-hot.png",
+      "final_project_tittle": "What's Hot",
+      "final_project_description": "A web application that describes new games genres and more information",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "https://whats-hot-frontend.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I've looked into a lot of bootcamps and this was the only one that asked me questions and made sure I was determined and that I wanted to do this and that made me feel like they really care about the students and their education."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Knowing Unity, C#, C++, Unreal Engine 5"
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I loved videogames and I've always wanted to be apart of it more than just playing."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/max-espinosa.jpg",
+      "title": "Max Espinosa",
+      "content": "Camlann Games",
+      "slug": "max-espinosa",
+      "description": "Max spent two years studying Culinary Arts. At school, she was in robotics, IT, and STEM classes, fueling her love for technology and problem-solving. She loves CSS, crafting visually appealing web designs. Besides coding, she finds pleasure in helping those around me and animals in need.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/maxespinosa19" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/max-espinosa/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FEspinosa_Max_resume.pdf?alt=media"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-maxespinosa.png",
+      "final_project_tittle": "Whisker Watch",
+      "final_project_description": "Discover and track animals. Share info, and reunite lost pets with their owners while supporting adorable strays.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=3Xqd8xCs7tk&feature=youtu.be"
+        },
+        { "icone": "chain", "link": "https://whisker-watch-web.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code because it was recommended to me by my brother Eddie. He told me about how amazing everyone was and how much he had learned in such a little amount of time."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Patience, problem solving, analytic thinking, creativity, and communication skills."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "The high demand for tech, attractive pay, and comfort with computers."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/john-therlonge.jpg",
+      "title": "John Cadet Therlonge",
+      "content": "Former Retail Supervisor",
+      "slug": "john-cadet-therlonge",
+      "description": "John is a mix of tech and gaming enthusiast, alongside exceptional cooking abilities. His strong desire to help others and passion for learning are striking. With nine years of experience in inventory management, John has a solid track record of improving complex logistical processes. This diverse skill set makes him well-suited for roles that combine his tech know-how, culinary talent, people-friendly nature, and operational expertise.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/john32y" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/john-therlonge/"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-john-cadet.png",
+      "final_project_tittle": "Pocket Binder",
+      "final_project_description": "Pocket Binder is a personal and professional inventory tracker.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=K6e-YfaRHX8&feature=youtu.be"
+        },
+        { "icone": "chain", "link": "" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "The 10 week course that Boca Code provide is a very quick and efficient way to take a step towards the tech world and future career."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "The ability to learn and be coachable, perseverance and hard work."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "The economy is taking a nose dive and acquiring a skill such coding is irreplaceable in the job market."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/samuel-holmes.jpg",
+      "title": "Samuel Holmes",
+      "content": "Recent High School Graduate",
+      "slug": "samuel-holmes",
+      "description": "Samuel is an individual driven by his passions and goals. His journey into the world of coding began during his high school years, where he discovered his love for both playing and creating games. However, he has recently shifted his attention and dedication towards the realm of web development. This transition highlights his adaptability and determination to explore new avenues. With a strong foundation in coding and a newfound focus on web development, Samuel is well-positioned to harness his skills and give life to innovative online experiences.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/Samuel-H-Dev" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/samuel-holmes-dev/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FSamuel-Holmes-resume.pdf?alt=media"
+        }
+      ],
+      "final_project_image": "/images/candidates/projects/p-samuel-holmes.png",
+      "final_project_tittle": "Bountiful Budgeting",
+      "final_project_description": "Bountiful Budgeting is a web application built with Next.js, Tailwind CSS, and Next UI that helps you manage your monthly budget by tracking your estimated income, recurring expenses, and offers user authentication with login and sign-up pages.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=i-IIqdcWaLI&feature=youtu.be"
+        },
+        {
+          "icone": "chain",
+          "link": "https://bountiful-budgeting-sh.web.app/login"
+        }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code because it was a fast-paced in-person course that offered what I needed to push me into not just my career but my future."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "The ability to continuously learn and be able to find different solutions for problems. But the most important skill is being able to work with and learn form other people."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Tech has always been an interest of mine and I started learning programming in short burst in High school which only made me determined to learn how to code. Once I learned about the vast amounts of languages and the endless opportunities with those languages my interest and determination only grew."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/andrew-wilborn.jpg",
+      "title": "Andrew Wilborn",
+      "content": "UCF Computer Science Grad",
+      "slug": "andrew-wilborn",
+      "description": "A recent graduate of UCF with a degree in Computer Science, Andrew is armed with additional training and certification from Boca Code as a full stack software engineer. Andrew is passionate about learning new technologies and expanding his skillset.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/AndrewWilborn" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/andrew-wilborn/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FWilborn-Andrew-Resume.pdf?alt=media"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-andrew-wilborn.png",
+      "final_project_tittle": "EDH Power",
+      "final_project_description": "A platform for Magic The Gathering players to communicate and provide feedback on the power of eachothers decks.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=frn6Ompe3us"
+        },
+        { "icone": "chain", "link": "https://edh-power.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I came to Boca Code to deepen my understanding of software engineering and grow my skillset. It has enabled me to build upon the strong foundation I obtained at UCF and grow from merely a strong coder into a fully fledged software engineer."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Proper planning and communication with your team is the most important skill in software engineering. This will allow teams to be organized and consistent which is key to a successful project."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Ever since I first learned how to code when I was a teenager I've known that I want to be a software engineer. I love what I do and I think I'm pretty darn good at it too."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/daniel-lancheros.jpg",
+      "title": "Daniel Lancheros",
+      "content": "Former Sales and Logistics Analyst",
+      "slug": "daniel-lancheros",
+      "description": "Top-notch software engineer with a mindset geared towards creative solutions. Daniel has transitioned from a successful salesperson and logistics analyst to pursue his passion for technology with a new challenge. He is embarking on a journey into the intricate world of technical coding.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/DanielLancheros" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/daniel-lancheros/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fdaniel-lancheros-software-engineer.pdf?alt=media"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-daniel-lancheros.png",
+      "final_project_tittle": "Game On",
+      "final_project_description": "A web application designed for creating events to share with family and friends.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=MbyF01jcZ_E&feature=youtu.be"
+        },
+        { "icone": "chain", "link": "" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I wanted to challenge myself with a new skill combining with my love for technology."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Passion to learn, being a team player, setting and completing goals, problem solving."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Seeing the rise with technology over the years and wanting to be involved in innovation."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/kevin-fernandez.jpg",
+      "title": "Kevin Fernandez",
+      "content": "Camlann Games",
+      "slug": "kevin-fernandez",
+      "description": "Kevin is a driven problem solver with a passion for cars. He loves learning new things and thrives on challenges. With his adaptability and dedication, he excels in dynamic environments, constantly seeking opportunities to grow and find innovative solutions.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/superxp360" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/kevin-fernandez-/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FKevin_Fernandez_Resume%20.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://kf-porfolio.vercel.app/"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-kevin-fernandez.png",
+      "final_project_tittle": "Pool Party",
+      "final_project_description": "A carpooling app that connects drivers and passengers, enabling them to share rides to a common destination.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=_ScZGFAcqcw&feature=youtu.be"
+        },
+        { "icone": "chain", "link": "https://carpool-project-kf-web.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code because it offered a practical, hands-on learning experience for my career transition into the tech industry. The bootcamp's shorter duration, supportive environment, and job placement assistance were essential factors in my decision."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Problem-solving, continuous learning, and collaboration are crucial components needed to succeed in this field."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I was inspired to pursue my current career due to my passion for technology, problem-solving, the opportunity to make an impact, and the flexibility and collaboration in the field."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/lorenzo-mokwa.jpg",
+      "title": "Lorenzo Mokwa",
+      "content": "Camlann Games",
+      "slug": "lorenzo-mokwa",
+      "description": "Lorenzo was born and raised in Brazil and developed a passion for computers from a very young age. He finds enjoyment in overcoming challenges and loves to discover the intricacies and nuances of computer hardware and software. Lorenzo was a former computer science student who decided test and develop his skills by joining Boca Code.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/lomokwa" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/lomokwa/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FMokwa-Lorenzo-Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://lomokwa.com/"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-lorenzo-mokwa.png",
+      "final_project_tittle": "Collector's Car Hub",
+      "final_project_description": "Collector's Car Hub is a user-curated marketplace built for enthusiasts, by enthusiasts. The platform allows users to share and rate car listings from different platforms across the web.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=cFEC0rvCW6s"
+        },
+        { "icone": "chain", "link": "https://collectorscarhub.com/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "The variety of the coursework provided was a deciding factor for me. Being exposed to multiple technologies and practices seen in the workplace was extremely valuable and helped me develop a strong foundation as a software engineer. The curriculum made it very easy to break the 'entry barrier' into coding, making the experience smooth but challenging."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Being flexible and open-minded, in addition to having problem solving and critical thinking skills, are some of the most important skills for a successful software engineer."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Because I grew up around computers, a computer-related career always seemed the obvious choice for a career path. From a young age, I've always loved building and taking computers apart. After recently finding the same passion for computer software, and seeing the continuously growing field of software engineering, I decided to pursue it as a career."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/yaslin-carmona.jpg",
+      "title": "Yaslin Carmona",
+      "content": "Software Engineer",
+      "slug": "yaslin-carmona",
+      "description": "With a decade in financial sales, including two years in sales training, Yaslin transitioned to freelance front-end development. Driven by a thirst for knowledge and technology passion, she shifted towards full-stack engineering, enrolling in Boca Code. This shift blends her customer-centric background with technical expertise for impactful contributions to software engineering.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/Yaslin1" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/yaslincarmona/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FYaslin_Carmona_SWE_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://yaslin-portfolio.web.app/"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-yaslin-carmona.png",
+      "final_project_tittle": "LearnX",
+      "final_project_description": "My project involves developing a comprehensive file manager and agenda organizer. This application aims to provide efficient file management capabilities along with an intuitive agenda system to help users stay organized and productive.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=5g5naRcAn0U&feature=youtu.be"
+        },
+        { "icone": "chain", "link": "https://lms-web-yc.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code because of my initial positive experience with frontend development. I was drawn to the field and wanted to expand my knowledge to become a proficient full-stack engineer. Additionally, I saw it as a valuable opportunity to learn the latest technologies in the industry."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "In my field, a combination of technical proficiency, effective communication, adaptability, and problem-solving skills are crucial for achieving success."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "The inspiration behind my current career path stems from the quest for job security, a factor I found lacking in my previous profession. Additionally, witnessing the enduring passion that individuals have for their work, even after two decades, played a pivotal role in motivating me. The desire to create something impactful and meaningful further ignited my journey."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/jeniffer-giraldo.jpg",
+      "title": "Jeniffer Giraldo",
+      "content": "Educator and Software Engineer",
+      "slug": "jeniffer-giraldo",
+      "description": "I am software engineer with a diverse background in teaching and education, skilled in critical thinking and problem-solving. Passionate about leveraging technology to enhance lives and make a positive impact. Lifelong learner eager to contribute to meaningful projects.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/jgiraldo11" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/jeniffer-giraldo/"
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-jeniffer-giraldo.png",
+      "final_project_tittle": "Sip Savvy Mocktails",
+      "final_project_description": "My project is dedicated to exploring the growing popularity of mocktails, the non-alcoholic alternatives to traditional cocktails. It delves into the reasons behind their rise, particularly focusing on health consciousness, the significance of designated drivers, inclusivity, and the creative potential they offer. By featuring a wide array of mocktail recipes and informative content, Sip Savvy Mocktails aims to encourage healthier lifestyle choices, promote overall public safety, and foster an inclusive environment for those opting to abstain from alcohol. The website celebrates the delightful and satisfying nature of mocktails, highlighting their complexity and visual appeal. Through this project, I aim to contribute to a responsible and enjoyable social drinking culture, where mocktails play a positive and exciting role.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=sDr-MsvOl1w"
+        },
+        {
+          "icone": "chain",
+          "link": "https://final-project-react-jg11.web.app/"
+        }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "The small class sizes and project-based learning approach appealed to me, as it allows for personalized attention and practical skills development. Additionally, the positive reviews and success stories from alumni motivated me to overcome my initial intimidation and pursue my interest in coding."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "The most important skill for success in the tech industry as a software engineer is adaptability. It will allow me to connect my teaching expertise with the technical skills required in software engineering. Embracing adaptability will help me thrive in this field and making a successful transition into the tech industry."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "The pursuit of a career in the tech field is driven by the need for financial stability and a passion for utilizing technology to benefit teachers, students, and parents. As an educator, I am constantly formulating creative ideas, but unfortunately, my current profession lacks the support to bring them to fruition. Transitioning into the tech industry presents an exciting opportunity to explore and implement my ideas freely, fostering ingenuity and empowering creativity. I am eager to blend my existing skills with technology, making a significant impact on education while also enjoying improved financial prospects and personal growth in this ever-changing field."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/kevin-dietmeyer.jpg",
+      "title": "Kevin Dietmeyer",
+      "content": "Former Software Account Manager",
+      "slug": "kevin-dietmeyer",
+      "description": "Prior to becoming a software engineer, Kevin was a software account manager with a leading technology company, where he excelled in business development, customer relationship management, and sales. In the finance space, he coached and mentored top-performing sales representatives and teams, achieving record-breaking results. He has a deep understanding of the health and fitness industry, having worked as a personal trainer and nutrition professional for more than a decade.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/Kevindietme" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/kevindietmeyer/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FDietmeyer_Kevin_Resume.pdf?alt=media"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-kevin-dietmeyer.png",
+      "final_project_tittle": "Hang From the Bar",
+      "final_project_description": "Hang From the Bar generates a unique workout for the user with the push of a button. A built in timer keeps track of the total workout time and upon submit the users workout and final time are logged for future reference so they can view their hard work and progress.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=77OkUyi4Xkc&feature=youtu.be"
+        },
+        { "icone": "chain", "link": "" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code because I wanted to learn the latest technologies and best practices from leading experts in the field."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "The most important skill for success is finding opportunity in every obstacle."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I was inspired to pursue a career in technology after being exposed to the field while working in enterprise software sales. I had the opportunity to work with a lot of engineers and I decided to pursue a career path in software."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/ariana-diaz.jpg",
+      "title": "Ariana Diaz",
+      "content": "Current Highschool Student",
+      "slug": "ariana-diaz",
+      "description": "Ariana is an enthusiastic individual who originally migrated from Colombia at a young age. Developing a passion for technology and video games early on, she is now on the verge of graduating from high school this year. Committed to entering the tech world, she aims to further explore her interests, expand her knowledge, and follow her true passion. Her goal is to make meaningful contributions that will shape the future in the best possible way.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/arianadiazmun" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/arianadiazmun/"
+        },
+        {
+          "icone": "pdf",
+          "link": ""
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-ariana-diaz.png",
+      "final_project_tittle": "Attendo",
+      "final_project_description": "Attendo its a website intended for students to be motivated to attend school events, every time each student attends an event, they receive a point which will be registered by the administrator of the event. The points will be added up at the end of every quarter and will show up in the leaderboard that all students have access to, where the upcoming events are also posted in order to be promoted targeting students attending.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=krUW2zZjgeY&feature=youtu.be"
+        },
+        { "icone": "chain", "link": "https://ariana-final-project.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "Boca Code was my choice because of their amazing spiral learning method, being able to get hands on different technologies was the best. Definitely the top coding school in South Florida to find proper guidance in the software engineering career and tech world."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "The most important skills for success in the career development as a software engineer are definitely dedication, effort and commitment towards utilizing and learning the latest technologies."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "While working part time jobs in the customer service industry as a high school student, I realized that after graduating I want to go ahead and pursue my dreams in a better career that could give me the flexibility and opportunity to work from anywhere, where it’s also possible to stay on top of the latest technologies in the tech world."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/veronica-de-felice.jpg",
+      "title": "Veronica de Felice",
+      "content": "Manit",
+      "slug": "veronica-de-felice",
+      "description": "I am a dynamic and versatile individual who effortlessly transitions from the fashion industry to yacht industry design. I have gone from working in big corporations to successfully establishing my own small business. With a knack for wearing multiple hats and a constant desire to challenge myself, I thrive on embracing new opportunities. Outside of work, I enjoy engaging in outdoor activities and pursuing side projects. My unique journey, entrepreneurial spirit, and passion for personal growth make me a resilient and successful individual. Formerly a Marine Canvas Designer.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/VeronicaDFL" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/veronicadefelice/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FVeronica_DeFelice_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-veronica-de-felice.png",
+      "final_project_tittle": "BITE-BUSTER",
+      "final_project_description": "Introducing Bite-Buster, the ultimate app revolutionizing weekday dinners for busy individuals. Discover a wide range of dining options conveniently brought together in one place. Indulge in delicious meals while saving money.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://main.d3qkj62q5kdmfa.amplifyapp.com/"
+        },
+        { "icone": "chain", "link": "" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code due to their in-class lessons, strong presence in the tech community, and the positive team culture that impressed me from the moment I first encountered them."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "I believe that my success as an individual stems from two key qualities: resilience and an unwavering commitment to personal growth.In addition my success is further attributed to my meticulous attention to detail. I have developed an habit of approaching tasks with a holistic perspective, consistently considering the bigger picture. Moreover, I frequently challenge myself by adopting various viewpoints, attempting to see things from different perspectives."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Upon completing school, I started working on apparel blueprints using Computer-aided design (CAD) and Computer-aided manufacturing (CAM). It was during this time that I gained a firsthand experience of how technology can enhance our lives, which opened my eyes to its immense potential. As I advanced in my career, I consistently contemplated how everyday tasks could be improved through technological advancements. This thought process ignited a deep passion within me, ultimately driving me to pursue a career centered around technology wholeheartedly."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/brian-pinney.jpg",
+      "title": "Brian Pinney",
+      "content": "Former Truck Driver",
+      "slug": "brian-pinney",
+      "description": "Brian has worn many hats in his career journey, exploring various paths that range from hospitality and network infrastructure to security systems, sales, food service, and photography (just to name a few!). He thrives on adaptability and has a knack for embracing change, effortlessly navigating the twists and turns that life throws his way. In his spare time, Brian indulges in a range of hobbies that fuel his creativity and inspire him to bridge the gap between his passions and his professional pursuits.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/BrianPinney" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/brianjpinney/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FBrian_Pinney_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-brian-pinney.png",
+      "final_project_tittle": "BÜNDO",
+      "final_project_description": "BÜNDO is a crowd sourcing app that allows nomadic dwellers to submit a safe legal and exciting boondocking(parking) locations so that others may be able to find and rate them for the rest to discover and do the same.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=5ylsF2oKd5I&feature=youtu.be"
+        },
+        {
+          "icone": "chain",
+          "link": "https://main.d28hsmk7ahtlxo.amplifyapp.com/"
+        }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "Most other options were virtual, and the few in-person options had limited curriculum or unrealistic timeframes. Boca Code seemed to check all the right boxes. They offer in-person learning, a full stack software engineering course, and a suitable timeframe for effective learning."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Continuous learning and adaptability are vital. This industry is constantly changing. Critical problem-solving skills are a must. Seeking growth opportunities and connecting with others in the industry are essential for success."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I wanted to be able to utilize a skill that would allow for freedom to work anywhere. I was looking for something that would always hold my attention and that could offer reasonable challenges. Tech has always held my attention and this seemed to be the right fit in the tech field."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/veronie-cazeau.jpg",
+      "title": "Véronie Cazeau",
+      "content": "Former Massage Therapist",
+      "slug": "veronie-cazeau",
+      "description": "Veronie's passion for technology, her profound love for the outdoors, her unwavering dedication to her family, and her adventurous spirit for traveling fuel her drive to create groundbreaking solutions that positively impact lives, merging her diverse interests and values to make a lasting difference in the world.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/v-cazeau" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/veronie-cazeau-/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FVeronie_Cazeau_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-veronie-cazeau.png",
+      "final_project_tittle": "Wonderlust",
+      "final_project_description": "Transforming stress into tranquility by nature gazing as Wonderlust captures the world's wonders, one frame at a time.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=cJk3foq0U7s"
+        },
+        { "icone": "chain", "link": "https://final-project-bc.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code because I was looking for an in-person learning experience and determined to become a software engineer. In addition, I was drawn to the school's community values and support, which spoke to me on a deeper level. The team at Boca Code feels like a family, and this sense of belonging and support was an important factor in my decision to attend the school."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Continuous learning, programming languages, problem-solving, flexibility and adaptability, debugging and troubleshooting, communication and collaboration."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "A love for tech and healthcare"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/nick-morgan.jpg",
+      "title": "Nicholas Morgan",
+      "content": "Former Student Athlete",
+      "slug": "nick-morgan",
+      "description": "I am someone who loves coding, animals and engaging in intellectual conversations. I am also a curious and compassionate individual who enjoys exploring new ideas and learning from others. My interest in coding reflects my love for problem-solving and creative thinking. I am fascinated by the endless possibilities that coding provides and am constantly seeking new challenges to improve my skills. Whether I'm building a website, creating an app, or working on a programming project, I find satisfaction in the process of creating something from scratch. My interest in intellectual conversation stems from my eagerness to learn from others' perspectives.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/NicholasMorganDev" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/nicholas-morgan-dev/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FNicholas_Morgan_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-nick-morgan.png",
+      "final_project_tittle": "Bucket List 101",
+      "final_project_description": "A place where you can compile a list of things you want to do or places you want to visit. It can be anything you want it to be, all while being completely secure via jwt web-tokens, SSL, authentication and authorization.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=DrrK2Qv_lWM"
+        },
+        { "icone": "chain", "link": "https://bucket-list-nm.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose boca code so that I could have a place where I can learn a new valuable skill at a faster pace. After doing some research, I realized I had an interest in coding. After spending time with the instructors and alumni, I found a new sense of appreciation for the boot camp. The instructors really take the time to make sure that you progress by having a great curriculum and bringing their mazing personalities to each lesson."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "The ability to communicate and be flexible in a career that is ever changing. You need to have an open mind, and the readiness to learn, to keep up to date with the latest technologies and be able to constantly improve your code."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Anyone can tell you that the future is in technology. I am not only chasing a newfound passion, but a career where I can make a real difference in the lives of others. I am quite interested in the security aspect of engineering, but also looking to dabble in IoT."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/sarah-kuss.jpg",
+      "title": "Sarah Kuss",
+      "content": "Giraffe Media",
+      "slug": "sarah-kuss",
+      "description": "After completing my bachelor's degree, I chose to pursue my passion and embarked on a rewarding journey as a zookeeper, caring for remarkable animals such as big cats and chimpanzees. This unique experience has instilled in me valuable skills, enabling me to effectively handle diverse situations and flourish within a team dynamic. Outside of work, I enjoy spending time in nature; you can often find me surfing, hiking, or playing soccer. The thrill of acquiring knowledge and personal growth serves as a constant motivation, driving me to continually strive for self-improvement. I have developed a particular interest in pursuing a career that combines my passions for cybersecurity, Web3, and AI.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/sarahkuss" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/sarah-kuss/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FSarah_Kuss_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-sarah-kuss.png",
+      "final_project_tittle": "Conservation Connect",
+      "final_project_description": "Conservation Connect serves as a platform that showcases lesser-known conservation organizations, revealing the remarkable work they do and providing opportunities for people to actively engage in these efforts. By shedding light on their initiatives, the platform hopes to foster awareness regarding the crucial importance of conservation, and cultivate a collective sense of responsibility towards preserving our natural world. Conservation Connect also aims to demonstrate how conservation can seamlessly be integrated into our daily lives, empowering individuals to make meaningful contributions to the cause from the comfort of their homes.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=t-dxeu8hZQA"
+        },
+        {
+          "icone": "chain",
+          "link": "https://main.d1qwredo8vmne9.amplifyapp.com/"
+        }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "Boca Code offers a rare opportunity to not only learn in-person, but to stay up-to-date on the most sought after technologies and job skills in the market. They've fostered a close-knit community that is constantly uplifting and supporting each other, and welcoming of diversity and inclusion."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "A passion for learning and teachability. Software engineering is a team sport, so being able to work with other people and learn from each other is invaluable."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "After dedicating many years to the animal care field, I reached a point where I realized my professional growth had plateaued. My desire for learning led me to discover software engineering. I realized that I could combine my deep-rooted passion for conservation with the power of technology, forging connections between people and conservation. I am looking forward to pursuing a fulfilling career, where I am able to make a difference in the lives of both animals and people alike."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/jonathan-sabunco.jpg",
+      "title": "Jonathan Sabunco",
+      "content": "Former Computer Science Major",
+      "slug": "jonathan-sabunco",
+      "description": "Jonathan is someone who genuinely enjoys coding, solving problems, and learning new things. With years of experience in coding, they made the decision to pursue a career as a software engineer. They find satisfaction in exploring the ins and outs of programming and take pleasure in overcoming challenges. Committed to personal growth, they continuously expand their knowledge and improve their skills.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/jbsabu" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/jsabuncu/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FJonathan_Sabuncu_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-jonathan-sabunco.png",
+      "final_project_tittle": "Psychopharmacology Index",
+      "final_project_description": "My project aims to be an informational tool that can detect and inform about drug-drug interactions, and to provide accurate and relevant data on the surface level pharmacology of drug-receptor interactions.",
+      "links_in_final_project": [
+        { "icone": "youtube", "link": "" },
+        { "icone": "chain", "link": "https://psypharmadex.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code was drawn to the rigorous and comprehensive curriculum they offer. I wanted a program that would provide me with a solid foundation in software engineering and cover the essential skills and technologies needed in the industry. Boca Code's curriculum seemed well-designed and up-to-date, which was crucial for me."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Problem-solving abilities, critical & analytical thinking skills, good software development practices and communication skills are some of the most important skills you can have in this field."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "The growing significance of software engineering in our culture and society has deeply inspired me to pursue this field. I am genuinely fascinated by the impact that software applications and systems have on various aspects of our lives, from transforming industries such as healthcare, finance, and transportation, to enabling effective communication, enhancing entertainment experiences, and shaping the way we interact with technology."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/barbara-laurince.jpg",
+      "title": "Barbara Laurince",
+      "content": "Former Mortgage Broker",
+      "slug": "barbara-laurince",
+      "description": "Barbara has a diverse professional background. She worked as a mortgage broker, pursued an education in nursing, and now is focusing on her career in the tech industry. She is the founder and director of Working Hands Mission, a non-profit organization focused on vocational training and job placement in Haiti, demonstrating her dedication to making a positive impact in her community. In her spare time she enjoys singing, shopping and baking.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/Blaurince" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/barbara-laurince/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FBarbara_Laurince_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-barbara-laurince.png",
+      "final_project_tittle": "ChurchedI",
+      "final_project_description": "This website is build for my church. I created an event section where I keep everybody up-to-date about all the happenings of the church.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=3ZPoo-2PtDc&feature=youtu.be"
+        },
+        { "icone": "chain", "link": "https://church-project-bl.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "During my search for software programming classes, I had specific criteria in mind. I was looking for a local option that offered a comprehensive curriculum and instruction by qualified teachers. I was thrilled to discover a school located in Boca that not only met these requirements but also exceeded my expectations by providing additional benefits. The best school by far in my book."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Having a passion for learning and staying updated with the latest technologies and trends is essential. Problem-solving skills, team work, time management, organization, and most importantly, a strong foundation in at least one language, along with the ability to quickly learn new ones."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Technology is constantly evolving, and software engineers have the opportunity to continuously learn and stay at the forefront of innovation. This field offers ongoing challenges, new tools, frameworks, and programming languages to explore, which appeals to individuals who enjoy learning and intellectual growth."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/jose-torres.jpg",
+      "title": "Jose Torres",
+      "content": "Software Engineer",
+      "slug": "jose-torres",
+      "description": "With 5 years of previous IT experience and a strong passion for programming, Jose is excited to return to the field as a software engineer. He has updated his knowledge and skills to align with current languages and technologies. In his previous roles in retail management, he had the opportunity to lead teams and manage operations, as well as develop valuable skills in strategic planning, marketing, and customer relationship management. These experiences have equipped Jose with a deep understanding of business needs and the ability to drive results by leveraging technology.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/vidojam" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/jose-torres-4a706545/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FJose_Torres_Resume_2023.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-jose-torres.png",
+      "final_project_tittle": "Toastmaster",
+      "final_project_description": "A program to assist the evaluation portion of a Toastmaster Evaluation.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=a1aev5_UOEM"
+        },
+        {
+          "icone": "chain",
+          "link": "https://main.d37yfbql1dsoi8.amplifyapp.com/"
+        }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "Boca Code's immersive 10-week program encompasses a comprehensive selection of the most sought-after frameworks, libraries, and programming languages in the industry."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Proficiency in public speaking, leadership, and computer programming using popular languages are crucial skills for achieving success."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "In 1980, driven by necessity, I embarked on coding my first two programs: a newsletter for my sales team and presentation software for major accounts. Since then, my journey as a coder has been intertwined with life's various ups and downs, continuously honing my skills in between."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/lizanne-cerami.jpg",
+      "title": "Lizanne Cerami",
+      "content": "Former Billing Specialist",
+      "slug": "lizanne-cerami",
+      "description": "Liz is highly motivated and excited to begin a career in the Tech World, driven by her desire to make a positive difference. Her curiosity for Software Engineering and the world around her fuels her eagerness to continuously learn and grow. Liz's unwavering dedication and ability to persevere are testaments to her commitment to progress and personal development.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/LizanneCerami" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/lizanne-cerami-533942199/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FLizanne_Cerami_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-lizanne-cerami.png",
+      "final_project_tittle": "Fur-Ever Friend",
+      "final_project_description": "An interactive mobile app that will allow users to match to a dog who suits their lifestyle.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=ex7klVRN-SA"
+        },
+        { "icone": "chain", "link": "" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "When I set out on my journey to become a Software Engineer, I had a specific online school in mind; however, everything changed when I stumbled upon Boca Code through social media. Attending the immersive FullStack course became an easy decision once I saw that I'd benefit from in-person learning. The allure of small class sizes and face-to-face interactions with instructors was incredibly appealing. The sense of community and invaluable support that Boca Code provides is simply priceless. I'm truly grateful for the incredible opportunity they have given me."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Being a Software Engineer requires a mix of technical and non-technical skills. While it's essential to learn programming languages, problem-solving, and debugging, there's more to it. The ability to work well in teams, communicate effectively, manage time efficiently, and have a perpetual hunger for learning are all crucial. In the rapidly evolving tech world, continuous self-education is a must for career growth."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Software Engineering called to me because it offers a platform to harness my creativity and curiosity within a professional career. Furthermore, software engineers consistently contribute to the improvement of individuals' lives, often without widespread acknowledgment. I find the notion of having a career that has the potential to assist numerous individuals, whether by streamlining daily tasks or innovating healthcare technology to facilitate access to vital care to be exciting and full of possibility."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/ilan-vaks.jpg",
+      "title": "Ilan Vaks",
+      "content": "GA Telesis",
+      "slug": "ilan-vaks",
+      "description": "I discovered my love for technology while growing up in Brooklyn, New York. At the age of 15, I took on the exciting challenge of building my own PC, which sparked a deep passion within me. From that point forward, I've made it a point to incorporate technology into my everyday life. Keeping up with the ever-evolving trends in the tech world has become a personal curiosity of mine.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/ilanvaks" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/ilanvaks/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FIlan_Vaks_Resume%20(1).pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-ilan-vaks.png",
+      "final_project_tittle": "LaceTalk",
+      "final_project_description": "My vision was to establish a platform that would promote an open-source and inclusive environment within the sneaker community, welcoming individuals who were interested by the market and make information public.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=AcY67r9jwTM"
+        },
+        { "icone": "chain", "link": "https://www.lacetalk.net/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "Boca Code impressed me with its hands-on curriculum and seeing how passionate the staff was when i first arrived inspired me. Additionally, I highly valued the opportunity to network and build meaningful connections within the community."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Important skills include managing time effectively, solving problems proficiently, collaborating with excellent communication in a team setting, utilizing appropriate tools for given tasks, and adapting to new technology."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "While managing an E-commerce shop, I implemented automated product purchasing, resulting in the growth of the business. This experience inspired my passion for software engineering and motivated me to pursue additional knowledge in the field."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/jasmine-henry.jpg",
+      "title": "Jasmine Henry",
+      "content": "Former Nuclear Engineer",
+      "slug": "jasmine-henry",
+      "description": "Jasmine is a Naval veteran specializing in nuclear engineering as well as an artist in the makeup industry. Jasmine is looking for new ways to express her creativity as a software engineer.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/jas356" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/jasmine-henry2/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FJasmine_Henry_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-jasmine-henry.png",
+      "final_project_tittle": "Understanding Undertones",
+      "final_project_description": "Brief description of your project: The project I created is titled 'Understanding the Importance of Undertones', which is to help beginner makeup artists and women as a whole with A better understand the importance of knowing how undertones, hues, color in jewelry (silver or gold), and even eye color can affect what shade of foundation/concealer should be worn to achieve an eye-catching result. Starting in the makeup industry, missing this little piece of knowledge definitely made it difficult to achieve a certain look. Also, it helps the makeup blend with your skin properly by using little to no product for everyday makeup wear.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=78oAVS9NMqU"
+        },
+        { "icone": "chain", "link": "https://project-makeup-web.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "Boca Code was referred to me by an alumni, A mentor close to me entering the IT field as well and the world is transitioning into Tech Environment before our eyes. Coding is A skill I wanted to acquire but not knowing where to was scary for me. After doing my thorough research about Boca Code I realized it is a great place to learn something new, has great reviews, and is mainly due to the fact that the school is offering that intimate setting of learning in a classroom with support from alumni, one-on-ones with the teachers of the school. Which surely increased my interest and chances of truly understanding the material, and getting hands on experience."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Versatility, willing to learn new languages, and adapting to new changes in the Tech Industry. Leaning into the uncomfortable parts of learning to enhance one's success are important skills to acquire and demonstrate. As well as having soft skills, humility, and understanding the importance of teamwork."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Transitioning from an artistic, creative, and versatile background is what pushed me to learn new ways to CREATE and BUILD. Exercising my creative talent and showcasing my skills acquired at Boca Code into code gave me a better understanding of what can be achieved with writing code and the basics that give you the needed tools to create and build any thought and turn it into code. Creating a picture of a story using code is what amazes me every time. Always up for a challenge and learning new things."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/david-radjai.jpg",
+      "title": "David Radjai",
+      "content": "Former Mortgage Broker",
+      "slug": "david-radjai",
+      "description": "I am a former mortgage professional with over 15 years of experience. I have a masters degree in IT. I have gained a strong passion and appreciation for software engineering. I have transitioned my career to software engineering and aimed my goals towards solving problems.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/dradjai" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/davidradjai/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FDavidRadjai_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-david-radjai.png",
+      "final_project_tittle": "The Mortgage Zone",
+      "final_project_description": "A centralized mortgage resource center where users can submit, edit or delete requests, search through a list of brokers and calculate mortgage payments",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=Sp8J_8N3ktI"
+        },
+        { "icone": "chain", "link": "https://mortgage-zone-web.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "Boca Code initially stood out to me because it was in person. Once I researched more and saw the curriculum I made my decision. I loved how the curriculum is relevant to the market and how they are very involved and well connected in the tech community."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Important skills are programming, understanding of frameworks and libraries for building full-stack applications, knowledge of which tools to use to solve problems. Also, very important skills in addition to technical skills are soft skills. It is very important to have the ability to communicate and work well in teams towards objectives."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "During my career in the mortgage field I was intrigued and developed a strong interest for software engineering. I was always curious about how all the software that the entire company used was built on. I started teaching myself coding and immediately loved it. The ability to help solve problems and build something or contribute to something being built is satisfying and really drives me."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/maria-camila-sandoval.jpg",
+      "title": "Maria Camila Sandoval",
+      "content": "Former Biomedical Engineer",
+      "slug": "maria-camila-sandoval",
+      "description": "I am Camila, a coding enthusiast with a Bachelor's degree in Engineering and a strong passion for software development. Having worked in various positions within the medical industry, such as Medical Sales Manager and Biomedical Engineer Intern, I've gained valuable insights into the intersection of technology and healthcare. Besides my professional experience, I've undertaken multiple projects in web development and machine learning. My passion is to solve complex problems in an efficient manner while creating modern and meaningful interfaces for digital user experiences.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/camilasandovals/" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/camilasandovals/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fcamila_sandoval_resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-maria-camila-sandoval.png",
+      "final_project_tittle": "ZerinLabs",
+      "final_project_description": "A modern medication tracking app that not only enables users to save their comprehensive medication history but also allows them to include vital information such as reactions, refill dates, notes, prescribing doctors, and more.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=KX8_S2l27fg"
+        },
+        { "icone": "chain", "link": "https://zerinlabs.com/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I was drawn to BocaCode due to its remarkable track record of success stories. Upon attending the open house and engaging in conversations with the professors, I immediately realized that this institution was the ideal environment to enhance my skills."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Perseverance, discipline, and meticulous attention to detail."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "My insatiable thirst for knowledge mixed with my passion for technology, coupled with a curiosity about the future."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/bryan-vargas.jpg",
+      "title": "Bryan Vargas",
+      "content": "Former Computer Science Major",
+      "slug": "bryan-vargas",
+      "description": "As a former computer science major, I'm excited to deepen my programming skills. I'm committed to advancing my education to excel in the rapidly evolving field of programming.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/BryanVargas90" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/bryandvargas/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FBryan_Vargas_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-bryan-vargas.png",
+      "final_project_tittle": "GameSync",
+      "final_project_description": "With my app, you can easily create gaming appointments with your friends and schedule specific days of the week for gaming sessions. It simplifies coordination, keeps everyone informed, and enhances the overall gaming experience.",
+      "links_in_final_project": [
+        { "icone": "chain", "link": "https://final-front-end-one.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca code because it is a highly reputable and well-respected program that offers comprehensive training in Software Development. Boca code has a proven track record of helping students achieve their career goals, with many graduates going on to secure positions at top companies in the industry. The instructors and staff are knowledgeable and experienced professionals who are dedicated to providing personalized support and guidance to each student. Overall, I am confident that Boca Code will provide me with the skills, knowledge, and connections necessary to achieve my career aspirations."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Solving skills are essential for success in the field of computer science. These skills involve the ability to analyze complex problems, break them down into smaller components, and devise effective solutions. Additionally, skills in programming languages, algorithm design, critical thinking, and adaptability are valuable for tackling challenges and driving innovation in the ever-evolving world of computer science."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I have always been drawn to the opportunities presented by the world of technology. The potential for problem-solving and improving lives through technological advancements has fueled my passion for this career path. The constant learning and evolution within the field of computer science have provided me with exciting challenges and the chance to make a meaningful impact in society. These factors, combined with my innate curiosity and desire to innovate, have guided me towards my current career pursuit."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/brianna-escobar.jpg",
+      "title": "Brianna Escobar",
+      "content": "Previously in Food Service",
+      "slug": "brianna-escobar",
+      "description": "Brianna absolutely loves astrology and enjoys taking on exciting challenges. Alongside this passion, she has a strong foundation in computer science. Through her recent education and work experiences, Brianna has developed skills like problem-solving, analytical thinking, and critical reasoning, which have proven valuable in various situations within the field. She finds great satisfaction in overcoming obstacles and pushing herself to new limits. Brianna is always eager to learn and grow, which helps her think creatively and adapt quickly to different circumstances.",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/briannaescobar6/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FBrianna_Escobar_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-brianna-escobar.png",
+      "final_project_tittle": "Zodiacwebbe",
+      "final_project_description": "I have developed a generative website that creates personalized mood boards based on your individual zodiac sign. The purpose of this website is to connect and inspire individuals through astrology. It serves as a platform to explore and delve into the world of astrology, providing users with a unique and personalized experience.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=s7JFFg27fX8"
+        },
+        { "icone": "chain", "link": "https://zodiacwebbe.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I had a strong interest in computer science even before discovering Boca Code. So, when a mentor of mine recommended the school, I immediately seized the opportunity. Boca Code impressed me with its abundant resources, in-person teaching approach, and welcoming atmosphere. Completing this course has turned out to be one of the most rewarding investments I've made in myself."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "To succeed in computer science and software engineering, it is important to possess strong problem-solving abilities and logical reasoning, a willingness to continuously learn and adapt to new technologies, strong communication and teamwork skills, and the ability to be adaptable and effectively tackle challenges."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I am inspired by the transformative power of technology and its ability to solve complex problems. My passion for problem-solving and curiosity about how things work led me to pursue a career in computer science and software engineering. The dynamic nature of the industry and the opportunity to work alongside brilliant minds motivate me to stay at the forefront of innovation. I am eager to contribute to impactful projects, continuously learn, and shape the future through technology."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/kaniel-tapper.jpg",
+      "title": "Kaniel Tapper",
+      "content": "Former Retail Manager",
+      "slug": "kaniel-tapper",
+      "description": "Kaniel is former retail employee with 5 years of experience in that field. He loves computers, cars and video games. Currently, he is software engineer looking for opportunity to expand his knowledge and expertise and he enjoys learning new ways to solve problems. His passion for engineering comes from AI and robotics, and will be engaging in IOT and robotics engineering in the future.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/kanielDT" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/kaniel-tapper/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FKaniel_Tapper_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-kaniel-tapper.png",
+      "final_project_tittle": "Creek Car Meets",
+      "final_project_description": "My project is about planning car events and listing them on the site with information on the event, what type of event, the date, time, who is hosting, and where are they hosting at.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=KMHxnJUZohs&feature=youtu.be"
+        },
+        { "icone": "chain", "link": "https://finalproject-web-kdt.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose boca Code because it was local, as well it has on-site learning, the short amount of time the course is, as well as the variety of things that we learn. Staff is amazing, you feel like you're apart of a family and that is something I don't seem to be able to relate with anywhere else."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Commitment, desire to learn, and not being scared to ask for help is the most important skill to me to be able to achieve anything and everything. Engineering is problem solving and you have to be dedicated to learning and growing."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I have always been fascinated by computers, since middle school but I never really chased after that passion. As I got older I knew I wanted to do something in computers, but I didn't know what exactly. While researching, I found out about bootcamps and how it condenses what a degree is into weeks, which was awesome, so i wanted to try that out and that's what lead me into pursuing software engineering."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/aaron-agosto.jpg",
+      "title": "Aaron Agosto",
+      "content": "GA Telesis",
+      "slug": "aaron-agosto",
+      "description": "Born and raised in South Florida, Aaron developed a deep connection to the outdoors and a love for fishing. While attending Broward College, he felt the need for a different direction. It was during his time as an electrician that he fell down the rabbit hole of software engineering, having way more questions than answers really sparked his curiosity and pushed him to pursue this career.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/AaronMAgosto" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/aaronagosto/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FAgosto_Aaron_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-aaron-agosto.png",
+      "final_project_tittle": "Honey Hole",
+      "final_project_description": "Honey Hole allows users to mark down and find the best fishing spots. Saving the user a lot of time.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=avlDLtSy_N4"
+        },
+        { "icone": "chain", "link": "https://honey-hole-web-aa.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I was considering a career move to the tech industry but had concerns about online bootcamps. However, when I found out about Boca Code's program, I was immediately convinced and enrolled the very next day. The opportunities they offer got me excited about starting my tech journey."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Having the ability to adapt and find solutions is paramount, just as important as breaking down complex ideas into manageable pieces while staying focused on the ultimate goal. However most importantly, is to have a collaborative mindset is These skills are essential for achieving success in any industry, especially in tech."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I chose my current career path in tech because I wanted to understand how the world of tech works and stay relevant in our ever-evolving society. What inspired me the most was the endless learning opportunities it offers. With numerous paths to explore, a tech career allows me to continuously grow and learn."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/miguel-camilo.jpg",
+      "title": "Miguel Camilo",
+      "content": "Manit",
+      "slug": "miguel-camilo",
+      "description": "Prior to his formal training as a software engineer at Boca Code, Miguel studied on his own, volunteered and made national news helping develop an emergency response app, and even participated in hackathons. He is a strong engineer committed to tech.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/MiguelCamilo" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/miguel-camilo/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fmiguel_camilo_resume_2023.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://miguelcamilo.dev/"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-miguel-camilo.png",
+      "final_project_tittle": "Budget Buddy",
+      "final_project_description": "Budget Buddy is a web app designed to help you track your expenses and manage your finances with ease. With features like a savings goal tracker and a community forum where you can view and share finance resources.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=XPNZBO3OQB8"
+        },
+        { "icone": "chain", "link": "https://budget-buddy-app.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code because of the community it has within the school and even outside of the school, I found out about Boca Code from 3 graduates I met at a hackathon and seeing how excited they were and how much they've learned after graduation made me choose Boca Code."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "One of the biggest skills that can be at times difficult to master to succeed in this field is the skill to be Uncomfortable to be able to keep growing."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "What really inspired me was my passion for creating and my love for technology but also seeing how much room for growth there is in this field."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/idan-fischer.jpg",
+      "title": "Idan Fischer",
+      "content": "Camlann Games",
+      "slug": "idan-fischer",
+      "description": "Idan is eager to dive into programming and game development. He has prior experience with computer science principles from High School and self-learning and expanded his knowledge through multiple courses at Boca Code.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/IdanFischer" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/idan-fischer/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FFischer_Idan_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-idan-fischer.png",
+      "final_project_tittle": "Anime Avenue",
+      "final_project_description": "Anime Avenue is a platform for anime enthusiasts to share reviews on various anime titles, with the flexibility to add, edit or delete their posts. It's a welcoming space for fans to discuss and review their favorite anime series.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=Fp4gCRiFF4k"
+        },
+        {
+          "icone": "chain",
+          "link": "https://final-project-frontend-if.web.app/"
+        }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "My mom recommended it to me, and I wanted to do it in person because that's how I learn best."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "I think some important skills are endurance, perseverance and time management skills. Giving up comes too easily, especially when you think you have no time for anything, so I think enduring past those thoughts are what's really important."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I wanted to develop games and build websites, which got me into coding as a whole."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/edilma-riano.jpg",
+      "title": "Edilma Riano",
+      "content": "NumberCruncher",
+      "slug": "edilma-riano",
+      "description": "Edilma is a driven individual who is dedicated to empowering others to achieve their goals. Her passion lies in developing products that can enhance the quality of people's lives. She has a strong affinity for both growth marketing and technology, which enables her to create innovative solutions that deliver meaningful results.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/edilma" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/edilma/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FRiano_Edilma_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-edilma-riano.png",
+      "final_project_tittle": "Leads Delivery System",
+      "final_project_description": "For businesses that want to boost their sales performance. The LDS ( Lead Distribution System) streamlines the lead management process by integrating lead capture, segmentation, and distribution. With advanced algorithms, the LDS filters and routes leads to the most appropriate lead buyers or sales team members based on your company's criteria. The system also provides valuable insights and analytics, allowing you to make data-driven decisions about your lead generation strategy. Easy to use and customizable, the LDS is the ideal solution for businesses of all sizes and industries looking to optimize their sales pipeline.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=4jcJuqay318"
+        },
+        {
+          "icone": "chain",
+          "link": "http://lds-leads.s3-website-us-east-1.amazonaws.com/"
+        }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I enrolled in the BC program for a few great reasons. Firstly, it's located super close to my house, making it super convenient for me. Secondly, I was really impressed by the intensity of the program - I want a challenge that will push me to the next level. Thirdly, the structure of their curriculum really stood out to me. I know it's going to give me a competitive edge in the industry. And finally, I'm lucky enough to have the time to commit to the program fully. I'm excited to see where this takes me!"
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "From my perspective as an outsider, one of the coolest things about a career in software engineering is that there are so many different paths you can take. You can either stay on top of the latest developments and keep updating your skills, or you can really dive deep and specialize in a specific area that you're passionate about. Either way, there's so much room to grow and succeed in this field. It's one of the reasons why I'm so excited to explore it further!"
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I'm drawn to software development because it challenges my mind and sparks my creativity. Plus, there's a an abundance of job opportunities with great pay, which definitely got my attention. Being able to work on my own projects and let my ideas run wild is another huge plus. And the fact that it's easy to get started in this industry just makes it all the more appealing. Overall, it feels like the perfect balance of intellectual stimulation and practicality - I can't wait to dive in and see where it takes me!"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/varlince-meran.jpg",
+      "title": "Varlince Meran ",
+      "content": "DebtHelper",
+      "slug": "varlince-meran",
+      "description": "Varlince comes from a software support background. He is passionate about learning new technologies and adding to his skill-sets. Aside from his passion for tech, he also loves Japanese cars and soccer.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/mvarlince" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/varlince/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FValince_Meran_Resume_2023.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-varlince-meran.png",
+      "final_project_tittle": "Lineupwiz",
+      "final_project_description": "Lineupwiz is about simplifying soccer formation management. It presents clear visual representations of soccer formations and the player positions.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=_ujz_ROM0_g"
+        },
+        { "icone": "chain", "link": "https://lineupwiz.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code because of the ability to attend classes and connect with my classmates in person. The supportive community and experienced instructors at Boca Code have helped me to develop my skills and pursue my career goals. I am confident that I made the right choice in choosing Boca Code."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Communication, problem solving and continuous learning are some of the critical skills to succeed in tech. Strong time management and project management skills are also crucial in this fast-paced industry."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Growing up, I was always fascinated by the way technology was changing the world and the possibilities that it opened up for people. I wanted to be in the forefront of technology, amongst those who are moving society and become a digital creator. Boca Code has been a vital part of my journey, providing me with the skills, knowledge, and support I need to succeed."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/gisselle-pombar.jpg",
+      "title": "Gisselle Pombar ",
+      "content": "Bambino Sitters",
+      "slug": "gisselle-pombar",
+      "description": "A former chemist and scientist who graduated from MIT, Gisselle has transitioned to a career in software engineering driven by her enthusiasm for learning and STEM. As a Hispanic female, she is committed to promoting diversity and inclusivity in tech and strives to make the industry more accessible to underrepresented groups.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/gissellepombar" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/gisselle-pombar/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FPombar_Gisselle_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-gisselle-pombar.png",
+      "final_project_tittle": "Echo",
+      "final_project_description": "Echo is a powerful and user-friendly tool for mastering new information. This flash card app utilizes the spaced repetition technique to help users effectively learn and retain information over time. By leveraging this scientifically-proven method of spaced learning, Echo optimizes study sessions and boosts memory retention, making learning more efficient and enjoyable for students and professionals alike. With its intuitive interface, Echo makes it easy to create, review, and rate flash cards, ensuring that users have all the tools they need to succeed in their studies.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=q2Lm0XSjoIA"
+        },
+        { "icone": "chain", "link": "https://echo-cards.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code for its welcoming and inclusive culture, experienced instructors and staff, and well-designed curriculum with a hands-on approach and small class sizes. The community celebrated diversity, encouraged collaboration, and emphasized professionalism, teamwork, and continuous learning. The instructors were accessible and provided one-on-one assistance. At the same time, the curriculum covered essential skills and technologies needed to be a successful full-stack developer with practical projects and assignments."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "In software development, highly sought and essential skills that will allow one to thrive in the field include: Strong problem-solving and critical thinking abilities. Proficiency in programming languages and technologies. The ability to write clean and organized code. And most importantly, effective communication and the ability to work well in a team!"
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "As a former chemist, I developed an interest in data analysis and software tools for scientific research. I started exploring programming languages and enjoyed the problem-solving and logical thinking required for software development. I'm enthusiastic about combining my scientific background and software development skills to solve complex problems and create innovative solutions."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/alliette-dortelus.jpg",
+      "title": "Alliette Dortelus ",
+      "content": "NEBA",
+      "slug": "alliette-dortelus",
+      "description": "As a former federal employee, Alliette was inspired by the changes she saw in the tech world. She is thrilled to be a part of the rapidly-evolving tech industry where she can contribute through her expertise in software engineering.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/allietted" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/alliette-dortelus-8a8041264/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fdortelus_Alliette_resume_2023.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-alliette-dortelus.png",
+      "final_project_tittle": "Top 5",
+      "final_project_description": "Welcome to my website, where I'll be sharing my favorite places to eat and things to do in the Fort Lauderdale area. My final project is called Top 5, and it's a collection of the top 5 places to eat and things to do that I absolutely love in this vibrant city.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=V3eFb7bG1Sc"
+        },
+        { "icone": "chain", "link": "https://final-top5-ad.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code, because I was impressed with the in-person approach to learning that they offer. As someone who needed a more direct and hands-on approach to learning, Boca Code was the perfect fit for me. The instructors at Boca Code are extremely knowledgeable and are always willing to go above and beyond to ensure the students understand the material. The atmosphere create a comfortable learning environment Where everyone feels welcome to ask questions and seek assistance whenever needed."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Some of the most important skills for success in my field problem-solving, communication, adaptability, and teamwork. You have to be able to identify and solve problems quickly and efficiently. Also need to be able to communicate complex technical information to people who may not have any technical background in a concise manner. Lastly, adaptability and teamwork is definitely key. You need to be able to adapt to new skills while collaborating with colleagues on a project."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I have always been fascinated by the ever-evolving nature of the tech industry, and the endless opportunities it provides for learning and growth. As a former TSA officer, I had a front row seat to the evolution of technology within the government agency. It was clear to me that in recent years, the agency has been leaning heavily into technology to improve its operations and enhance security measures. It was this inspiration that led me to pursue a career path in tech, and I am so glad I did."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/daniel-barba.jpg",
+      "title": "Daniel Barba ",
+      "content": "Allterco Robotics",
+      "slug": "daniel-barba",
+      "description": "For Daniel, as a former machinist and product developer, building and design is both a trade and hobby. He loves to optimize and create new systems and solutions for clients of all types. A leader and entrepreneur at heart, but engineer in practice, he loves challenges and making ideas a reality.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/DanielEduardoBarba" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/daniel-e-barba/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fbarba_daniel_resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://developdan.com/"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-daniel-barba.png",
+      "final_project_tittle": "PigEBank",
+      "final_project_description": "PigEBank is a banking and chore tracking app built to equip parents to teach their kids about finances. Using chores as income, parents can teach their children fundamentals in managing income, savings, and debt.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=eeMMautVnK4"
+        },
+        { "icone": "chain", "link": "https://pig-e-bank-app.firebaseapp.com/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I actually saw a Facebook ad for Boca Code as a 10 week bootcamp, which is very fast. When I went to visit the school, after meeting Todd and seeing how genuinely happy and interested the students were, I could tell this course and the instructors are not there to waste your time (Todd actually said the second part lol). This is a complete take back from my college experience where everything was far slower, more time and money investing, with far less return."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "I would say adaptability, flexibility, and applicability. Our world changes so fast, being stuck on one system, one way, one tool, etc... certainly, with few exceptions, is going to leave an individual behind. These three are best summarized in the ability to know how to learn. We have a lot of internet tools at our disposal that aids in that, and being an actual pre requisite course at Boca Code before joining the cohort and applying this during the course certainly has proven helpful to all of us at BC."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "Of all the engineering disciplines I have touched the last 10 years, this has always stuck out the most as my favorite. As a kid I played a lot with electronics and recently, before Boca Code, a lot of work with the Arduino framework and ATmel chips. Software development and engineering brings to life mechatronic or completely electronic based platforms and systems, and is certainly the future on the horizon."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/anthony-murphy.jpg",
+      "title": "Anthony Murphy",
+      "content": "Camlann Games",
+      "slug": "anthony-murphy",
+      "description": "Coming fresh from High School, Anthony is ready to dive head-first into programming. Before programming with Boca Code, he has had some previous experience in Python. Anthony is one-of-a-kind with a unique style and a passion for design.",
+      "links_in_description": [
+        { "icone": "github", "link": "" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fanthony_murphy_resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-anthony-murphy.png",
+      "final_project_tittle": "Chromesthesia Sound",
+      "final_project_description": "For those who need to get their opinions on music out there as quick and simply as possible, Chromesthesia is a website made to effortlessly post thoughts on music.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=nrUAAwlA34Q"
+        },
+        { "icone": "chain", "link": "https://chromesthesia-world.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "The reason why I chose Boca Code was because I wanted an in-person bootcamp that would be affordable and would take only a relatively short time-span compared to taking a college course. I also wanted a more personal experience with a small but tight-knit class."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Some of the most important skills to have while working within the coding field are communication, being open to always learning, being open to criticism, and to be able to break big problems down to small parts."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "As a child I had a love for technology and was fascinated by computers and games. In high school I had taken a Python class and something seemed to click for me that hasn’t in any other career field."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/beatriz-recari.jpg",
+      "title": "Beatriz Recari ",
+      "content": "Former 3-time LPGA champion",
+      "slug": "beatriz-recari",
+      "description": "Former professional winner on the LPGA Tour now pursuing a career in the tech industry. Beatriz is passionate about everything she does and always commits 100%. Discipline and hard work are engrained in her. She is also a talented painter and pianist.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/BeatrizRecari1" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/beatrizrecari/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FRecari_Beatriz_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-beatriz-recari.png",
+      "final_project_tittle": "PracPal",
+      "final_project_description": "Pracpal is an app designed for athletes by athletes, with user/password and Google sign in where they can log their practice regime for the week, update it and delete it. They are able also to retrieve stored data optimizing efficiency.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=4jcJuqay318"
+        },
+        { "icone": "chain", "link": "" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "As soon as I entered the school and saw the atmosphere I immediately knew that was my place."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "To stay up to date with the latest technologies in order to advice to the best of my capabilities to my employers."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I have always been a nerd at heart so I went all in and couldn’t be happier with my choice. Tech is the future!"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/andy-linnell.jpg",
+      "title": "Andy Linnell ",
+      "content": "Recent Property and Asset Manager",
+      "slug": "andy-linnell",
+      "description": "Andy is an experienced professional with a background in IT and asset management. He has a natural talent for problem-solving and has always had a keen interest in technology. He is a valuable team player with a strong commitment to making a positive impact on the future, and is well-equipped to tackle complex challenges and deliver results.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/andylinnell" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/andylinnell/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FLinnell_Andrew_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://my-portfolio-al.web.app/"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-andy-linnell.png",
+      "final_project_tittle": "Zen Path",
+      "final_project_description": "Zen Path is a gamified beginners guide to meditation. It was created to help anyone learn how to meditate properly and quickly feel the benefits of a quite mind.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=7aFSaf9wGmg"
+        },
+        { "icone": "chain", "link": "https://zen-path-react.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code because I wanted to turn my life around and explore new career opportunities that would offer long-term growth and higher pay. Additionally, I felt uncertain about the long-term prospects of my current industry and saw Boca Code as a chance to seek new challenges and personal growth."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Some of the most important skills for success include strong problem-solving abilities, effective communication skills, and the ability to work collaboratively as part of a team. Additionally, staying up-to-date with industry trends and technologies, being adaptable and willing to learn, and having a passion for innovation and creativity."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I have always had a personal interest or passion for coding as well as a desire to make a positive impact on society or to help others. An added bonus is the financial stability and job security the industry provides."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/joseph-graffeo.jpg",
+      "title": "Joseph Graffeo ",
+      "content": "BanyaJosephn Hill",
+      "slug": "joseph-graffeo",
+      "description": "Joe was born and raised in Boca Raton. He graduated Summa Cum Laude from Lynn University in 2019, where he played baseball and earned a Bachelor's Degree in Sports Management. Joe is passionate about UX/UI design and aspires to work in game development one day.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/josephvgraffeo" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/josephgraffeo/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FGraffeo_Joseph_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://josephgraffeodev.com/"
+        }
+      ],
+      "final_project_image": "/images/final-project/p-joseph-graffeo.png",
+      "final_project_tittle": "Certified Gamer",
+      "final_project_description": "Aimed at providing gamers with a seamless and streamlined experience to effortlessly track their gaming activities in one unified place, CertifiedGamer is a simple and easy to use app that bridges the gap between dozens of gaming platforms and providers.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=eeMMautVnK4"
+        },
+        { "icone": "chain", "link": "https://www.certifiedgamerproject.com/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "I chose Boca Code because it offered an in-person learning experience, which I valued highly if I was going to take a chance and change careers. I also read nothing but glowing reviews about the staff and the process, which I am able to corroborate now having gone through it myself. I am incredibly happy that I made the decision to come to Boca Code in the end."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "Attention to detail and planning in advance stand out to me. Planning out your project before executing the actual code makes an unbelievable difference in efficiency and helps keep you on track to reach the goal. Attention to detail is another important skill, as someone who enjoys front-end development I have learned that focus (or lack thereof) on even the smallest details can make or break a project."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I have always loved computers as an extension of my love for gaming. In time I grew to love all things tech and even tried to teach myself to code as a child. I thought it was over my head for the longest time, decided to forgo the opportunity to learn again in college and eventually ended up feeling stagnant after a few years at my former company. After finding Boca Code and realizing that I had a tangible opportunity to make software engineering my career, I finally decided to take the chance I didn’t take when I was younger. I could not be more thrilled with my decision."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/gisele-abzalov.jpg",
+      "title": "Gisele Abzalov ",
+      "content": "Former Finance Expert and Entrepreneur",
+      "slug": "gisele-abzalov",
+      "description": "Gisele has a creative perspective on the tech industry. She is dedicated to making a positive impact and leveraging her expertise to help any organization achieve their goals. She is constantly seeking opportunities to grow and improve her skills.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/giseleabzalov" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/gisele-abzalov/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FAbzalov_Gisele_Resume.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-gisele-abzalov.png",
+      "final_project_tittle": "Cheers!",
+      "final_project_description": "Cheers!, furnishes beverage recipes tailored for various occasions using uncomplicated ingredients and straightforward instructions.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=to-J1VuDBGs"
+        },
+        { "icone": "chain", "link": "https://cheers-frontend-ga.web.app/" }
+      ],
+      "qa": [
+        {
+          "title": "Why Boca Code?",
+          "answer": "When I was searching for software programming classes, I wanted to find something local with an extensive curriculum taught by a teacher. I was happy to find a school in Boca that provides that and more. I already had a degree and didn't want to spend a lot of money, but most importantly, time to change my career path. Also, I didn't know exactly which programming applications I wanted to learn. I was glad that Boca Code provides education for the most currently used languages and goes above and beyond to ensure that students comprehend the material. It was hard, I'm not going to lie, but it was surely well worth it, and hard work will pay off."
+        },
+        {
+          "title": "What are some of the important skills for success in your field?",
+          "answer": "I will answer that question with something that I lack and am trying to work on. It is perseverance and patience. It takes some time to learn a new skill regardless of age and life experience."
+        },
+        {
+          "title": "What inspired you to pursue your current career path?",
+          "answer": "I love learning new things. I knew it wouldn't be easy to learn software engineering, but I wanted to challenge myself. We live in the era of technology, and it is a useful and necessary skill to learn. I hope to use it in my businesses, and who knows, maybe I will have a startup in the future. It is important for entrepreneurs to evolve by incorporating new tech in their businesses."
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/anttoinette-henry.jpg",
+      "title": "Anttoinette Henry ",
+      "content": "Stylist and Entrepreneur",
+      "slug": "anttoinette-henry",
+      "description": "Anttoinette has been looking to merge beauty and tech into one. A passionate and successful entrepreneur, she is motivated, dedicated, works well on teams and loves everything outdoors!",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/Anttoinette" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FHenry_Anttoinette_Resume%20(1).pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ],
+      "final_project_image": "/images/final-project/p-anttoinette-henry.png",
+      "final_project_tittle": "iReccoStyle",
+      "final_project_description": "Black women often struggle to be recognized for their beauty in society. Our skin tone, hair texture, and history of revolution have resulted in a negative stigma, making us feel unwanted and undesirable. As a result, many of us avoid standing out and embracing our uniqueness. However, Ireccostyle is here to remind black women that they are seen, heard, and appreciated for their beauty.",
+      "links_in_final_project": [
+        {
+          "icone": "youtube",
+          "link": "https://www.youtube.com/watch?v=5LD1l9uEVLU"
+        },
+        { "icone": "chain", "link": "https://ireccostyle-frontend.web.app/" }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/gianna-davila.jpg",
+      "title": "Gianna Davila ",
+      "content": "Learn More",
+      "slug": "gianna-davila",
+      "description": "Gianna is one of our youngest graduates ever. What she lacks in experience, she makes up for in persistence, hard work, and brilliance. She isn't one to back down from a challenge.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/GiannaDavila" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/giannadavila/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fdavila_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/Edgar-Davila.jpg",
+      "title": "Edgar Davila ",
+      "content": "Learn More",
+      "slug": "edgar-davil",
+      "description": "Edgar is no stranger to tech, he started fixing his first iPhone when he was only 10, resolving software issues and doing repairs, even Jalibreaking them. Now he's pursuing Software Engenireering in combination with Cybersecurity.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/beboopr" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/edgar-david/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fdavila_edgar_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://edgardaviladev.vercel.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/mido-khalil.jpg",
+      "title": "Mido Khalil",
+      "content": "Camlann Games",
+      "slug": "mido-khalil",
+      "description": "Mido has lived in and traveled to many countries. This, and his background in Hospitality help him get along with everyone. He was a top insurance agent at a large brokerage. Now he is a fantastic Engineer that can be a powerful addition to any team.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/Midokhalil1" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/midokhalil/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fkhalil_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/gerly-kaytukov.jpg",
+      "title": "Gerly Kaytukov ",
+      "content": "Bosch",
+      "slug": "gerly-kaytukov",
+      "description": "Gerly has been a realtor for 20 years, including being a broker agent for the past 5 years. She also has experience in Marketing and studied MIS at FAU. She is a great team player.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/GKaytukov" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/gerlykaytukov/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fkaytukov_resume_2023.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/eddie-espinosa.jpg",
+      "title": "Eddie Espinosa ",
+      "content": "Camlann Games",
+      "slug": "eddie-espinosa",
+      "description": "Eddie has a strong background in Marketing, but has become increasingly interested in Software Engineering and has studied it intensely for the past 2 1/2 years. He is a powerhouse Engineer and an incredible mentor to more Junior Engineers.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/ediesportlond" },
+        {
+          "icone": "linkedin",
+          "link": ""
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fespinosa_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/adi-fischer.jpg",
+      "title": "Adi Fischer",
+      "content": "Raiseslug",
+      "slug": "adi-fischer",
+      "description": "Adi formerly served as a Drill Sergeant in the Israeli Army. She later moved to Brooklyn and worked as a Sound Engineer and a Teacher. She is a natural leader and unafraid to work hard.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/AdiFischer" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/adifischer/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Ffischer_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://adifischer.com/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/ainis-taranda.jpg",
+      "title": "Ainis Taranda ",
+      "content": "Goat Foods",
+      "slug": "ainis-yaranda",
+      "description": "Ainis was born in Lithuania and moved to the US when he was young. He studied Exercise Physiology at FAU. He loved doing research, but Covid limited his ability to work in the lab. This lead him to learn coding. His scientific background serves him well as an Engineer.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/ainistaranda" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/ainistaranda/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Ftaranda_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/corwin-hiatt.jpg",
+      "title": "Corwin Hiatt ",
+      "content": "John Deere",
+      "slug": "corwin-hiatt",
+      "description": "Corwin grew up in rural Oregon. He's passionate about tech, math, finance, crypto, and disc golf. He's worked as a Construction Foreman and Project Manager. He first got interested in coding when customizing his MySpace page.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/CorwinHiatt" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/corwinhiatt/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fhiatt_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/emily-labelle.jpg",
+      "title": "Emily LaBelle ",
+      "content": "Microbe Formulas",
+      "slug": "emily-labelle",
+      "description": "Emily began her tech career studying CS at PBSC, but wanted more. She's also been a manager at several large retail stores. Her technical chops will be a big asset to any team.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/EmilyALaBelle" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/emilylabelledev/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Flabelle_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/tyler-jefferson.jpg",
+      "title": "Tyler Jefferson",
+      "content": "Learn More",
+      "slug": "tyler-jefferson",
+      "description": "Tyler has worked in Sales and more recently as an Account Manager and Executive, primarily in leasing for apartment complexes. He’s been around computers his whole life and has built his own PCs. Tyler is a great team player with impressive technical skills.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/TylerRJefferson" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/tylerjeffersondev/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fjefferson_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": ""
+        }
+      ]
+    }
+  ]
 }

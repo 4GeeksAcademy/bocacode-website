@@ -1,89 +1,76 @@
-
-
-.path-image{
-    display: flex;
-    max-width: 1024px;
-    max-height: 420px;
-    margin: 0 auto;
-    background-size: contain;
+.path-image {
+  display: flex;
+  max-width: 1024px;
+  max-height: 420px;
+  margin: 0 auto;
+  background-size: contain;
 }
 
 .path-image:hover {
-    transform: scale(1.2);
-    transition: transform 0.3s ease-in-out;
+  transform: scale(1.2);
+  transition: transform 0.3s ease-in-out;
 }
 
 .path-right ul {
-    columns: 2;
-} 
-
-.path{
+  columns: 2;
 }
 
-.direction{
-    flex-direction: row;
-    gap: 0 32px;
+.direction {
+  flex-direction: row;
+  gap: 0 32px;
 }
 
-.span{
-    display: flex;
-    color: rgb(79, 70, 229);
-    background: rgb(224, 231, 255);
-    width: 64px; 
-    height: 64px;
-    border-radius: 1000px;
-    justify-content: center;
-    margin: 0 16px;
+.span {
+  display: flex;
+  color: rgb(79, 70, 229);
+  background: rgb(224, 231, 255);
+  width: 64px;
+  height: 64px;
+  border-radius: 1000px;
+  justify-content: center;
+  margin: 0 16px;
 }
 
 @media screen and (width <= 1024px) {
-
-    
-
-    .direction{
-        flex-direction: column;
-        gap: 16px 0;
-    }
-    
-    .path-image{
-        display: none;
-    }
-  }
-  
-  @media screen and (width <= 720px) {
-    .path-right ul {
-        columns: 1;
-    } 
+  .direction {
+    flex-direction: column;
+    gap: 16px 0;
   }
 
-  @media screen and (width <= 450px) {
-    .path-container{
-        padding: 0 20px;
-    }
-    
+  .path-image {
+    display: none;
   }
-  
-  
-
-
-
-.path-left{
-    width: 70%;
 }
 
-.path-left h2{
-    color:rgb(55, 48, 163);
-}
-.path-left p{
-    color:rgb(55, 48, 163);   
+@media screen and (width <= 720px) {
+  .path-right ul {
+    columns: 1;
+  }
 }
 
-.path-right h2{
-    color: rgb(113, 113, 122);
+@media screen and (width <= 450px) {
+  .path-container {
+    padding: 0 20px;
+  }
 }
-.path-right{
-    width: 30%;
+
+.path-left {
+  width: 70%;
 }
-.path-right li{
-    color: rgb(113, 113, 122);  
+
+.path-left h2 {
+  color: rgb(55, 48, 163);
+}
+.path-left p {
+  color: rgb(55, 48, 163);
+}
+
+.path-right h2 {
+  color: rgb(113, 113, 122);
+}
+.path-right {
+  width: 30%;
+}
+.path-right li {
+  color: rgb(113, 113, 122);
 }

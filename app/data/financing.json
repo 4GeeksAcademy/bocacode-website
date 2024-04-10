@@ -1,170 +1,170 @@
 {
-    "two_columns": {
-        "left": {
-            "heading": {
-                "text": "Making quality tech education accessible to all",
-                "color": "rgb(24, 24, 27)",
-                "font_size": "36px"
-            },
-            "content": {
-                "text": "There are enough roadblocks in your path while you chase your dreams. Money shouldn't be one of them. Boca Code students have a variety of tuition options to choose from, as well as scholarships to aid in developing your career. Explore our tuition options and find the path that works for you.",
-                "color": "rgb(161, 161, 170)",
-                "font_size": "16px",
-                "font_weight": "400",
-                "line_height": "24px"
-            }
-        },
-        "right": {
-            "image": "/images/pics-group.png"
-        }
+  "two_columns": {
+    "left": {
+      "heading": {
+        "text": "Making quality tech education accessible to all",
+        "color": "rgb(24, 24, 27)",
+        "font_size": "36px"
+      },
+      "content": {
+        "text": "There are enough roadblocks in your path while you chase your dreams. Money shouldn't be one of them. Boca Code students have a variety of tuition options to choose from, as well as scholarships to aid in developing your career. Explore our tuition options and find the path that works for you.",
+        "color": "rgb(161, 161, 170)",
+        "font_size": "16px",
+        "font_weight": "400",
+        "line_height": "24px"
+      }
     },
-    "two_columns_1": {
-        "left": {
-            "heading": {
-                "text": "Payment Plans",
-                "color": "rgb(24, 24, 27)",
-                "font_size": "36px"
-            },
-            "content": {
-                "text": "We offer several payment plan options to make a career in Software Engineering accessible to all. From low monthly installments to an Income Share Agreement, we want everyone to be able.",
-                "color": "rgb(113, 113, 122)",
-                "font_size": "16px",
-                "font_weight": "400",
-                "line_height": "32px"
-            },
-            "buttons": [
-                {
-                    "button_text": "Schedule a Call",
-                    "button_link": "/",
-                    "button_color": "rgb(225, 29, 72)",
-                    "button_textcolor": "rgb(250, 250, 250)",
-                    "button_fontsize": "16px"
-                }
-            ]
-        },
-        "right": {
-            "steps": [
-                {
-                    "heading": {
-                        "text": "<span style=' color:rgb(225, 29, 72); '> NEW </span> in-house  0%-interest loans",
-                        "color": "rgb(24, 24, 27)",
-                        "font_size": "20px"
-                    },
-                    "content": {
-                        "text": "Boca Code offers 6, 12, and 24 month loans with 0% interest. Our loans are managed through our partner Mia-Share. <a href='/' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here </a> to see if you qualify.",
-                        "color": "rgb(113, 113, 122)",
-                        "font_size": "16px",
-                        "font_weight": "400",
-                        "line_height": "32px"
-                    },
-                    "background": "rgb(224, 231, 255)"
-                },
-                {
-                    "heading": {
-                        "text": "Loans up to 60 months",
-                        "color": "rgb(24, 24, 27)",
-                        "font_size": "20px"
-                    },
-                    "content": {
-                        "text": "Meritize offers loans up to 60 months with no payments for 6 months for as low as 5%. <a href='/' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here. </a> Climb offers similar terms up to 60 months with no payments for 6 months. <a href='/' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here. </a>",
-                        "color": "rgb(113, 113, 122)",
-                        "font_size": "16px",
-                        "font_weight": "400",
-                        "line_height": "32px"
-                    },
-                    "background": ""
-                },
-                {
-                    "heading": {
-                        "text": "Income Share Agreements",
-                        "color": "rgb(24, 24, 27)",
-                        "font_size": "20px"
-                    },
-                    "content": {
-                        "text": "Our partner, Mia-Share, offers the best-in-class ISA terms. You put $500 down and pay nothing until you get a job making at least $36,000. Then you pay 8% of your salary for a maximum of 68 months.  <a href='/' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here. </a>",
-                        "color": "rgb(113, 113, 122)",
-                        "font_size": "16px",
-                        "font_weight": "400",
-                        "line_height": "32px"
-                    },
-                    "background": ""
-                }
-            ]
-        }
-    },
-    "two_columns_2": {
-        "left": {
-            "heading": {
-                "text": "Scholarship Options",
-                "color": "rgb(24, 24, 27)",
-                "font_size": "24px"
-            },
-            "content": {
-                "text": "Boca Code offers scholarship options for individuals looking to transform their careers. Find out more by booking a call with an Admissions Advisor.",
-                "color": "rgb(113, 113, 122)",
-                "font_size": "18px",
-                "font_weight": "400",
-                "line_height": "28px"
-            },
-            "complement": {
-                "text": "87% of all Boca Code students have received scholarships!",
-                "color": "rgb(67, 56, 202)",
-                "font_size": "20px",
-                "font_weight": "700",
-                "line_height": "28px"
-            },
-            "bullets": [
-                {
-                    "icon": {
-                        "name": "pencil",
-                        "background": "rgb(99, 102, 241)"
-                    },
-                    "heading": {
-                        "text": "Diversity in Tech",
-                        "color": "rgb(24, 24, 27)",
-                        "font_size": "18px"
-                    },
-                    "content": {
-                        "text": "Awarded to students that are under-represented in the South Florida Tech community, namely Women, Black, African American, Latino, and Hispanic students.",
-                        "color": "rgb(113, 113, 122)",
-                        "font_size": "16px",
-                        "font_weight": "400",
-                        "line_height": "24px"
-                    }
-                },
-                {
-                    "icon": {
-                        "name": "pencil",
-                        "background": "rgb(99, 102, 241)"
-                    },
-                    "heading": {
-                        "text": "Engineer the Change",
-                        "color": "rgb(24, 24, 27)",
-                        "font_size": "18px"
-                    },
-                    "content": {
-                        "text": "Our community partner, TechStrong, provide $10,000 to one student each Spring and Fall. To learn more or apply, visit <a href='https://techstronggroup.com/engineer-the-change.' style='color:rgb(79, 70, 229);'>techstronggroup.com/engineer-the-change.</a>",
-                        "color": "rgb(113, 113, 122)",
-                        "font_size": "16px",
-                        "font_weight": "400",
-                        "line_height": "24px"
-                    }
-                }
-            ]
-        },
-        "right": {
-            "image": "/images/scholarship-winners.jpg"
-        }
-    },
-    "info": {
-        "heading": "Want to learn more?",
-        "call_msg": "Call (786) 416-6640",
-        "button":{
-            "button_text": "Schedule a Call",
-            "button_link": "/",
-            "button_color": "rgb(225, 29, 72)",
-            "button_textcolor": "rgb(250, 250, 250)",
-            "button_fontsize": "16px"
-        }
+    "right": {
+      "image": "/images/pics-group.png"
     }
+  },
+  "two_columns_1": {
+    "left": {
+      "heading": {
+        "text": "Payment Plans",
+        "color": "rgb(24, 24, 27)",
+        "font_size": "36px"
+      },
+      "content": {
+        "text": "We offer several payment plan options to make a career in Software Engineering accessible to all. From low monthly installments to an Income Share Agreement, we want everyone to be able.",
+        "color": "rgb(113, 113, 122)",
+        "font_size": "16px",
+        "font_weight": "400",
+        "line_height": "32px"
+      },
+      "buttons": [
+        {
+          "button_text": "Schedule a Call",
+          "button_link": "/contact",
+          "button_color": "rgb(225, 29, 72)",
+          "button_textcolor": "rgb(250, 250, 250)",
+          "button_fontsize": "16px"
+        }
+      ]
+    },
+    "right": {
+      "steps": [
+        {
+          "heading": {
+            "text": "<span style=' color:rgb(225, 29, 72); '> NEW </span> in-house  0%-interest loans",
+            "color": "rgb(24, 24, 27)",
+            "font_size": "20px"
+          },
+          "content": {
+            "text": "Boca Code offers 6, 12, and 24 month loans with 0% interest. Our loans are managed through our partner Mia-Share. <a href='/contact' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here </a> to see if you qualify.",
+            "color": "rgb(113, 113, 122)",
+            "font_size": "16px",
+            "font_weight": "400",
+            "line_height": "32px"
+          },
+          "background": "rgb(224, 231, 255)"
+        },
+        {
+          "heading": {
+            "text": "Loans up to 60 months",
+            "color": "rgb(24, 24, 27)",
+            "font_size": "20px"
+          },
+          "content": {
+            "text": "Meritize offers loans up to 60 months with no payments for 6 months for as low as 5%. <a href='/contact' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here. </a> Climb offers similar terms up to 60 months with no payments for 6 months. <a href='/contact' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here. </a>",
+            "color": "rgb(113, 113, 122)",
+            "font_size": "16px",
+            "font_weight": "400",
+            "line_height": "32px"
+          },
+          "background": ""
+        },
+        {
+          "heading": {
+            "text": "Income Share Agreements",
+            "color": "rgb(24, 24, 27)",
+            "font_size": "20px"
+          },
+          "content": {
+            "text": "Our partner, Mia-Share, offers the best-in-class ISA terms. You put $500 down and pay nothing until you get a job making at least $36,000. Then you pay 8% of your salary for a maximum of 68 months.  <a href='/contact' style='color:rgb(79, 70, 229); font-weight:700;'> Apply here. </a>",
+            "color": "rgb(113, 113, 122)",
+            "font_size": "16px",
+            "font_weight": "400",
+            "line_height": "32px"
+          },
+          "background": ""
+        }
+      ]
+    }
+  },
+  "two_columns_2": {
+    "left": {
+      "heading": {
+        "text": "Scholarship Options",
+        "color": "rgb(24, 24, 27)",
+        "font_size": "24px"
+      },
+      "content": {
+        "text": "Boca Code offers scholarship options for individuals looking to transform their careers. Find out more by booking a call with an Admissions Advisor.",
+        "color": "rgb(113, 113, 122)",
+        "font_size": "18px",
+        "font_weight": "400",
+        "line_height": "28px"
+      },
+      "complement": {
+        "text": "87% of all Boca Code students have received scholarships!",
+        "color": "rgb(67, 56, 202)",
+        "font_size": "20px",
+        "font_weight": "700",
+        "line_height": "28px"
+      },
+      "bullets": [
+        {
+          "icon": {
+            "name": "pencil",
+            "background": "rgb(99, 102, 241)"
+          },
+          "heading": {
+            "text": "Diversity in Tech",
+            "color": "rgb(24, 24, 27)",
+            "font_size": "18px"
+          },
+          "content": {
+            "text": "Awarded to students that are under-represented in the South Florida Tech community, namely Women, Black, African American, Latino, and Hispanic students.",
+            "color": "rgb(113, 113, 122)",
+            "font_size": "16px",
+            "font_weight": "400",
+            "line_height": "24px"
+          }
+        },
+        {
+          "icon": {
+            "name": "pencil",
+            "background": "rgb(99, 102, 241)"
+          },
+          "heading": {
+            "text": "Engineer the Change",
+            "color": "rgb(24, 24, 27)",
+            "font_size": "18px"
+          },
+          "content": {
+            "text": "Our community partner, TechStrong, provide $10,000 to one student each Spring and Fall. To learn more or apply, visit <a href='https://techstronggroup.com/engineer-the-change.' style='color:rgb(79, 70, 229);'>techstronggroup.com/engineer-the-change.</a>",
+            "color": "rgb(113, 113, 122)",
+            "font_size": "16px",
+            "font_weight": "400",
+            "line_height": "24px"
+          }
+        }
+      ]
+    },
+    "right": {
+      "image": "/images/scholarship-winners.jpg"
+    }
+  },
+  "info": {
+    "heading": "Want to learn more?",
+    "call_msg": "Call (786) 416-6640",
+    "button": {
+      "button_text": "Schedule a Call",
+      "button_link": "/",
+      "button_color": "rgb(225, 29, 72)",
+      "button_textcolor": "rgb(250, 250, 250)",
+      "button_fontsize": "16px"
+    }
+  }
 }

@@ -1,72 +1,72 @@
 {
-    "title_container": {
-        "heading": "Software Engineering Talent",
-        "paragraph": "Look no further for top-trained and vetted talent to hire."
+  "title_container": {
+    "heading": "Software Engineering Talent",
+    "paragraph": "Look no further for top-trained and vetted talent to hire."
+  },
+  "link_text": "See profile >",
+  "candidates": [
+    {
+      "image": "/images/candidates/projects/wish-lily.png",
+      "profileImage": "/images/candidates/joelle-johnson.jpg",
+      "title": "Joelle Johnson",
+      "content": "Former Retail Manager and CS Major",
+      "slug": "joelle-johnson"
     },
-    "link_text": "See profile >",
-    "candidates": [
-        {
-            "image": "/images/candidates/projects/wish-lily.png",
-            "profileImage": "/images/candidates/joelle-johnson.jpg",
-            "title": "Joelle Johnson",
-            "content": "Former Retail Manager and CS Major",
-            "link": "/"
-        },
-        {
-            "image": "/images/candidates/projects/andy-arias.png",
-            "profileImage": "/images/candidates/andy-arias.jpg",
-            "title": "Andy Arias",
-            "content": "Recent Highschool Graduate",
-            "link": "/"
-        },
-        {
-            "image": "/images/candidates/projects/Evelybenson-Chatelain.png",
-            "profileImage": "/images/candidates/evelybenson-chatelain.jpg",
-            "title": "Evelybenson Chatelain",
-            "content": "Former Civil Engineer and Artist",
-            "link": "/"
-        },
-        {
-            "image": "/images/candidates/projects/Tremayne-Johnson.png",
-            "profileImage": "/images/candidates/tremayne-johnson.jpg",
-            "title": "Tremayne Johnson",
-            "content": "Former Truck Driver",
-            "link": "/"
-        },
-        {
-            "image": "/images/candidates/projects/john-savin-pro.png",
-            "profileImage": "/images/candidates/john-savin.jpg",
-            "title": "John Savin",
-            "content": "Former Financial Advisor",
-            "link": "/"
-        },
-        {
-            "image": "/images/candidates/projects/alex-artemov-pro.png",
-            "profileImage": "/images/candidates/alex-artemov.jpg",
-            "title": "Alex Artemov",
-            "content": "Former Media and Content Producer",
-            "link": "/"
-        },
-        {
-            "image": "/images/candidates/projects/CadoP.png",
-            "profileImage": "/images/candidates/micado-pierre.jpg",
-            "title": "Micado Pierre",
-            "content": "Realtor and Software Engineer",
-            "link": "/"
-        },
-        {
-            "image": "/images/candidates/projects/sow-tropical.png",
-            "profileImage": "/images/candidates/michael-fisher.jpg",
-            "title": "Michael Fisher",
-            "content": "Former Hairstylist and Educator",
-            "link": "/"
-        },
-        {
-            "image": "/images/candidates/projects/whats-hot.png",
-            "profileImage": "/images/candidates/gino-guerra.jpg",
-            "title": "Gino Guerra",
-            "content": "Budding Game Developer",
-            "link": "/"
-        }
-    ]
+    {
+      "image": "/images/candidates/projects/andy-arias.png",
+      "profileImage": "/images/candidates/andy-arias.jpg",
+      "title": "Andy Arias",
+      "content": "Recent Highschool Graduate",
+      "slug": "andy-arias"
+    },
+    {
+      "image": "/images/candidates/projects/Evelybenson-Chatelain.png",
+      "profileImage": "/images/candidates/evelybenson-chatelain.jpg",
+      "title": "Evelybenson Chatelain",
+      "content": "Former Civil Engineer and Artist",
+      "slug": "evelybenson-chatelain"
+    },
+    {
+      "image": "/images/candidates/projects/Tremayne-Johnson.png",
+      "profileImage": "/images/candidates/tremayne-johnson.jpg",
+      "title": "Tremayne Johnson",
+      "content": "Former Truck Driver",
+      "slug": "tremayne-l-johnson"
+    },
+    {
+      "image": "/images/candidates/projects/john-savin-pro.png",
+      "profileImage": "/images/candidates/john-savin.jpg",
+      "title": "John Savin",
+      "content": "Former Financial Advisor",
+      "slug": "john-savin"
+    },
+    {
+      "image": "/images/candidates/projects/alex-artemov-pro.png",
+      "profileImage": "/images/candidates/alex-artemov.jpg",
+      "title": "Alex Artemov",
+      "content": "Former Media and Content Producer",
+      "slug": "alex-artemov"
+    },
+    {
+      "image": "/images/candidates/projects/CadoP.png",
+      "profileImage": "/images/candidates/micado-pierre.jpg",
+      "title": "Micado Pierre",
+      "content": "Realtor and Software Engineer",
+      "slug": "micado-pierre"
+    },
+    {
+      "image": "/images/candidates/projects/sow-tropical.png",
+      "profileImage": "/images/candidates/michael-fisher.jpg",
+      "title": "Michael Fisher",
+      "content": "Former Hairstylist and Educator",
+      "slug": "michael-fisher"
+    },
+    {
+      "image": "/images/candidates/projects/whats-hot.png",
+      "profileImage": "/images/candidates/gino-guerra.jpg",
+      "title": "Gino Guerra",
+      "content": "Budding Game Developer",
+      "slug": "gino-guerra"
+    }
+  ]
 }

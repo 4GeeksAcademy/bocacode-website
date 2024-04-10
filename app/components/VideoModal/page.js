@@ -1,70 +1,67 @@
 'use client';
-import React, { useState, useEffect, useRef } from "react";
-import ReactPlayer from 'react-player/youtube'
-import Image from "next/image";
-import '../../styles/card.css'
+import React, { useState, useEffect, useRef } from 'react';
+import ReactPlayer from 'react-player/youtube';
+import Image from 'next/image';
+import '../../styles/card.css';
 
 const VideoModal = ({ videoLink, play }) => {
-    const [isModalOpen, setIsModalOpen] = useState(play);
-    const [video, setVideo] = useState(null);
+  const [isModalOpen, setIsModalOpen] = useState(play);
+  const [video, setVideo] = useState(null);
 
-    const src = video;
-    const videoRef = useRef();
+  const src = video;
+  const videoRef = useRef();
 
-    useEffect(() => {
+  useEffect(() => {
+    if (videoRef.current) {
+      videoRef.current.src = src;
+    }
 
-        if (videoRef.current) {
-            videoRef.current.src = src;
-        }
-
-        return () => {
-            if (videoRef.current) {
-                videoRef.current.src = "";
-            }
-        };
-    }, [videoLink]);
-
-    const handleOpen = () => {
-        setIsModalOpen(true);
+    return () => {
+      if (videoRef.current) {
+        videoRef.current.src = '';
+      }
     };
+  }, [videoLink]);
 
-    const handleClose = () => {
-        setIsModalOpen(false);
-    };
+  const handleOpen = () => {
+    setIsModalOpen(true);
+  };
 
-    return (
-        <div className="modal-video row"
-            style={{ display: isModalOpen ? "flex" : "none" }}
+  const handleClose = () => {
+    setIsModalOpen(false);
+  };
+
+  return (
+    isModalOpen && (
+      <div className="modal-video">
+        <div
+          className="modal-video-body row"
+          // style={{
+          //   display: isModalOpen ? 'flex' : 'none',
+          // }}
         >
-
-            <div
-                className="modal"
-            >
-                <ReactPlayer
-                    url={videoLink}
-                    playing={isModalOpen}
-                    width="100%"
-                    height="100%"
-                    style={{}}
-                    controls
-                    className="video"
-                />
-                <Image
-                    src="/images/x-icon.png"
-                    onClick={() => handleClose()}
-                    width={35}
-                    height={35}
-                    style={{
-                        position: "absolute",
-                        margin: "0px 0px 0px 10px",
-                        top: "0%",
-                        right: "0%"
-                    }}
-                />
-            </div>
-
+          <div className="modal">
+            <ReactPlayer
+              url={videoLink}
+              playing={isModalOpen}
+              controls
+              className="video"
+              width="100%"
+              height="auto"
+            />
+            <Image
+              src="/images/x-icon.png"
+              alt="close"
+              onClick={() => handleClose()}
+              width={35}
+              height={35}
+              className="close-modal"
+            />
+          </div>
         </div>
-    );
+      </div>
+    )
+  );
 };
 
 export default VideoModal;

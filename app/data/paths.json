@@ -1,56 +1,33 @@
 {
-    "title": "Multiple Paths to Success",
-    "paths": [
-        {
-            "heading_left": "Dive Right In",
-            "paragraph_left": "Ready to quit your job and jump in full-time? Our 10-week Software Engineering Career Course covers everything you need to prepare for a career in Tech. Whether you're a beginner or looking for a leg up, this course will launch your career in tech.",
-            "heading_right": "Careers",
-            "careers": [
-                "Software Engineer",
-                "Frontend Developer",
-                "Backend Developer",
-                "Web Developer",
-                "Mobile Developer",
-                "Project Manager",
-                "CTO",
-                "QA / Testing"
-            ],
-            "image": "/images/career-path-4.png"
-        },
-        {
-            "heading_left": "Slow & Steady",
-            "paragraph_left": "Not quite ready to quit your job? We offer several evening and part-time courses to set you on the path to a career in tech. Start with our Intro to Web Development 3-week part-time class to learn the Basics. Then master Backend Engineering with our Intro to JavaScript and Node.js course. Round off the curriculum with React and master Frontend Engineering.",
-            "heading_right": "Careers",
-            "careers": [
-                "Frontend Developer",
-                "Backend Developer",
-                "Web Developer",
-                "QA / Testing"
-            ],
-            "image": "/images/slow-path-3.png"
-        },
-        {
-            "heading_left": "Master Data and AI",
-            "paragraph_left": "Whether you already work with data or with Python or are new to both, this popular course will get you analyzing data and predicting sales or trends or whether a customer is going to cancel their subscription. Enroll in our Data Analytics and Python course and start creating your own AI models today.",
-            "heading_right": "Careers",
-            "careers": [
-                "Data Analyst",
-                "Data Scientist",
-                "Business Analyst",
-                "Data Modeler"
-            ],
-            "image": "/images/data-path-2.png"
-        },
-        {
-            "heading_left": "Game On",
-            "paragraph_left": "The future is looking bright, especially for those working in AR and VR. Our Game Development Course teaches you AR / VR / and Game Dev. Gaming is the largest entertainment industry and knowing these skills can be very lucrative.",
-            "heading_right": "Careers",
-            "careers": [
-                "Game Developer",
-                "QA Tester",
-                "VR / AR Developer"
-            ],
-            "image": "/images/game-path.png"
-        }
-    ]
+  "title": "Multiple Paths to Success",
+  "paths": [
+    {
+      "heading_left": "Dive Right In",
+      "paragraph_left": "Ready to quit your job and jump in full-time? Our 10-week Software Engineering Career Course covers everything you need to prepare for a career in Tech. Whether you're a beginner or looking for a leg up, this course will launch your career in tech.",
+      "heading_right": "Careers",
+      "careers": [
+        "Software Engineer",
+        "Frontend Developer",
+        "Backend Developer",
+        "Web Developer",
+        "Mobile Developer",
+        "Project Manager",
+        "CTO",
+        "QA / Testing"
+      ],
+      "image": "/images/career-path-4.png"
+    },
+    {
+      "heading_left": "Slow & Steady",
+      "paragraph_left": "Not quite ready to quit your job? We offer several evening and part-time courses to set you on the path to a career in tech. Start with our Intro to Web Development 3-week part-time class to learn the Basics. Then master Backend Engineering with our Intro to JavaScript and Node.js course. Round off the curriculum with React and master Frontend Engineering.",
+      "heading_right": "Careers",
+      "careers": [
+        "Frontend Developer",
+        "Backend Developer",
+        "Web Developer",
+        "QA / Testing"
+      ],
+      "image": "/images/slow-path-3.png"
+    }
+  ]
 }
