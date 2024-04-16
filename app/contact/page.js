@@ -57,7 +57,7 @@ const Contact = () => {
             <div className="flex gap-16 column-sm">
               <div className="w-100">
                 <input
-                  className="p-12 rounded-8 bg-white fs-14 fw-400 lh-20 w-100 form-input"
+                  className="p-12 rounded-8 bg-white fs-14 fw-400 lh-20 w-100 form-input color-gray-v2"
                   placeholder="First Name"
                   type="text"
                   required=""
@@ -66,7 +66,7 @@ const Contact = () => {
               </div>
               <div className="w-100">
                 <input
-                  className="p-12 rounded-8 bg-white fs-14 fw-400 lh-20 w-100 form-input"
+                  className="p-12 rounded-8 bg-white fs-14 fw-400 lh-20 w-100 form-input color-gray-v2"
                   placeholder="Last Name"
                   type="text"
                   required=""
@@ -78,7 +78,7 @@ const Contact = () => {
             <div className="flex gap-16 column-sm">
               <div className="w-100">
                 <input
-                  className="p-12 rounded-8 bg-white fs-14 fw-400 lh-20 w-100 form-input"
+                  className="p-12 rounded-8 bg-white fs-14 fw-400 lh-20 w-100 form-input color-gray-v2"
                   placeholder="Email address"
                   type="email"
                   id="email"
@@ -89,7 +89,7 @@ const Contact = () => {
               </div>
               <div className="w-100">
                 <input
-                  className="p-12 rounded-8 bg-white fs-14 fw-400 lh-20 w-100 form-input"
+                  className="p-12 rounded-8 bg-white fs-14 fw-400 lh-20 w-100 form-input color-gray-v2"
                   placeholder="Phone Number"
                   type="tel"
                   id="phone"
@@ -104,7 +104,7 @@ const Contact = () => {
               <select
                 name="Interest"
                 id="interest"
-                className="flex form-input w-100 p-12 rounded-8 bg-white fs-14 fw-400 lh-20 color-black"
+                className="flex form-input w-100 p-12 rounded-8 bg-white fs-14 fw-400 lh-20 color-gray-v2"
               >
                 <option disabled="">Choose your Interest:</option>
                 <option value="talent">Talent</option>

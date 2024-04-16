@@ -33,3 +33,11 @@ export function getSortedPostsData() {
     }
   });
 }
+
+export const tagManager = (eventName, payload = {}) => {
+  if (typeof dataLayer != "undefined") {
+    dataLayer.push({ event: eventName, ...payload });
+    console.log("Event successfully triggered: " + eventName);
+  } else
+    console.log("TagManager:dataLayer not found to trigger event " + eventName);
+}
