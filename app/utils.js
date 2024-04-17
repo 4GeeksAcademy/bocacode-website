@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { sendGTMEvent } from '@next/third-parties/google'
 
 const postsDirectory = path.join(process.cwd(), 'posts');
 
@@ -36,7 +37,7 @@ export function getSortedPostsData() {
 
 export const tagManager = (eventName, payload = {}) => {
   if (typeof dataLayer != "undefined") {
-    dataLayer.push({ event: eventName, ...payload });
+    sendGTMEvent({ event: eventName, ...payload });
     console.log("Event successfully triggered: " + eventName);
   } else
     console.log("TagManager:dataLayer not found to trigger event " + eventName);
