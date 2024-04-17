@@ -1,4 +1,5 @@
 import { Inter } from 'next/font/google';
+import { GoogleTagManager } from '@next/third-parties/google'
 import './globals.css';
 import Navbar from './components/Navbar/page';
 import Footer from './components/Footer/page';
@@ -31,6 +32,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <GoogleTagManager gtmId={process.env.TAG_MANAGER_KEY} />
       <body className={inter.className}>
         <Navbar />
         {children}
