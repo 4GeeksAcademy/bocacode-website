@@ -12,6 +12,9 @@ import TwoColumns from './components/TwoColumns/page';
 import data from './data/home.json';
 
 export default function Home() {
+
+  const pricingInfo = data?.pricing_info_variable ? data.pricing_info_variable.filter((card) => card.active) : [];
+
   return (
     <main className={styles.main}>
       <PageHeader data={data?.header} />
@@ -32,14 +35,11 @@ export default function Home() {
         classParagraph="fs-16 fw-400 lh-28 color-gray-v2"
       />
 
-      {data?.pricing_info_variable && (
-        <div className="gap-24 m-auto column py-50 maxwidth-1366">
-          {data?.pricing_info_variable?.map((card, index) => {
-            if (card.active) return <PricingCard key={index} data={card} />;
-            else return <></>;
-          })}
-        </div>
-      )}
+      <div id="pricing-info" className="gap-24 m-auto column py-50 maxwidth-1366">
+        {pricingInfo.map((card, index) => (
+          <PricingCard key={`pricing-card-${index}`} data={card} />
+        ))}
+      </div>
 
       <Credentials />
 

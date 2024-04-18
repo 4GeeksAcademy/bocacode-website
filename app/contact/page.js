@@ -1,9 +1,14 @@
+'use client'
 import React from 'react';
 import styles from '../page.module.css';
 import data from '../data/contact.json';
+import { useSession } from '../context/session';
 import '../styles/contact.css';
 
 const Contact = () => {
+  const { session } = useSession();
+  console.log('session');
+  console.log(session);
   const {
     sub_heading,
     heading,
@@ -14,6 +19,7 @@ const Contact = () => {
     talent,
     form,
   } = data;
+
   return (
     <main className="contact-container">
       <div className="maxwidth-1366 container my-32 flex gap-24 column-tablet">
@@ -50,7 +56,7 @@ const Contact = () => {
         </div>
 
         <div className="w-50 w-100-tablet border-v4 rounded-16 p-32 ">
-          <p className="fs-16 lh-24 fw-400 color-gray pb-16">
+          <p className="fs-16 lh-24 fw-400 color-darkblue pb-16">
             {form.motivation}
           </p>
           <form className="column gap-16">
@@ -102,26 +108,15 @@ const Contact = () => {
 
             <div className="flex ">
               <select
-                name="Interest"
-                id="interest"
+                name="contact_method"
+                id="contact_method"
                 className="flex form-input w-100 p-12 rounded-8 bg-white fs-14 fw-400 lh-20 color-gray-v2"
               >
-                <option disabled="">Choose your Interest:</option>
-                <option value="talent">Talent</option>
-                <option value="courses">Courses</option>
-                <option value="General">General</option>
+                <option disabled="">{form['preferred-contact-method'].label}</option>
+                {form['preferred-contact-method'].options.map(({ value, label }) => (
+                  <option key={value} value={value}>{label}</option>
+                ))}
               </select>
-            </div>
-
-            <div>
-              <textarea
-                id="message"
-                name="message"
-                rows="5"
-                cols="33"
-                placeholder="Enter your message"
-                className="form-input flex w-100 p-12 rounded-8 bg-white fs-14 fw-400 lh-20 color-gray-v2"
-              ></textarea>
             </div>
 
             <div>

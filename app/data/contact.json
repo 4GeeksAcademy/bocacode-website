@@ -1,23 +1,33 @@
 {
-    "sub_heading": "CONTACT US",
-    "heading": "Hello from Boca Code! 👋",
-    "paragraph": "We love to hear from fans and friends and new people. If you have any questions about our programs, please reach out to us.",
-    "address": "Boca Code <br> 7035 Beracasa Way, 2nd Floor, Suite 207 <br> Boca Raton, FL 33433",
-    "email_info": "info@bocacode.com",
-    "courses_info": {
-        "title": "Courses and Workshops",
-        "content": "For questions about online courses and workshops, contact <a <a style='color: rgb(79, 70, 229); font-weight:700;'> admissions@bocacode.com </a> or <a <a style='color: rgb(79, 70, 229); font-weight:700'> 786-416-6640. </a>"
-    },
-    "talent": {
-        "title": "Talent and Alumni",
-        "content": "If you're looking to hire talent, join our career fairs, need to verify a student's enrollment or request verification of their certification, contact: <a style='color: rgb(79, 70, 229); font-weight:700'> careerservices@bocacode.com. </a>"
-    },
+  "sub_heading": "CONTACT US",
+  "heading": "Hello from Boca Code! 👋",
+  "paragraph": "We love to hear from fans and friends and new people. If you have any questions about our programs, please reach out to us.",
+  "address": "Boca Code <br> 7035 Beracasa Way, 2nd Floor, Suite 207 <br> Boca Raton, FL 33433",
+  "email_info": "info@bocacode.com",
+  "courses_info": {
+    "title": "Courses and Workshops",
+    "content": "For questions about online courses and workshops, contact <a <a style='color: rgb(79, 70, 229); font-weight:700;'> admissions@bocacode.com </a> or <a <a style='color: rgb(79, 70, 229); font-weight:700'> 786-416-6640. </a>"
+  },
+  "talent": {
+    "title": "Talent and Alumni",
+    "content": "If you're looking to hire talent, join our career fairs, need to verify a student's enrollment or request verification of their certification, contact: <a style='color: rgb(79, 70, 229); font-weight:700'> careerservices@bocacode.com. </a>"
+  },
 
-    "form":{
-        "motivation":"Interested in our courses, hiring talented engineers, or something else? Reach out now.",
-        "conditions":"By clicking the button above, you accept our Terms of Service and Privacy Policy. You agree to receive calls and emails about our courses and workshops.",
-        "button":{
-            "text":"Send Message >"
-        }
+  "form": {
+    "motivation": "Fill out the form below and a member of our team will to you for a free admissions consultation",
+    "conditions": "By clicking the button above, you accept our Terms of Service and Privacy Policy. You agree to receive calls and emails about our courses and workshops.",
+    "preferred-contact-method": {
+      "label": "Preferred contact method",
+      "options": [{
+        "value": "email",
+        "label": "Email"
+      }, {
+        "value": "phone",
+        "label": "Phone"
+      }]
+    },
+    "button": {
+      "text": "Send Message >"
     }
+  }
 }

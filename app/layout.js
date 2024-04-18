@@ -3,6 +3,7 @@ import { GoogleTagManager } from '@next/third-parties/google'
 import './globals.css';
 import Navbar from './components/Navbar/page';
 import Footer from './components/Footer/page';
+import { SessionWrapper } from './context/session';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -34,9 +35,11 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <GoogleTagManager gtmId={process.env.TAG_MANAGER_KEY} />
       <body className={inter.className}>
-        <Navbar />
-        {children}
-        <Footer />
+        <SessionWrapper>
+          <Navbar />
+            {children}
+          <Footer />
+        </SessionWrapper>
       </body>
     </html>
   );
