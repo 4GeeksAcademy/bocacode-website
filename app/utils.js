@@ -1,9 +1,14 @@
-import { sendGTMEvent } from '@next/third-parties/google'
+// export const separateCurrencySymbols = (mount) => {
+//   const currency = [];
+//   const notCurrency = [];
+//   const symbols = ["$", "~", "*", "€"];
+//   const ids = ["USD", "CLP", "COP"];
 
-export const tagManager = (eventName, payload = {}) => {
-  if (typeof dataLayer != "undefined") {
-    sendGTMEvent({ event: eventName, ...payload });
-    console.log("Event successfully triggered: " + eventName);
-  } else
-    console.log("TagManager:dataLayer not found to trigger event " + eventName);
-}
+//   for (const char of mount) {
+//     if (char in symbols) {
+//       currency.push(char);
+//     } else {
+//       notCurrency.push(caracter);
+//     }
+//   }
+// };

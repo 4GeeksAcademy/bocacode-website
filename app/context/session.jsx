@@ -3,7 +3,9 @@ import { createContext, useContext, useState, useEffect } from "react";
 import { useSearchParams } from 'next/navigation';
 
 const defaultSession = {
-  course_type: "Part-Time",
+  course_type: 'Part-Time',
+  location: 'downtown-miami',
+  language: 'en',
   email: null,
   utm: {
     gclid: undefined,
@@ -28,7 +30,11 @@ export const SessionWrapper = ({ children }) => {
     const storedSession = JSON.parse(localStorage.getItem('session'));
 
     const utmKeys = Object.keys(defaultSession.utm);
-    const utmValues = {};
+    const utmValues = {
+      utm_medium: 'website',
+      utm_source: 'boca-code',
+      utm_url: window.location.href,
+    };
     
     for (const key of utmKeys) {
       const param = searchParams.get(key);

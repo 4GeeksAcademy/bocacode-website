@@ -47,6 +47,10 @@ td {
   border: none;
 }
 
+.cursor-pointer {
+  cursor: pointer;
+}
+
 .image-brightness {
   cursor: pointer;
 
@@ -95,6 +99,15 @@ td {
 .bg-light-gray {
   background-color: #f4f4f5;
 }
+
+.bg-light-red {
+  background-color: #ffcdc9;
+}
+
+.bg-light-green {
+  background-color: #90EE90	;
+}
+
 
 .bg-royalblue {
   background-color: rgb(79, 70, 229);
@@ -490,6 +503,10 @@ td {
   color: #f43f5e;
 }
 
+.color-red {
+  color: #e11d48;
+}
+
 .color-gray {
   color: #71717a;
 }
@@ -508,6 +525,10 @@ td {
 
 .color-black {
   color: black;
+}
+
+.color-danger {
+  color: #df1b1b;
 }
 
 /* PADDING & MARGIN & GAP */
@@ -612,6 +633,10 @@ td {
 .my-32 {
   margin-top: 32px;
   margin-bottom: 32px;
+}
+
+.mt-5 {
+  margin-top: 5px;
 }
 
 .mt-16 {

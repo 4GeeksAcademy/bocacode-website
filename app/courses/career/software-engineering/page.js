@@ -3,7 +3,7 @@ import { React, useEffect, useState } from 'react';
 import Image from 'next/image';
 import styles from '../../../page.module.css';
 import PageHeader from '@/app/components/PageHeader/page';
-import UpcomingDates from '@/app/components/UpcomingDates/page';
+import UpcomingDates from '@/app/components/UpcomingDates';
 import Link from 'next/link';
 import data from '../../../data/software-engineering.json';
 import TwoColumns from '@/app/components/TwoColumns/page';
