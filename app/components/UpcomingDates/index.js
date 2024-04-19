@@ -16,7 +16,7 @@ const UpcomingDates = ({ heading }) => {
       //production host hardcoded so it can work on dev and the previews
       const host = 'https://breathecode.herokuapp.com';
       const resp = await fetch(
-        `${host}/v1/admissions/cohort/all?location=downtown-miami&upcoming=true&never_ends=false&sort=kickoff_date&limit=100`
+        `${host}/v1/admissions/cohort/all?location=downtown-miami&syllabus_slug_like=full-stack-ft&upcoming=true&never_ends=false&sort=kickoff_date&limit=100`
       );
       const { results } = await resp.json();
       setCourses(results);

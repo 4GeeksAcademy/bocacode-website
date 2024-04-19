@@ -1,6 +1,5 @@
 'use client';
-import { React, useEffect, useState } from 'react';
-import Image from 'next/image';
+import { React } from 'react';
 import styles from './page.module.css';
 import PageHeader from './components/PageHeader/page';
 import TitleContainer from './components/TitleContainer/page';
