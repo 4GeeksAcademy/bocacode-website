@@ -17,7 +17,7 @@ const SoftwareEngineering = () => {
     <main className={styles.main}>
       <PageHeader data={data?.header} />
 
-      <UpcomingDates data={data?.upcoming_dates} />
+      <UpcomingDates />
 
       {/* <div className="bg-darkblue py-50 ">
         <div className='row justify-beetwen maxwidth-1366 m-auto'>

@@ -1,14 +1,29 @@
-// export const separateCurrencySymbols = (mount) => {
-//   const currency = [];
-//   const notCurrency = [];
-//   const symbols = ["$", "~", "*", "€"];
-//   const ids = ["USD", "CLP", "COP"];
+export const formatDate = (dateStr) => {
+  // Parse the date string into a Date object
+  const dateObj = new Date(dateStr);
 
-//   for (const char of mount) {
-//     if (char in symbols) {
-//       currency.push(char);
-//     } else {
-//       notCurrency.push(caracter);
-//     }
-//   }
-// };
+  // Create an array of month names
+  const monthNames = [
+    'Jan.',
+    'Feb.',
+    'Mar.',
+    'Apr.',
+    'May',
+    'Jun.',
+    'Jul.',
+    'Aug.',
+    'Sep.',
+    'Oct.',
+    'Nov.',
+    'Dec.',
+  ];
+
+  // Get the month and day from the Date object
+  const monthIndex = dateObj.getMonth();
+  const day = dateObj.getDate();
+
+  // Format the date as desired
+  const formattedDate = `${monthNames[monthIndex]} ${day}`;
+
+  return formattedDate;
+}

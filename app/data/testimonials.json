@@ -1,35 +1,35 @@
 {
-    "heading":"Testimonials from our former students",
-    "testimonials": [
-        {
-            "title": "…one of the best coding schools out there. You are learning from… top tier Software engineers.",
-            "image_profile": "/images/testimonials/kevin-choi.jpg",
-            "name": "- Kevin Choi"
-        },
-        {
-            "title": "The skills the students come out knowing are incredible.",
-            "image_profile": "/images/testimonials/cassandra-curcio.jpg",
-            "name": "- Cassandra Curcio"
-        },
-        {
-            "title": "Boca Code sets the bar for coding bootcamps.",
-            "image_profile": "/images/testimonials/zach-larson.jpg",
-            "name": "- Zachary Larson"
-        },
-        {
-            "title": "I learned more in the first 7 days than in the first 3 years of my degree program",
-            "image_profile": "/images/testimonials/clinton-bellingar.jpg ",
-            "name": "- Skar Bellingar"
-        },
-        {
-            "title": "They really cared if we were understanding",
-            "image_profile": "/images/testimonials/rebecca-bakels.jpg",
-            "name": "- Rebecca Bakels"
-        },
-        {
-            "title": "If you are serious about trying to learn how to code, come here.",
-            "image_profile": "/images/testimonials/jarue-johnson.jpg",
-            "name": "- Jarue Johnson"
-        }
-    ]
+  "heading": "Testimonials from our former students",
+  "testimonials": [
+    {
+      "title": "…one of the best coding schools out there. You are learning from… top tier Software engineers.",
+      "image_profile": "/images/testimonials/kevin-choi.jpg",
+      "name": "- Kevin Choi"
+    },
+    {
+      "title": "The skills the students come out knowing are incredible.",
+      "image_profile": "/images/testimonials/cassandra-curcio.jpg",
+      "name": "- Cassandra Curcio"
+    },
+    {
+      "title": "Boca Code sets the bar for coding bootcamps.",
+      "image_profile": "/images/testimonials/zach-larson.jpg",
+      "name": "- Zachary Larson"
+    },
+    {
+      "title": "I learned more in the first 7 days than in the first 3 years of my degree program",
+      "image_profile": "/images/testimonials/clinton-bellingar.jpg ",
+      "name": "- Skar Bellingar"
+    },
+    {
+      "title": "They really cared if we were understanding",
+      "image_profile": "/images/testimonials/rebecca-bakels.jpg",
+      "name": "- Rebecca Bakels"
+    },
+    {
+      "title": "If you are serious about trying to learn how to code, come here.",
+      "image_profile": "/images/testimonials/jarue-johnson.jpg",
+      "name": "- Jarue Johnson"
+    }
+  ]
 }

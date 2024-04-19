@@ -83,7 +83,7 @@ const Contact = () => {
           </ul>
         </div>
 
-        <div className="w-50 w-100-tablet border-v4 rounded-16 p-32 ">
+        <div id="apply" className="w-50 w-100-tablet border-v4 rounded-16 p-32 ">
           <p className="fs-16 lh-24 fw-400 color-darkblue pb-16">
             {form.motivation}
           </p>
@@ -238,7 +238,7 @@ const Contact = () => {
           {call?.number}
         </h1>
       </div>
-      <UpcomingDates heading={data.upcoming_courses}/>
+      <UpcomingDates />
     </main>
   );
 };
