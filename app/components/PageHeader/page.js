@@ -59,7 +59,7 @@ const PageHeader = ({ children, backgroundImage, data }) => {
                     {data?.button_1.button_text}
                   </div>
                 </Link>
-                {data?.button_2 && (
+                {/* {data?.button_2 && (
                   <Link href={data?.button_2.button_link}>
                     <div
                       style={{
@@ -70,7 +70,7 @@ const PageHeader = ({ children, backgroundImage, data }) => {
                       {data?.button_2.button_text}
                     </div>
                   </Link>
-                )}
+                )} */}
               </div>
             )}
           </div>

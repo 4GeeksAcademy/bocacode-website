@@ -24,31 +24,6 @@
       "button_textcolor": "white"
     }
   },
-  "upcoming_dates": {
-    "title_container": {
-      "heading": "Upcoming Courses",
-      "paragraph": ""
-    },
-    "fields": ["COURSE", "START DATE", "GRADUATION", "APPLY"],
-    "date_info": [
-      {
-        "course": {
-          "title": "Software Engineering Career Track",
-          "modality": "in-person"
-        },
-        "start_date": {
-          "date": "Jan. 22"
-        },
-        "graduation": {
-          "date": "Mar. 29"
-        },
-        "apply": {
-          "text": "Apply",
-          "link": "/contact"
-        }
-      }
-    ]
-  },
   "band": {
     "heading": "Enroll by Friday, Dec. 31st",
     "paragraph": "Early Admissions — Save $4000",

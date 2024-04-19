@@ -3,7 +3,7 @@ import { React, useEffect, useState } from 'react';
 import Image from 'next/image';
 import styles from '../../../page.module.css';
 import PageHeader from '@/app/components/PageHeader/page';
-import UpcomingDates from '@/app/components/UpcomingDates/page';
+import UpcomingDates from '@/app/components/UpcomingDates';
 import Link from 'next/link';
 import data from '../../../data/software-engineering.json';
 import TwoColumns from '@/app/components/TwoColumns/page';
@@ -17,7 +17,7 @@ const SoftwareEngineering = () => {
     <main className={styles.main}>
       <PageHeader data={data?.header} />
 
-      <UpcomingDates data={data?.upcoming_dates} />
+      <UpcomingDates />
 
       {/* <div className="bg-darkblue py-50 ">
         <div className='row justify-beetwen maxwidth-1366 m-auto'>

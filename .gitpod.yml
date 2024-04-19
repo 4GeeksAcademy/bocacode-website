@@ -5,7 +5,9 @@
 # Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
 
 tasks:
-  - init: npm install && npm run build
-    command: npm run start
+  - init:
+      (cp -n .env.example .env.development || true) && 
+      npm install && npm run build
+    command: npm run dev
 
 
