@@ -5,6 +5,7 @@ import * as Yup from 'yup';
 import data from '../data/contact.json';
 import { useSession } from '../context/session';
 import UpcomingDates from '../components/UpcomingDates';
+import Testimonials from '../components/Testimonials/page';
 import { apply } from '../actions';
 import '../styles/contact.css';
 
@@ -239,6 +240,7 @@ const Contact = () => {
         </h1>
       </div>
       <UpcomingDates />
+      <Testimonials />
     </main>
   );
 };

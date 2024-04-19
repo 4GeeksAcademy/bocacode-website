@@ -14,8 +14,7 @@ import 'slick-carousel/slick/slick-theme.css';
 const Testimonials = () => {
   const sliderRef = useRef();
 
-  const CustomNextArrow = (props) => {
-    const { className, style, onClick } = props;
+  const CustomNextArrow = () => {
     return (
       <div>
         <button
@@ -27,8 +26,7 @@ const Testimonials = () => {
       </div>
     );
   };
-  const CustomPrevArrow = (props) => {
-    const { className, style, onClick } = props;
+  const CustomPrevArrow = () => {
     return (
       <div>
         <button
@@ -92,8 +90,8 @@ const Testimonials = () => {
           </div>
         </div>
         <Slider {...settings} ref={sliderRef}>
-          {data?.testimonials.map((testimonial, index) => (
-            <div className="testimonial-card bg-white p-48 gap-16" key={index}>
+          {data?.testimonials.map((testimonial) => (
+            <div className="testimonial-card bg-white p-48 gap-16" key={testimonial?.name}>
               <div className="row ">
                 <Icon icon="star" />
                 <Icon icon="star" />
