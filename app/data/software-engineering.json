@@ -18,7 +18,7 @@
     "background_image": "/images/veronie-wide.jpg",
     "image": "",
     "button_1": {
-      "button_text": "Find a Course",
+      "button_text": "Get more information",
       "button_link": "/contact",
       "button_color": "#E11D48",
       "button_textcolor": "white"

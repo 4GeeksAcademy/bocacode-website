@@ -4,6 +4,5 @@
 @media (min-width: 1900px) {
   .contact-container {
     padding-top: 115px;
-    height: calc(100vh - 173px);
   }
 }
