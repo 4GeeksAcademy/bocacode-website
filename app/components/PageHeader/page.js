@@ -1,8 +1,6 @@
 'use client';
-import Image from 'next/image';
 import '../../styles/pageheader.css';
 import Link from 'next/link';
-import TwoColumns from '../TwoColumns/page';
 
 const PageHeader = ({ children, backgroundImage, data }) => {
   // const { heading, sub_heading, content, button_1, button_2 } = data;
@@ -10,7 +8,7 @@ const PageHeader = ({ children, backgroundImage, data }) => {
   return (
     <>
       <section
-        className="pageheader-container "
+        className="pageheader-container"
         style={{
           backgroundImage: `url(${data?.background_image})`,
           backgroundPosition: 'top',
