@@ -3505,6 +3505,798 @@
           "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Frichardk_resume_2022.pdf?alt=media"
         }
       ]
+    },
+    {
+      "profileImage": "/images/alumni/christian-klein.jpg",
+      "title": "Christian Klein",
+      "content": "Playwire",
+      "slug": "christian-klein",
+      "description": "Christian is a talented and strong developer and is often the first to solve difficult challenges. You would never know from his laid-back and casual demeaner. He's a definite team player (except on the golf course!).",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/ChristianJWKlein" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/christian-klein-a72b72151/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fklein_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://golf-right-1.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/malibu-charles.jpg",
+      "title": "Malibu Charles",
+      "content": "Target",
+      "slug": "malibu-charles",
+      "description": "Malibu is 100% her own person. She has charisma and drive and loves the color pink. She focuses on a goal and goes after it. She has expensive taste and loves to travel.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/MalibuCharles" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/malibu-charles-946428231/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fcharles_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://gift-finder-mc.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/jeremiah-newman.jpg",
+      "title": "Jeremiah Newman",
+      "content": "Levatas",
+      "slug": "jeremiah-newman",
+      "description": "Jeremiah loves learning, thinking, graphic design, and tends to think in slide decks. He is pursuing software engineering to be able to build and lead a team of developers to build software to solve problems he is passionate about.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/codesonwater" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/jeremiah-newman-4690bb65/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fnewman_resume_2022.pdf?alt=media"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/zhuopu-zhou.jpg",
+      "title": "Zhuopu Zhou",
+      "content": "City Furniture",
+      "slug": "zhuopu-zhou",
+      "description": "Zhuopu has a quiet and calm demeanor, but is a passionate developer and team player. He has risen to become a leader in the course with a strong background in computer science. Zhuopu is also an avid cyclist.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/zhuopu-zhou" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/zhuopu/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fzhou_resume_2022.pdf?alt=media"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/danielle-kom.jpg",
+      "title": "Danielle Kom",
+      "content": "Flossy",
+      "slug": "danielle-kom",
+      "description": "Danielle is an enterpreneur and thought leader, deeply passionate about healing the world and tackling problems around social health. She is pursuing software development so she can engineer solutions to these problems.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/daniellekom" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/danielle-kom-70a5485b/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fkom_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://walky-ideas.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/peter-lewandowski.jpg",
+      "title": "Peter Lewandowski",
+      "content": "Modernizing Medicine",
+      "slug": "peter-lewandowski",
+      "description": "Peter comes from a successful career in finance and is now launching what will most certainly be even more successful. Peter's strong work ethic and intelligence is a powerful combination.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/peterlewandowski" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/peterlewandowski2010/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Flewandowski_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://easyfi.me/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/farrukh-karimov.jpg",
+      "title": "Farrukh Karimov",
+      "content": "SMArtX",
+      "slug": "farrukh-karimov",
+      "description": "Farrukh has several years experience as a frontend developer and is now a powerful software engineer. He was a leader in our class and his classmates regularly turned to him for guidance. He's passionate about music and teaching.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/fkarimov4" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/farrukhkarimov/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fkarimov_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://jobify.one/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/megan-martel.jpg",
+      "title": "Megan Martel",
+      "content": "Glades Talent",
+      "slug": "megan-martel",
+      "description": "Megan is incredibly intelligent, has a strong work ethic, and is a great team player. She's also hilarious. Megan loves to travel, ski, and golf, and excels at everything she does.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/mmartel13" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/megan-martel/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fmartel_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://travel-genie-mm.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/brian-serein.jpg",
+      "title": "Brian Serein",
+      "content": "Telepreformance",
+      "slug": "brian-serein",
+      "description": "Brian is a strong engineer with the skills to solve challenging problems. His attitude is fantastic and he is not easily phased. Brian can play well on any team.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/bserein" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/brian-serein/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fserein_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://carhopper.net/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/ashley-dennis.jpg",
+      "title": "Ashley Dennis",
+      "content": "Health Karma",
+      "slug": "ashley-dennis",
+      "description": "Ashley is a vibe. She works hard, but remains calm under pressure and keeps those around her calm. She loves eating out, but has to find a spot with the right vibe. This is someone that can fit well on any team!",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/AshleyDennisDev" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/ashley-dennis-45a371108/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fdennis_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "http://brunch-vibes.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/alex-martinez.jpg",
+      "title": "J Alexander Martinez",
+      "content": "Learn More",
+      "slug": "alex-martinez",
+      "description": "Alex comes to Boca Code from many years working in the restaurant and hospitality industry, which is perhaps why he's so friendly. And he has turned his attention to detail into a clear talent for coding. He is a competitive gamer and car enthusiast.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/JAlexMartinez13" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/j-alexander-martinez-1a7942228/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fmartinez_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://shift-talk-v2.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/aurelie-gedeon.jpg",
+      "title": "J Alexander Martinez",
+      "content": "Two Fish",
+      "slug": "aurelie-gedeon",
+      "description": "Aurelie is super-smart and an incredibly fast learner. She's a team player and loves working with others. She's kind and also has a passion for plants.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/AurelieGedeon" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/aurelie-gedeon-a216b111a/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fgedeon_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://plant-baby-ag.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/deyvin-cano.jpg",
+      "title": "Deyvin Cano",
+      "content": "Banyan Air Service",
+      "slug": "deyvin-cano",
+      "description": "Deyvin is a natural coder. He came to us with little prior experience and quickly rose to one of the strongest in the class. He is also passionate about soccer and working out.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/DeyvinC" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/deyvin-cano-velasquez-b463a122b/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fcanovelasquez_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://gym-project-dc.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/diana-marcelin.jpg",
+      "title": "Diana Marcelin",
+      "content": "Manit",
+      "slug": "diana-marcelin",
+      "description": "We refer to Diana as a hidden coding ninja because she silently rose up from no prior experience to be one of our strongest coders. She also loves cooking. Sometimes.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/marcelindia" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/diana-marcelin95/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fmarcelin_resume_2022.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://lets-eat-71558.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/jonah-allen.jpg",
+      "title": "Jonah Allen",
+      "content": "Best Buy",
+      "slug": "jonah-allen",
+      "description": "Jonah is a successful social-media and video-blogger. He built an Android app in high school that has over a quarter-million users. He's a talented designer with passion for gaming and space.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/jbro129" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/jonahsallen/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fjallen_resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://jonah-portfolio.web.app/"
+        },
+        {
+          "icone": "chain",
+          "link": "https://tmanager-web.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/zach-larson.jpg",
+      "title": "Zachary Larson",
+      "content": "Talentify",
+      "slug": "zach-larson",
+      "description": "Zach has an MBA in SCM and Marketing. He recently led the TA strategy for G4S, a security company with over 50k US FTEs. Prior to G4S, Zach was an operations leader with Amazon at their largest bulk floor site. Zach is ready to leverage software engineering and PM to make an impact.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/zvlarson" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/zachary-larson-mba/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Flarson-resume-2021.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://react-blog-zl.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/val-leserra.jpg",
+      "title": "Valerie Leserra",
+      "content": "Learn More",
+      "slug": "valerie-leserra",
+      "description": "Val came to Boca Code from MyPhoto where she worked in customer service and helped manage their social media. She also manages AirBnb properties and has done volunteer work for sport, music, and art events. She is passionate about music and is an avid yoga practitioner.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/valerieleserra" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/valerie-leserra-078751b1/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fleserra-resume-2021.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://music-house-app-vl.web.app/home"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/luiz-silva.jpg",
+      "title": "Luiz Silva",
+      "content": "Sales",
+      "slug": "luiz-silva",
+      "description": "Luiz is one of our Microsoft Scholarship winners. He loves fitness, sports, and photography and loves applying these to social media. Before Boca Code, he worked at a law firm and in after-school counseling. He has experience in public speaking, leadership development, and volunteer work.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/LSilva30" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/luiz-silva-58a775219/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FLuiz-Silva-Resume-2021.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "http://final-project-ls.s3-website.us-east-2.amazonaws.com/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/dan-boudet.jpg",
+      "title": "Dan Boudet",
+      "content": "SMArtX",
+      "slug": "dan-boudet",
+      "description": "Dan came to Boca Code with a wealth of knowledge in website design, security, SEO, and data analytics. He is no stranger to working for enterprise companies and for non-profits having worked for 7 years in marketing for the Palm Beach Post and 8 years managing palmbeachculture.com.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/dboudet" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/danboudet/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fboudet-resume-aug2021.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://danboudet.com/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/chris-deleon.jpg",
+      "title": "Chris De Leon",
+      "content": "UpRecruit",
+      "slug": "chris-deleon",
+      "description": "Chris is one of our Microsoft scholarship winners and is one of the coolest mobile developers you'll meet. He has a degree in Psychology and Marketing, loves working out, cool cars, and the beach. Before Boca Code, he worked in Marketing, Leasing, and iOS development.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/chrisdeleonn" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/chrisdeleonn/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FChris_DeLeon_Resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://chrisdeleonn.com/"
+        },
+        {
+          "icone": "chain",
+          "link": "http://awesome-project-cdl.s3-website-us-east-1.amazonaws.com/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/emily-morgenbesser.jpg",
+      "title": "Emily Morgenbesser",
+      "content": "SMArtX",
+      "slug": "emily-morgenbesser",
+      "description": "Emily has a wide range of talents, from solving math and algorithm problems, designing her own line of eco-friendly athletic and swim-wear, to coaching and playing tennis. She has a background in Finance and loves fashion and the latest trends almost as much as she loves data and algorithms.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/emmilyyy111" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/emily-morgenbesser-b534a3173/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fmorgenbesser-resume-2021.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "http://inspome-app.s3-website-us-east-1.amazonaws.com/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/matthew-mckney.jpg",
+      "title": "Matthew McKney",
+      "content": "SMArtX",
+      "slug": "matthew-mckney",
+      "description": "Matt is like a zen master reborn. He is always optimistic, helpful, friendly, and he absorbs new information as fast as you can present it. He is a natural problem solver, has a Full-stack Network Associate certificate and is an avid athlete and gamer.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/Mrmckney" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/matthew-mckney-205423217/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FMcKney-Resume-2021.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "http://video-game-finder-mm.s3-website.us-east-2.amazonaws.com/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/dariel-mera.jpg",
+      "title": "Dariel Mera",
+      "content": "Learn More",
+      "slug": "dariel-mera",
+      "description": "Dariel is a man of many talents. He is a Latin Urban Music Artist, Video and Music Producer, Wedding Photographer, and has even worked as a concierge. He has a degree in MIS and has several years of prior development experience.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/DarielMera" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/dariel-mera-b6454057/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fmera_resume_2021.pdf?alt=media"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/juan-yepes.jpg",
+      "title": "Juan Yepes",
+      "content": "City Furniture",
+      "slug": "juan-yepes",
+      "description": "Juan is a big fan of difficult coding challenges, always challenging his classmates and instructors with the hardest puzzles he can find. He has a degree in IT, and continued pursuing his education at Boca Code to hone and master his skills.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/yepesJuan" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/juanfyepes/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fyepes_resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "portfolio",
+          "link": "https://portfolio-jy.web.app/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://eventify-ui.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/sebas-anty.jpg",
+      "title": "Sebastien \"Sebas\" Anty",
+      "content": "Synchronized Technologies",
+      "slug": "sebas-anty",
+      "description": "Sebastien (or \"Sebas\") is one of our youngest students. He came in with no previous coding experience, yet easily kept up with those that already had degrees. His passion for coding and light-hearted nature make him a joy to work with.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/SebastienAnty" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/sebastienanty/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fanty_resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://soclgaming.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/diana-tineo.jpg",
+      "title": "Diana Tineo",
+      "content": "Playwire",
+      "slug": "diana-tineo",
+      "description": "Diana is a natural leader. Her sharp wit and demeanor will be valuable in any workplace. She is quick to solve problems and a gifted communicator. At her first hackathon, her team placed first with her project idea and leadership.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/Dianase" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/diana-web-dev/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Ftineo_resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://xplore-dt.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/manny-toribio.jpg",
+      "title": "Manny Toribio",
+      "content": "SMArtX",
+      "slug": "manny-toribio",
+      "description": "Not only is Manny one of the most enthusiastic learners, but he is also a joy to work with. His passion for and knowledge of web 3.0 (smart contracts, NFTs, etc.) is second to none. He has brilliant ideas and a fantastic ethic and attitude.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/mannytoribio" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/manuel-toribio-7bb261165/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Ftoribio_resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://mind-your-money-webapp.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/alina-maliuk.jpg",
+      "title": "Alina Maliuk",
+      "content": "Team In UA",
+      "slug": "alina-maliuk",
+      "description": "Formerly an entrepreneur with a degree in Management, Alina has certainly earned the Engineer the Change Scholarship she was awarded. Always the best-prepared, she never let her lack of coding experience slow her down.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/maliukalina" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/alina-maliuk/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fmaliuk_resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://besttravelfoodie.com/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/adrian-perdomo.jpg",
+      "title": "Adrian Perdomo",
+      "content": "City Furniture",
+      "slug": "adrian-perdomo",
+      "description": "Adrian is an EMT, has worked in medical data and medical finance as well as IT at a medical school. He loves art, cooking, baking, medical applications of technology, nanotechnology, automation, AI, and hopes to improve lives through his work.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/aperdomoll90" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/adrian-perdomo-12997474/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fperdomo_resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "profile",
+          "link": "https://adrian-perdomo-portfolio.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/nikki-allen.jpg",
+      "title": "Nicole Allen",
+      "content": "SMArtX",
+      "slug": "nicole-allen",
+      "description": "Nikki has an extensive background in finance, production management, and customer service. She's looking to work on meaningful projects or to work with a company making a positive impact.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/nicole-allen679" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/nicole-allen-37736b20b/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fnallen_resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "profile",
+          "link": "https://na-portfolio.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/kevin-choi.jpg",
+      "title": "Kevin Choi",
+      "content": "Total Wine",
+      "slug": "kevin-choi",
+      "description": "Kevin has a degree in Hotel Management, worked at the Four Seasons, ran his own clothing import/export business for many years, and is the co-founder of resources.co. He's passionate about Ed-Tech, Crypto, and business.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/kevinyc-dri" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/kevinyc/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fchoi_resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "profile",
+          "link": "https://kevinchoi.com/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/jarue-johnson.jpg",
+      "title": "Jarue Johnson",
+      "content": "Torticity",
+      "slug": "jarue-johnson",
+      "description": "Jarue is one of our scholarship winners, has a degree in Cyber Security, has worked extensively in tech as a developer, manager, and ran a media agency. He's passionate about music, drones, and much more.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/jaRue1" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/jarue-johnson-9a08241ab/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Fjohnson_resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "profile",
+          "link": "https://jaruejohnson.com/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/vitoria-roas.jpg",
+      "title": "Vitoria Roas",
+      "content": "JM Family",
+      "slug": "vitoria-roas",
+      "description": "Vitoria is one of our scholarship winners, has a degree in Neuroscience and is a certified Medical Administrative Assistant. She's passionate about AI, Genetics, the environment, and science in general.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/vitoriaroas" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/vitoria-roas-9b542618a/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2Froas_resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "profile",
+          "link": "https://meditation-app-vr.web.app/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/bobby-langley.jpg",
+      "title": "Bobby Langley",
+      "content": "GRUBBRR",
+      "slug": "bobby-langley",
+      "description": "Bobby is equally comfortable with frontend and backend development. A degree in Environmental Studies, laid-back personality, and passion for research make him an ideal candidate anywhere.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/Bobby-Langley" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/bobby-langley/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FLangley_Resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "profile",
+          "link": "https://bobbysfinalproject.com/"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/clinton-bellingar.jpg",
+      "title": "Clinton \"Skar\" Bellingar",
+      "content": "GRUBBRR",
+      "slug": "clinton-bellingar",
+      "description": "Skar is a Computer Science geek! He's passionate about AI and research. Before Boca Code, he was already a Python maven. Now he's a real threat with Node, React, Electron, Database design, API, Mobile, and more!",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/bellingarc" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/skarzold-bellingar-30b526208/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FBellingar_Resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "profile",
+          "link": "https://github.com/bellingarc/code-companion"
+        }
+      ]
+    },
+    {
+      "profileImage": "/images/alumni/dennis-shea.jpg",
+      "title": "Dennis G. Shea, Ph.D.",
+      "content": "IBM Research Alum",
+      "slug": "dennis-shea",
+      "description": "Dennis began his career at IBM Boca and been a contributor to the tech scene for years, holding over a dozen patents and now skilling up on the latest web development tech. Excited to continue to lead cutting-edge development efforts.",
+      "links_in_description": [
+        { "icone": "github", "link": "https://github.com/DennisGShea" },
+        {
+          "icone": "linkedin",
+          "link": "https://www.linkedin.com/in/dennisgsheaphd/"
+        },
+        {
+          "icone": "pdf",
+          "link": "https://firebasestorage.googleapis.com/v0/b/bocacode-fb.appspot.com/o/candidates%2Fresumes%2FShea_Resume_2021.pdf?alt=media"
+        },
+        {
+          "icone": "chain",
+          "link": "https://swoosh-web-dgs.web.app/"
+        }
+      ]
     }
   ]
 }
