@@ -1,5 +1,6 @@
 'use client';
-import React, { useState } from 'react';
+import React, { useState, useRef } from 'react';
+import ReCAPTCHA from "react-google-recaptcha";
 import { Form, Formik, Field } from 'formik';
 import * as Yup from 'yup';
 import data from '../data/contact.json';
@@ -10,6 +11,8 @@ import { apply } from '../actions';
 
 const Contact = () => {
   const { session } = useSession();
+  const captcha = useRef(null);
+  const [captchaToken, setCaptchaToken] = useState(null);
   const [formStatus, setFormStatus] = useState({
     status: '',
     msg: '',
@@ -41,7 +44,7 @@ const Contact = () => {
         msg: '',
       });
       actions.setSubmitting(true);
-      const data = await apply(values, session);
+      const data = await apply({ ...values, token: captchaToken }, session);
       if (typeof data.error !== 'undefined') {
         setFormStatus({ status: 'error', msg: 'Fix errors' });
       } else {
@@ -49,14 +52,25 @@ const Contact = () => {
       }
       actions.setSubmitting(false);
     } catch (e) {
-      console.log(e);
       actions.setSubmitting(false);
       setFormStatus({
         status: 'error',
-        msg: error.message || error,
+        msg: e?.message || e,
       });
     }
   };
+
+  const captchaChange = () => {
+    const captchaValue = captcha?.current?.getValue();
+    if (captchaValue)
+      setCaptchaToken(captchaValue);
+    else setCaptchaToken(null);
+  };
+
+  React.useEffect(() => {
+    console.log('captchaToken');
+    console.log(captchaToken);
+  }, [captchaToken]);
 
   return (
     <main className="contact-container">
@@ -87,7 +101,7 @@ const Contact = () => {
 
         <div
           id="apply"
-          className="w-50 w-100-tablet border-v4 rounded-16 p-32"
+          className="w-50 w-100-tablet border-v4 rounded-16 p-32 mobile-p10"
         >
           <p className="fs-16 lh-24 fw-400 color-darkblue pb-16">
             {form.motivation}
@@ -215,12 +229,11 @@ const Contact = () => {
                       )}
                     </Field>
                   </div>
-                  <div>
-                    <input
-                      className="button-red w-100 justify-center fw-500 fs-16 lh-24 cursor-pointer"
-                      type="submit"
-                      value={form.button.text}
-                      disabled={isSubmitting}
+                  <div style={{ width: 'fit-content', margin: 'auto' }}>
+                    <ReCAPTCHA
+                      ref={captcha}
+                      sitekey={process.env.CAPTCHA_KEY}
+                      onChange={captchaChange}
                     />
                   </div>
                   {formStatus.status === 'error' && (
@@ -228,6 +241,15 @@ const Contact = () => {
                       {formStatus.msg}
                     </div>
                   )}
+                  <div>
+                    <input
+                      className="button-red w-100 justify-center fw-500 fs-16 lh-24 cursor-pointer"
+                      type="submit"
+                      value={form.button.text}
+                      style={{ background: !captchaToken && 'gray' }}
+                      disabled={isSubmitting || !captchaToken}
+                    />
+                  </div>
 
                   <p className="fs-14 fw-400 lh-20 color-gray">
                     {form.conditions}
