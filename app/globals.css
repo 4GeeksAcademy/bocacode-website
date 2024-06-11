@@ -548,6 +548,12 @@ td {
   padding: 32px;
 }
 
+@media only screen and (max-width: 500px) {
+  .mobile-p10 {
+    padding: 10px;
+  }
+}
+
 .p-48 {
   padding: 48px;
 }

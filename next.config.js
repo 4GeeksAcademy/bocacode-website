@@ -14,15 +14,18 @@ const nextConfig = {
     // Will only be available on the server side
     TAG_MANAGER_KEY: process.env.TAG_MANAGER_KEY,
     BREATHECODE_HOST: process.env.BREATHECODE_HOST,
+    CAPTCHA_KEY: process.env.CAPTCHA_KEY,
   },
   publicRuntimeConfig: {
     // Will be available on both server and client
     TAG_MANAGER_KEY: process.env.TAG_MANAGER_KEY,
     BREATHECODE_HOST: process.env.BREATHECODE_HOST,
+    CAPTCHA_KEY: process.env.CAPTCHA_KEY,
   },
   env: {
     TAG_MANAGER_KEY: process.env.TAG_MANAGER_KEY,
     BREATHECODE_HOST: process.env.BREATHECODE_HOST,
+    CAPTCHA_KEY: process.env.CAPTCHA_KEY,
   },
 };
 
