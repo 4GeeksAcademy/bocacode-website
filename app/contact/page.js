@@ -12,7 +12,6 @@ import { apply } from '../actions';
 const Contact = () => {
   const { session } = useSession();
   const captcha = useRef(null);
-  const [captchaToken, setCaptchaToken] = useState(null);
   const [formStatus, setFormStatus] = useState({
     status: '',
     msg: '',
@@ -44,7 +43,8 @@ const Contact = () => {
         msg: '',
       });
       actions.setSubmitting(true);
-      const data = await apply({ ...values, token: captchaToken }, session);
+      const token = await captcha.current.executeAsync();
+      const data = await apply({ ...values, token }, session);
       if (typeof data.error !== 'undefined') {
         setFormStatus({ status: 'error', msg: 'Fix errors' });
       } else {
@@ -59,18 +59,6 @@ const Contact = () => {
       });
     }
   };
-
-  const captchaChange = () => {
-    const captchaValue = captcha?.current?.getValue();
-    if (captchaValue)
-      setCaptchaToken(captchaValue);
-    else setCaptchaToken(null);
-  };
-
-  React.useEffect(() => {
-    console.log('captchaToken');
-    console.log(captchaToken);
-  }, [captchaToken]);
 
   return (
     <main className="contact-container">
@@ -233,7 +221,7 @@ const Contact = () => {
                     <ReCAPTCHA
                       ref={captcha}
                       sitekey={process.env.CAPTCHA_KEY}
-                      onChange={captchaChange}
+                      size="invisible"
                     />
                   </div>
                   {formStatus.status === 'error' && (
@@ -246,8 +234,7 @@ const Contact = () => {
                       className="button-red w-100 justify-center fw-500 fs-16 lh-24 cursor-pointer"
                       type="submit"
                       value={form.button.text}
-                      style={{ background: !captchaToken && 'gray' }}
-                      disabled={isSubmitting || !captchaToken}
+                      disabled={isSubmitting}
                     />
                   </div>
 
